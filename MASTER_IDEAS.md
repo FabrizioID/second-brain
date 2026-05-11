@@ -1,142 +1,125 @@
-# MASTER_IDEAS — Motor de Inteligencia Cross-Proyecto
+# MASTER_IDEAS - Motor de Inteligencia Cross-Proyecto
 
-> Magnus debe leer este archivo al inicio de cada sesión.
-> Propósito: detectar conexiones, oportunidades y conflictos entre proyectos.
+> Leer este archivo al inicio de una sesion. No es la memoria completa: es el mapa de conexiones, riesgos y oportunidades entre proyectos.
 
----
+## Protocolo
 
-## PROTOCOLO DE MAGNUS
+1. Leer este archivo para detectar conexiones cross-proyecto.
+2. Abrir `inteligencia/_registry.md` para ubicar el proyecto activo.
+3. Leer `inteligencia/<proyecto>/threads/_index.md`.
+4. Seleccionar maximo 4 threads relevantes por tags.
+5. Leer `memory/` solo cuando haga falta validar hechos, decisiones, tensiones o criterios estables.
 
-**Al iniciar sesión:**
-1. Leer MASTER_IDEAS.md completo
-2. Mapear mentalmente: activos disponibles ↔ necesidades activas entre proyectos
-3. Si hay conexión evidente: mencionarla antes de que el usuario la pida
+## Regla De Separacion
 
-**Durante la sesión:**
-1. Ante cada decisión nueva: ejecutar scan contra variables de otros proyectos
-2. Si detecta tensión o incoherencia: avisar + leer el thread completo antes de continuar
-3. Si detecta oportunidad cross-proyecto: proponer la conexión con evidencia
+- `MASTER_IDEAS.md`: solo senales cross-proyecto.
+- `PROJECT.md`: identidad, proposito y variables principales de un proyecto.
+- `threads/*.md`: memoria de sesiones o eventos independientes.
+- `memory/*.md`: facts, decisions, tensions, variables y criterios estables.
+- `analysis/*.md`: fuentes textuales, extractos y entregables de apoyo.
 
-**Al cerrar sesión:**
-1. Evaluar si surgió algo nuevo con el filtro:
-   > "Si Magnus estuviera en otro proyecto y NO supiera esto, ¿tomaría una decisión peor o perdería una oportunidad real?"
-2. Si pasa el filtro: agregar a la sección correspondiente
-3. Si es operativo, efímero o solo útil dentro del proyecto: no guardar aquí
+## Proyectos Activos
 
-**Criterio adicional para ACTIVOS:**
-> ¿Esto es un recurso que tomó esfuerzo construir o tiene fecha de expiración?
+| Proyecto | Estado | Ruta | Ultima actualizacion | Lectura inicial |
+|---|---|---|---|---|
+| AI Construction Summit 2026 | activo | `inteligencia/ai-construction-summit-2026/` | 2026-05-11 | `threads/_index.md` + `memory/tensions.md` |
+| AECODE | activo - Fase 3 | `inteligencia/aecode/` | 2026-05-06 | `threads/_index.md` |
+| I Lanza Training | activo | `inteligencia/i-lanza-training/` | 2026-05-06 | `threads/_index.md` |
+| Tesis Juan Carlos Arteaga | activo | `inteligencia/tesis-juan-carlos-arteaga/` | 2026-05-06 | `threads/_index.md` |
 
----
+## AI Construction Summit 2026
 
-## PROYECTOS ACTIVOS
+**Estado:** activo  
+**Ruta:** `inteligencia/ai-construction-summit-2026/`
 
----
+### Variables Criticas
 
-## [PROYECTO: AI Construction Summit 2026]
-**Estado:** activo
-**Última actualización:** 2026-05-06
-**Path threads:** `Proyecto/inteligencia/ai-construction-summit-2026/`
+- El evento es el flywheel de AECODE: evento -> comunidad -> educacion -> autoridad -> sponsors -> expansion LATAM.
+- Sede CIP confirmada; ya no debe tratarse como bloqueo.
+- Sponsors siguen siendo variable critica: meta USD 15K-20K, avance real no cargado.
+- Precios de sponsors 2026 tienen contradiccion documental: memoria previa vs brochure nuevo. Validar antes de cotizar.
+- Web/landing/CRM/pasarela siguen como dependencia de conversion y tracking.
+- Agenda 2025 ya esta recuperada como baseline historico; agenda 2026 real aun requiere cierre con speakers confirmados.
+- El lenguaje que vende a audiencia AEC no es "IA/GPT/agentes"; es productividad, costos, obra, control, riesgo, clientes y ventaja competitiva.
 
-### VARIABLES
-- El evento tiene fecha crítica ~17 mayo 2026 — ventana de ejecución comprimida
-- Alejandro es el único decisor en presupuesto, sponsors, coordinación y backstage — cuello de botella humano; sus bloqueos afectan al menos 4 áreas simultáneamente
-- A5 (Web/landing) el 13 mayo desbloquea A6 + A7 + A2 en cadena — si falla, tres áreas se detienen juntas
-- El lenguaje que vende a la audiencia AEC NO es IA/GPT/agentes — es productividad, costos, obra, control, riesgo, ventaja competitiva
-- Meta sponsors USD 15K-20K aún incierta — sin sponsors el modelo financiero del evento no cierra
-- El Summit es conceptualmente el flywheel de AECODE: evento → comunidad → educación → autoridad → expansión LATAM
+### Activos
 
-### ACTIVOS
-- Sede CIP confirmada — activo institucional con credibilidad en el sector construcción
-- Estructura Notion operativa: 15 áreas, portal sync, sistema replicable para futuros eventos AECODE
-- Audiencia objetivo activa: 400–1,000 profesionales AEC (ingenieros, arquitectos, constructores) en LATAM — audiencia que costó esfuerzo construir y que tiene ventana temporal
-- Criterios de comunicación para audiencia AEC absorbidos y validados (ver AECODE)
+- Estructura Notion operativa con 15 areas, portal y sync local.
+- Brochure 2025 recuperado con agenda historica real.
+- Brochure sponsors 2026 recuperado como fuente comercial, con pendiente de reconciliacion de precios.
+- Ejes tematicos 2026 documentados como entregable academico gestionable.
+- Prueba social 2025: +40 speakers/panelistas, +350 asistentes y +20 colaboradores/sponsors.
 
-### NECESIDADES
-- Conversión leads → tickets (T3 crítica)
-- Landing publicada con pasarela Culqi y CRM reales
-- 3+ sponsors cerrados con brochure y propuesta de ROI
-- Datos reales de speakers y agenda reemplazando pruebas en Notion
-- Permisos legales, contratos y T&C cerrados antes del evento
+### Threads Clave
 
----
+- `2026-05-11-ingesta-brochures-2025-2026`: fuentes locales, agenda 2025 y brochure sponsors 2026.
+- `2026-04-29-notion-academico-ejes-tematicos`: ruta canon de Notion para contenidos academicos.
+- `2026-04-27-mensajeria-comercial-y-automatizacion`: criterio comercial para decisores no tecnicos y aprendizaje n8n.
+- `2026-04-24-arranque-post-migracion`: cruces inter-area y riesgos A1/A2/A5/A6/A7/A10.
 
-## [PROYECTO: AECODE]
-**Estado:** activo — Fase 3
-**Última actualización:** 2026-05-06
-**Path threads:** `inteligencia/aecode/`
+## AECODE
 
-### VARIABLES
-- Unidad central de producto en Fase 3 = la **Skill** (Ruta→Cluster→Skill→Cápsula)
-- Audiencia: profesionales AEC (misma audiencia del Summit) — formación técnica aplicada a desempeño laboral, no academia
-- Criterio inamovible de contenido: el hook no nombra la solución; la emoción nace del comportamiento que el espectador hace hoy, no de la consecuencia lejana
-- La audiencia AEC responde a lenguaje de obra, no a terminología de IA — verificar siempre que el término usado es el que la audiencia dice en su día a día
+**Estado:** activo - Fase 3  
+**Ruta:** `inteligencia/aecode/`
 
-### ACTIVOS
-- Arquitectura pedagógica completa y validada: Ruta→Cluster→Skill→Cápsula
-- 19+ criterios profundos de hooks/guiones para audiencia BIM/AEC — conocimiento de barreras de adopción específicas de esta audiencia que tomó múltiples sesiones construir
-- Capacidad de producir guiones/contenido que atraviesa la defensa perceptual del profesional AEC
+### Variables Criticas
 
-### NECESIDADES
-- Canal de distribución con audiencia AEC real → **el Summit 2026 es ese canal**
-- Validación de arquitectura de Skills con usuarios reales del sector
+- Unidad central de producto: Skill dentro de arquitectura Ruta -> Cluster -> Skill -> Capsula.
+- Audiencia compartida con el Summit: profesionales AEC que responden a lenguaje de obra, no a terminologia abstracta de IA.
+- El hook no nombra la solucion; activa una tension reconocible del comportamiento actual del espectador.
 
----
+### Activos
 
-## [PROYECTO: I Lanza Training]
-**Estado:** activo
-**Última actualización:** 2026-05-06
-**Path threads:** `inteligencia/i-lanza-training/`
+- Arquitectura pedagogica completa de skills.
+- Criterios de hooks y guiones para audiencia BIM/AEC.
+- Capacidad de convertir conocimiento tecnico en contenido que atraviesa resistencia perceptual.
 
-### VARIABLES
-- Cliente: empresa técnica EPC/HVAC/Fire Fighting — audiencia heterogénea (comerciales, ingenieros, coordinadores, gestores)
-- El entrenamiento solo funciona si evita sonar académico — debe ser aplicación empresarial directa desde el primer minuto
-- Lo que conecta con esta audiencia: reducir fricción en documentación, correos, reportes, pliegos, memorias técnicas y seguimiento de proyectos
+### Necesidades
 
-### ACTIVOS
-- Slides full-image con branding GEN+ (Sesión 02) — formato y criterio visual reutilizable para otros trainings
-- Kit operativo de 3 ejercicios (Gmail básico, Sheets+Gmail intermedio, NotebookLM+Gemini avanzado) — escalable a otros clientes similares
-- Flujo NotebookLM completo documentado
-- Criterio formalizado: la plantilla de presentación es marco de marca, no límite creativo — el storytelling y las dinámicas gobiernan la experiencia
+- Canal de distribucion con audiencia AEC real.
+- Validacion de arquitectura de Skills con usuarios del sector.
 
-### NECESIDADES
-- Confirmar si materiales Sesión 02 fueron subidos a Drive y entregados al cliente
-- Claridad sobre si Sesión 02 ya se ejecutó o está pendiente
+## I Lanza Training
 
----
+**Estado:** activo  
+**Ruta:** `inteligencia/i-lanza-training/`
 
-## [PROYECTO: Tesis Juan Carlos Arteaga]
-**Estado:** activo — en proceso
-**Última actualización:** 2026-05-06
-**Path threads:** `inteligencia/tesis-juan-carlos-arteaga/`
+### Activos
 
-### VARIABLES
-- Tema: reemplazo de H2SO4 por CO2 capturado mediante aminas para control de pH en Central Térmica de Ventanilla
-- Requiere APA7 estricto
-- Es trabajo de cliente — el estándar de entrega es académico formal
+- Slides full-image con branding GEN+.
+- Kit de ejercicios: Gmail, Sheets + Gmail, NotebookLM + Gemini.
+- Criterio validado: la plantilla es marco de marca, no limite creativo.
 
-### ACTIVOS
-- Documento base de tesis cargado y procesado
+### Necesidades
 
-### NECESIDADES
-- Verificación y validación de fuentes citadas
-- Estructura APA7 completa y consistente en todo el documento
+- Confirmar estado de entrega de materiales.
+- Confirmar si la sesion 02 ya se ejecuto o sigue pendiente.
 
----
+## Tesis Juan Carlos Arteaga
 
-## CONEXIONES DETECTADAS
+**Estado:** activo  
+**Ruta:** `inteligencia/tesis-juan-carlos-arteaga/`
 
-> Magnus actualiza esta sección cuando detecta oportunidades o tensiones cross-proyecto.
+### Variables Criticas
 
-**[C1] Summit 2026 → AECODE (flywheel confirmado)**
-Summit ACTIVO: audiencia de 400-1,000 profesionales AEC con fecha de expiración mayo 2026
-AECODE NECESIDAD: canal de distribución con audiencia AEC real
-→ El Summit es la única ventana temporal para capturar esta audiencia a escala. Cualquier decisión que debilite la conversión del evento (tickets, experiencia, agenda) afecta directamente el pipeline de AECODE Fase 3.
+- Tema: reemplazo de H2SO4 por CO2 capturado mediante aminas para control de pH en Central Termica de Ventanilla.
+- Requiere APA7 estricto.
+- El estandar de entrega es academico formal.
 
-**[C2] AECODE → Summit 2026 (criterios de lenguaje)**
-AECODE ACTIVO: 19+ criterios validados de cómo hablar con la audiencia AEC
-Summit NECESIDAD: comunicar ejes temáticos en lenguaje que vende a ingenieros/arquitectos
-→ Antes de finalizar cualquier nombre público de eje, track o mensaje del Summit, aplicar los criterios de AECODE. No son proyectos separados — comparten la misma audiencia y el mismo riesgo de lenguaje incorrecto.
+## Conexiones Detectadas
 
-**[C3] I Lanza → futuros trainings (kit replicable)**
-I Lanza ACTIVO: kit de ejercicios + slides full-image + flujo NotebookLM documentado
-→ Si surge otro cliente de training similar (empresa técnica, EPC, ingeniería), este kit es punto de partida, no de cero. Verificar estado de entrega antes de reutilizar.
+**[C1] Summit 2026 -> AECODE**
+
+El Summit concentra una audiencia AEC real y temporal. Cualquier decision que debilite conversion, experiencia, agenda o captura de datos afecta directamente el pipeline de AECODE Fase 3.
+
+**[C2] AECODE -> Summit 2026**
+
+Los criterios de lenguaje de AECODE deben validar nombres publicos de ejes, tracks y mensajes del Summit. Si el texto suena a IA generica en vez de productividad/control/obra, probablemente no vende.
+
+**[C3] Summit 2025 -> Summit 2026**
+
+La agenda 2025 no debe copiarse: debe usarse como baseline operativo. La mejora 2026 debe venir de diseno de escenas, contrastes, demos, tension narrativa, sponsors integrados y mayor claridad para decisores.
+
+**[C4] I Lanza -> Trainings AECODE**
+
+El kit de ejercicios y formato full-image de I Lanza es reutilizable para trainings tecnicos, pero debe adaptarse a la audiencia y no copiarse como plantilla fija.
