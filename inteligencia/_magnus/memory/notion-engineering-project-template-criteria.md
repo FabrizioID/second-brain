@@ -16,6 +16,8 @@ Usar este criterio cuando el usuario pida crear un proyecto tecnico/de ingenieri
 - Toggles/secciones operativas solo si aportan al proyecto.
 - Divisor antes de bases internas.
 
+No agregar bloques visibles de criterios tecnicos, alertas o reglas del agente debajo de las bases si no existen en la plantilla o si el usuario no los pidio explicitamente. Esos criterios deben vivir en `ACTIVIDADES`, `DOCUMENTOS`, `REUNIONES` o memoria interna, no como secciones sueltas que deformen la plantilla.
+
 ## Bases internas minimas
 - `ACTIVIDADES`
 - `REUNIONES`
@@ -61,9 +63,9 @@ No agregar calendario salvo que el usuario lo pida o haya fechas operativas real
 - `Por Tipo` si hay varias categorias de contacto.
 
 ## Control adicional
-Si el proyecto necesita una base propia, crearla solo cuando aporte control operativo real. Ejemplo para The Circle:
-- `CONTROL POR BLOQUE` con `Bloque`, `Zona/Nivel`, `Prioridad`, `Estado`, `Notas`.
-- Vistas maximas recomendadas: `Tabla General`, `Por Estado`, `Prioridad`.
+No crear bases adicionales por defecto. Si el proyecto necesita una base propia, crearla solo con confirmacion explicita del usuario o cuando sea parte de la plantilla destino. En la plantilla tipo PUENTE TINGO no corresponde agregar `CONTROL POR BLOQUE` por defecto.
+
+Si se necesita control por bloques, modelarlo primero dentro de `ACTIVIDADES` con propiedades como `Bloque`, `Elemento`, `Entregable`, `Status` y `% Avance`.
 
 ## Regla de verificacion obligatoria
 Despues de crear/configurar:
@@ -80,3 +82,5 @@ Para proyectos de croquis/despiece de acero:
   - `Plantilla de planilla para Graphico`.
   - `Plantilla RFI`.
 - Graphico debe tratarse como flujo/importacion de informacion, no como documento final por defecto.
+- No agregar base `CONTROL POR BLOQUE` ni bloque visible `CRITERIO TECNICO` en la pagina si se esta respetando plantilla tipo Tingo.
+- El criterio de discrepancia planta-detalle en vigas/columnas debe registrarse como actividad/RFI y memoria, no como seccion suelta en la pagina principal.
