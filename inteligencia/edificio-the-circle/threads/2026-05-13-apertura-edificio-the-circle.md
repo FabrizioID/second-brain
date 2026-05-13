@@ -37,6 +37,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Columnas aun faltan alturas.
 - Ancho y longitud de porticos pueden variar entre detalle y planta, por lo que requiere control de consistencia.
 - Aun falta precisar si se trabajara con criterio simple o solo al detalle cuando sea necesario.
+- Para columnas y vigas, puede ocurrir que los detalles y la planta no cuadren en dimensiones. No se debe decidir automaticamente que fuente manda; cuando se detecte, se debe alertar y levantar consulta/RFI para definir criterio.
 
 ## Decisiones tomadas
 - Usar `Edificio The Circle` como nombre canonico del proyecto.
@@ -51,6 +52,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Preparar una matriz de avance por bloque/zona/nivel/elemento: vigas, nervios, porticos, refuerzos adicionales y columnas.
 - Separar lo que se puede avanzar ya de lo que depende de insumos de manana.
 - Usar RFI para vacios de informacion: alturas de columnas, diferencias entre planta y detalle, criterio de ejes X/Y y prioridad por nivel/bloque.
+- Agregar control de compatibilidad planta-detalle para vigas y columnas: registrar elemento, bloque/zona, dimension en planta, dimension en detalle y accion tomada.
 
 ## Patrones detectados
 - avance_sin_cierre: el proyecto se abre antes de contar con insumos suficientes; requiere captura progresiva para evitar perdida de contexto.
@@ -73,6 +75,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Que criterio manda cuando ancho/longitud de porticos varia entre detalle y planta.
 - Como se deben establecer los croquis en sentidos X e Y.
 - Que alcance exacto cubren los 220 toneladas aprox.
+- Para columnas y vigas, que fuente manda cuando la dimension de planta no coincide con la dimension del detalle.
 
 ## Proximos pasos
 - Recibir o localizar insumos base del Edificio The Circle.
@@ -82,6 +85,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Preparar plantilla de avance para vigas por zona, nervios, porticos, refuerzos adicionales y columnas.
 - Esperar insumos de manana: plantilla de planilla para Graphico y plantilla RFI.
 - Completar responsables, fechas limite reales y links cuando lleguen los documentos oficiales.
+- Incluir en el RFI inicial el criterio de discrepancias entre planta y detalle para vigas/columnas, y activar alerta cada vez que se note una diferencia dimensional.
 
 ## Tags tematicos
 - edificio_the_circle
@@ -112,6 +116,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Insumos de manana -> habilitan produccion formal de croquis.
 - Variacion planta/detalle -> genera necesidad de RFI y criterio tecnico.
 - Organizacion por bloques -> permite control de avance y priorizacion.
+- Discrepancia dimensional en vigas/columnas -> no se resuelve por supuesto interno; debe alertarse y documentarse como RFI/consulta.
 
 ## Senales exportables a otros proyectos
 - La apertura temprana de un thread evita perder decisiones y criterios iniciales cuando un proyecto aun no tiene estructura documental completa.

@@ -29,6 +29,15 @@ Los documentos prometidos por Ferralia no son cartilla final aun. Son:
 - Plantilla de planilla para pasar/importar informacion a Graphico.
 - Plantilla RFI.
 
+## Criterio tecnico de alerta
+Para vigas y columnas, puede ocurrir que la planta y los detalles no cuadren en dimensiones.
+
+Regla:
+- No asumir automaticamente que manda la planta o que manda el detalle.
+- Cuando se detecte una diferencia dimensional, alertar.
+- Registrar el caso con bloque/zona, elemento, dimension en planta, dimension en detalle y observacion.
+- Levantar consulta/RFI para que Ferralia defina que fuente manda o que correccion aplica.
+
 ## Verificacion realizada
 - `Vista Filtrada` en ACTIVIDADES tiene filtro real aplicado: `Status` no es `Listo`.
 - La vista `Status` en ACTIVIDADES es tabla agrupada por `Entregable`.
