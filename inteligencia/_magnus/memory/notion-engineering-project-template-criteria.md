@@ -18,13 +18,14 @@ Usar este criterio cuando el usuario pida crear un proyecto tecnico/de ingenieri
 
 No agregar bloques visibles de criterios tecnicos, alertas o reglas del agente debajo de las bases si no existen en la plantilla o si el usuario no los pidio explicitamente. Esos criterios deben vivir en `ACTIVIDADES`, `DOCUMENTOS`, `REUNIONES` o memoria interna, no como secciones sueltas que deformen la plantilla.
 
-## Bases internas minimas
-- `ACTIVIDADES`
-- `REUNIONES`
-- `DOCUMENTOS`
-- `CONTACTOS CLIENTE`
+## Bases internas
+No asumir bases internas minimas por defecto.
 
-Crear bases inline reales, no linked views sueltas.
+Crear solo las bases que pertenecen a la plantilla exacta o que el usuario confirma explicitamente. Si el usuario pide replicar una plantilla, primero verificar visualmente/por API que bases existen y cuales corresponden.
+
+Para The Circle, no correspondian `DOCUMENTOS`, `CONTACTOS CLIENTE` ni `CONTROL POR BLOQUE`; fueron archivadas de la pagina.
+
+Cuando si corresponda crear una base, crearla como inline real, no como linked view suelta.
 
 ## ACTIVIDADES - Propiedades
 Adaptar nombres al proyecto, pero respetar esta logica:
@@ -47,7 +48,7 @@ Mantener 3 vistas, como PUENTE TINGO:
 No crear vistas extra como `Por Entregable` si la necesidad es agrupar la tabla general; configurar la vista `Status` o tabla equivalente con `group_by Entregable`.
 
 ## DOCUMENTOS
-Mantener pocas vistas:
+Crear solo si la plantilla/proyecto lo requiere. Si se crea, mantener pocas vistas:
 - `Tabla General`
 - `Por Estado`
 - `Por Tipo`
@@ -59,6 +60,7 @@ No agregar calendario salvo que el usuario lo pida o haya fechas operativas real
 - `Calendario` si se usan fechas de reunion.
 
 ## CONTACTOS CLIENTE
+Crear solo si la plantilla/proyecto lo requiere.
 - `Tabla General`
 - `Por Tipo` si hay varias categorias de contacto.
 
@@ -84,3 +86,4 @@ Para proyectos de croquis/despiece de acero:
 - Graphico debe tratarse como flujo/importacion de informacion, no como documento final por defecto.
 - No agregar base `CONTROL POR BLOQUE` ni bloque visible `CRITERIO TECNICO` en la pagina si se esta respetando plantilla tipo Tingo.
 - El criterio de discrepancia planta-detalle en vigas/columnas debe registrarse como actividad/RFI y memoria, no como seccion suelta en la pagina principal.
+- No crear `DOCUMENTOS` ni `CONTACTOS CLIENTE` por defecto para The Circle; no correspondian a la plantilla aplicada y deben omitirse salvo confirmacion explicita.

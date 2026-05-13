@@ -9,16 +9,9 @@ https://www.notion.so/EDIFICIO-THE-CIRCLE-35fd8cc4cfc18181a63ae9b059b02a4b
   - `Vista Filtrada`: board agrupado por `Status`, filtro real `Status` no es `Listo`, grupos vacios ocultos.
   - `Original`: board agrupado por `Status`, sin filtro restrictivo.
   - `Status`: tabla agrupada por `Entregable`.
-- `DOCUMENTOS` debe mantener pocas vistas:
-  - `Tabla General`
-  - `Por Estado`
-  - `Por Tipo`
 - `REUNIONES`:
   - `Tabla General`
   - `Calendario`
-- `CONTACTOS CLIENTE`:
-  - `Tabla General`
-  - `Por Tipo`
 
 ## Dato operativo clave
 Los documentos prometidos por Ferralia no son cartilla final aun. Son:
@@ -40,3 +33,4 @@ Regla:
 - La vista `Status` en ACTIVIDADES es tabla agrupada por `Entregable`.
 - Se archivo de Notion la base extra `CONTROL POR BLOQUE` porque no corresponde a la plantilla tipo Tingo.
 - Se archivaron los bloques visibles `CRITERIO TECNICO - PLANTA VS DETALLE` porque el criterio debe vivir como actividad/RFI y memoria, no como seccion suelta.
+- Se archivaron de Notion las bases `DOCUMENTOS` y `CONTACTOS CLIENTE` porque tampoco correspondian a la plantilla aplicada para The Circle.
