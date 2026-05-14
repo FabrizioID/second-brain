@@ -16,3 +16,4 @@
 - **[F14]** La caja horaria de trabajo para la agenda 2026 es viernes de 2:00 pm a 7:00 pm y sabado de 9:00 am a 7:00 pm. _(confirmado por usuario: 2026-05-11)_
 - **[F15]** La agenda operativa academica 2026 esta en `Proyecto/AI_Construction_Summit_2026_agenda_control_confirmaciones.xlsm`, hoja `Agenda editable`; el archivo original de Drive es Excel `.xlsm`, no Google Sheet nativo. _(confirmado: 2026-05-13)_
 - **[F16]** La base ampliada de ponentes por bloque esta en `Proyecto/base_ponentes_ai_construction_summit_2026_v2_colores.xlsx`, con 79 candidatos, separadores por color, hoja resumen y shortlist Peru. _(confirmado: 2026-05-13)_
+- **[F17]** La pagina correcta del area academica en Notion AECODE es `Academico (Contenido y Programa)` con ID `34a3460f-1c36-8032-b4c4-c2ba7df82be2`. La BD correcta para entregables del Summit es `BD - Entregables por area Summit` con ID `34a3460f-1c36-803b-8cb3-f2eeae1cb004`. _(confirmado: 2026-05-14)_

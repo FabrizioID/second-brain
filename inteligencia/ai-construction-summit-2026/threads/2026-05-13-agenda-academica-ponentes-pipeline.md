@@ -126,3 +126,50 @@ Regional / internacional premium:
 2. Separar lista de contacto real para Daniella con columnas minimas: nombre, organizacion, email/LinkedIn, bloque/slot, prioridad, estado, responsable y notas.
 3. Decidir que candidatos entran como invitacion inmediata, backup, remoto premium o descartar.
 4. Si se quiere editar el Drive, elegir entre trabajar el `.xlsm` local y subir nueva version, o convertirlo a Google Sheet nativo.
+
+## Actualizacion Notion - 2026-05-14
+
+Se corrigio la documentacion operativa en Notion de AECODE.
+
+### Pagina correcta
+
+La pagina correcta del area es:
+
+- `Academico (Contenido y Programa)`  
+  ID: `34a3460f-1c36-8032-b4c4-c2ba7df82be2`
+
+La pagina encontrada antes, `Academico / Contenido y Programa` con ID `34fd8cc4-cfc1-815d-9fc6-e3fcd0f99454`, no era la pagina objetivo para documentar este avance.
+
+### BD correcta
+
+La fuente operativa correcta para estos avances es:
+
+- `BD - Entregables por area Summit`  
+  ID: `34a3460f-1c36-803b-8cb3-f2eeae1cb004`
+
+No debe documentarse este tipo de avance como paginas hijas sueltas si existe entregable correspondiente en la BD.
+
+### Estructura final cargada
+
+En `BD - Entregables por area Summit`:
+
+- Entregable padre: `Agenda academica AI Construction Summit 2026`
+  - Subactividad: `G | Reunion de definicion de agenda academica Summit 2026`
+- Entregable padre: `Base de datos de ponentes por bloques Summit 2026`
+  - Subactividad: `G | Reunion de lluvia de ideas de ponentes Summit 2026`
+- Entregable padre existente: `Ejes tematicos finales del Summit`
+  - Subactividad: `G | Reunion de actualizacion de ejes tematicos AI Summit 2026`
+
+El entregable `Ejes tematicos actualizados AI Summit 2026` creado inicialmente como padre fue corregido y convertido en subactividad del entregable existente `Ejes tematicos finales del Summit`.
+
+### Regla reforzada
+
+No marcar `Terminado`, `Pasar a requerimiento`, `Checkbox` ni cualquier checkbox equivalente salvo pedido explicito del usuario. Para reuniones ya realizadas puede usarse estado `Listo`, pero el checkbox debe quedar en `false` si no hubo instruccion explicita.
+
+### BD general de Fabrizio
+
+Tambien se actualizo la BD general de Fabrizio con actividades espejo bajo `AI Summit`, todas con checkbox en `false`:
+
+- `G | Reunion de definicion de agenda academica Summit 2026`
+- `G | Reunion de lluvia de ideas de ponentes Summit 2026`
+- `G | Reunion de actualizacion de ejes tematicos AI Summit 2026`
