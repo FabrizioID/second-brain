@@ -34,3 +34,15 @@ Regla:
 - Se archivo de Notion la base extra `CONTROL POR BLOQUE` porque no corresponde a la plantilla tipo Tingo.
 - Se archivaron los bloques visibles `CRITERIO TECNICO - PLANTA VS DETALLE` porque el criterio debe vivir como actividad/RFI y memoria, no como seccion suelta.
 - Se archivaron de Notion las bases `DOCUMENTOS` y `CONTACTOS CLIENTE` porque tampoco correspondian a la plantilla aplicada para The Circle.
+
+## Sincronizacion con TO-DO LIST
+El 2026-05-14 se creo el proyecto como fila padre/desplegable en la base global:
+- Base: `TO-DO LIST > T.TRABAJO (8 hr: 09:00 - 17:00) > ACTIVIDADES`.
+- Padre: `The Circle`.
+- Page ID padre: `360d8cc4-cfc1-81b7-99e0-e29f4a142aa6`.
+- Empresa: `GEN+`.
+- Subitems creados:
+  - `G | Preparar RFI inicial`.
+  - `D | Preparar matriz de avance por bloque y elemento`.
+  - `D | Organizar avance preliminar de vigas por zona`.
+  - `D | Controlar discrepancias planta vs detalle en vigas/columnas`.

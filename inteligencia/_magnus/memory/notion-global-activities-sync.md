@@ -3,6 +3,8 @@
 ## Regla
 Toda actividad creada o actualizada en una base `ACTIVIDADES` de proyecto Notion debe sincronizarse tambien con el status general de trabajo.
 
+Importante: la base global no es una lista plana. Funciona con filas padre/desplegables por proyecto o frente de trabajo, y actividades directas como subitems dentro de cada padre.
+
 ## Destino global
 - Pagina: `TO-DO LIST`
 - URL: https://www.notion.so/TO-DO-LIST-e2066553a8494738976450204e36efd7
@@ -23,8 +25,24 @@ Toda actividad creada o actualizada en una base `ACTIVIDADES` de proyecto Notion
 - `Parent item` relation.
 - `Sub-item` relation.
 
+## Estructura real observada
+- La base global esta organizada por proyectos/frentes como filas padre.
+- Ejemplos de filas padre: `AI Summit`, `I-Lanza`, `Cerco Perímetrico Tarjea`, `Dovelas Ferralia Panama`, `Comercial`.
+- Una fila padre normalmente tiene:
+  - `Actividad` = nombre del proyecto/frente.
+  - `Empresa` = `AECODE`, `GEN+` o `THESIA`.
+  - `Status` vacio.
+  - `Parent item` vacio.
+  - `Sub-item` con relaciones a las actividades hijas.
+- Una actividad directa normalmente tiene:
+  - `Actividad` con prefijo operativo, por ejemplo `G | ...`, `D | ...`, `O | ...`.
+  - `Empresa` igual a la fila padre.
+  - `Status` numerico.
+  - `Parent item` apuntando a la fila padre.
+
 ## Mapeo recomendado
-- Actividad de proyecto -> `Actividad` global.
+- Proyecto/frente -> fila padre global.
+- Actividad de proyecto -> subitem/actividad hija global.
 - `% Avance` del proyecto -> `Status` numerico global.
 - Pendiente/bloqueado/en proceso sin avance -> `0`.
 - Listo/cerrado -> `100`.
@@ -33,20 +51,46 @@ Toda actividad creada o actualizada en una base `ACTIVIDADES` de proyecto Notion
 - Fecha limite del proyecto, si existe -> `Date`.
 
 ## Convencion de nombre
-Usar un prefijo identificable para evitar duplicados:
+Para la fila padre usar el nombre limpio del proyecto/frente:
 
-`<Proyecto> | <Actividad>`
+`The Circle`
+
+Para actividades hijas usar prefijo operativo + descripcion:
+
+`G | <actividad de gestion>`
+`D | <actividad de desarrollo/produccion>`
+`O | <actividad de oportunidad/operacion puntual>`
 
 Ejemplos:
-- `The Circle | Preparar RFI inicial`
-- `The Circle | Controlar discrepancias planta vs detalle en vigas/columnas`
+- Padre: `The Circle`
+- Hija: `G | Preparar RFI inicial`
+- Hija: `D | Controlar discrepancias planta vs detalle en vigas/columnas`
 
 ## Protocolo anti-duplicados
-Antes de crear una fila global:
+Antes de crear una actividad global:
 1. Consultar la base global `ACTIVIDADES`.
-2. Buscar coincidencia por `Actividad`.
-3. Si existe, actualizar `Status`, `Date` y `Observación`.
-4. Si no existe, crear fila nueva.
+2. Buscar o crear la fila padre del proyecto/frente por `Actividad` y `Empresa`.
+3. Buscar la actividad hija por `Actividad` y `Parent item`.
+4. Si existe, actualizar `Status`, `Date` y `Observación`.
+5. Si no existe, crear fila nueva con `Parent item` apuntando al padre.
+
+Para The Circle:
+- Buscar/crear padre `The Circle` con `Empresa = GEN+` salvo que el usuario indique otra empresa paraguas.
+- Cliente `Ferralia Republica Dominicana` debe ir en `Observación`, no en `Empresa`.
+
+## The Circle - estado creado
+El 2026-05-14 se creo en la base global:
+- Padre: `The Circle`.
+- Page ID padre: `360d8cc4-cfc1-81b7-99e0-e29f4a142aa6`.
+- Empresa: `GEN+`.
+- Subitems creados:
+  - `G | Preparar RFI inicial`.
+  - `D | Preparar matriz de avance por bloque y elemento`.
+  - `D | Organizar avance preliminar de vigas por zona`.
+  - `D | Controlar discrepancias planta vs detalle en vigas/columnas`.
+- Verificacion: padre `The Circle` con `SUB_COUNT=4`.
+
+Nota tecnica: al usar PowerShell, la propiedad `Observacion` con tilde puede fallar por codificacion si se envia por nombre. En ese caso usar API/MCP con UTF-8 correcto o usar property id de Notion.
 
 ## Cuidado
 No usar el cliente como `Empresa` salvo que el usuario lo indique. En proyectos de Fabrizio/GEN+, probablemente `Empresa` sea `GEN+` y el cliente debe ir en `Observación`.

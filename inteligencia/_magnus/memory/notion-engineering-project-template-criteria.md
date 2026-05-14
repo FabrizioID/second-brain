@@ -102,15 +102,17 @@ Propiedades de la base global:
 
 Regla de sincronizacion:
 - No basta actualizar solo la base `ACTIVIDADES` del proyecto.
-- Crear o actualizar una fila espejo en la base global `TO-DO LIST > trabajo > ACTIVIDADES`.
-- Usar un nombre identificable que incluya proyecto y actividad, por ejemplo `The Circle | Preparar RFI inicial`.
+- La base global no es una lista plana: usa filas padre/desplegables por proyecto o frente, y actividades hijas como subitems.
+- Buscar o crear primero la fila padre del proyecto/frente en `TO-DO LIST > trabajo > ACTIVIDADES`.
+- Crear o actualizar la actividad como subitem, con `Parent item` apuntando a la fila padre.
+- Para The Circle, usar padre `The Circle` con `Empresa = GEN+` salvo instruccion contraria.
+- Cliente `Ferralia Republica Dominicana` va en `Observación`, no en `Empresa`.
+- Usar prefijos operativos en actividades hijas, por ejemplo `G | Preparar RFI inicial` o `D | Controlar discrepancias planta vs detalle en vigas/columnas`.
 - Mapear avance del proyecto a `Status` numerico global:
   - pendiente/bloqueado/en proceso sin avance claro -> `0`.
   - `% Avance` disponible -> usar ese porcentaje como numero.
   - listo/cerrado -> `100`.
-- Usar `Empresa` para la organizacion paraguas correspondiente, no para el cliente si no corresponde.
-- Guardar cliente/proyecto/contexto en `Observación`, por ejemplo `Proyecto: Edificio The Circle; Cliente: Ferralia Republica Dominicana; Fuente: ACTIVIDADES del proyecto`.
-- Al actualizar una actividad existente, buscar primero por `Actividad` y/o convencion de nombre para evitar duplicados.
+- Al actualizar una actividad existente, buscar por `Actividad` + `Parent item` para evitar duplicados.
 - Si no se puede determinar empresa, fecha o mapeo exacto, no inventar: crear la fila con observacion clara o pedir confirmacion.
 
 ## Caso The Circle - criterio aprendido
