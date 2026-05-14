@@ -47,3 +47,8 @@ El 2026-05-14 se creo el proyecto como fila padre/desplegable en la base global:
   - `D | Organizar avance preliminar de vigas por zona`.
   - `D | Controlar discrepancias planta vs detalle en vigas/columnas`.
 - Fecha objetivo aplicada: `2026-05-15` para las actividades internas y los subitems globales, porque el usuario aclaro que el trabajo era para este fin de semana.
+- 2026-05-14: Se agregaron 3 subitems globales bajo `The Circle`:
+  - `G | Validar torre de inicio con Carlos` con Status `100`.
+  - `G | Pasar informacion y plantilla de planilla a Alex` con Status `100`.
+  - `G | Hacer seguimiento a Alex para croquis/despiece Torre A1` con Status `0`.
+- Regla confirmada por usuario: Codex puede actualizar `Status`, pero no debe marcar `Checkbox` en la base global salvo pedido explicito.

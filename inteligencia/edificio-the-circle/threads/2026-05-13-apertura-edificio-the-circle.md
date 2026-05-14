@@ -31,6 +31,10 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Se crearon bases inline en Notion: ACTIVIDADES, REUNIONES, DOCUMENTOS, CONTACTOS CLIENTE y CONTROL POR BLOQUE.
 - Se corrigio configuracion de vistas en Notion siguiendo criterio tipo Tingo: ACTIVIDADES queda con 3 vistas `Vista Filtrada`, `Original` y `Status`; `Status` es tabla agrupada por Entregable. `Vista Filtrada` tiene filtro real aplicado: Status no es `Listo`, con grupos vacios ocultos.
 - Se corrigio en Notion la premisa de documentos esperados: quedan visibles `Plantilla de planilla para Graphico` y `Plantilla RFI`.
+- 2026-05-14: Se paso informacion a Alex, quien ejecutara los croquis de despiece.
+- 2026-05-14: Se consulto a Carlos con que torre iniciar; confirmo iniciar por Torre A1.
+- 2026-05-14: Se paso a Alex la plantilla de planilla.
+- 2026-05-14: Se actualizo el status global `TO-DO LIST > T.TRABAJO > ACTIVIDADES`: padre `The Circle` con 7 subitems; nuevos subitems `Validar torre de inicio con Carlos`, `Pasar informacion y plantilla de planilla a Alex` y `Hacer seguimiento a Alex para croquis/despiece Torre A1`.
 
 ## Problemas o bloqueos
 - Falta cargar informacion fuente formal del edificio: planos, metrados, criterios de despiece, detalles estructurales y formato final.
@@ -46,6 +50,9 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Registrar Ferralia Republica Dominicana como contraparte asociada al proyecto.
 - Tratar los 5 bloques como estructura base de organizacion del trabajo: A1, A2, B1, B2 y B3.
 - Usar Notion de Fabrizio como espacio operativo del proyecto.
+- Iniciar ejecucion por Torre A1, segun confirmacion de Carlos.
+- Alex queda como ejecutor operativo de los croquis de despiece.
+- En el status global, Codex puede actualizar `Status` pero no debe marcar `Checkbox` salvo instruccion explicita del usuario.
 
 ## Soluciones o propuestas
 - Centralizar futuras decisiones, criterios y hallazgos en threads independientes para permitir lectura cruzada por tags.
@@ -86,6 +93,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Esperar insumos de manana: plantilla de planilla para Graphico y plantilla RFI.
 - Completar responsables, fechas limite reales y links cuando lleguen los documentos oficiales.
 - Incluir en el RFI inicial el criterio de discrepancias entre planta y detalle para vigas/columnas, y activar alerta cada vez que se note una diferencia dimensional.
+- Hacer seguimiento a Alex sobre el avance de croquis/despiece de Torre A1.
 
 ## Tags tematicos
 - edificio_the_circle

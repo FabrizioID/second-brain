@@ -1,5 +1,8 @@
 # Notion Global Activities Sync
 
+## Regla de checkbox
+Codex puede actualizar `Status`, `Date`, `Empresa`, relaciones y observaciones, pero no debe marcar ni desmarcar `Checkbox` en la base global salvo que el usuario pida explicitamente esa accion.
+
 ## Fechas operativas
 Si el usuario comunica una fecha operativa o deadline, siempre mapearla a:
 - `Date` en la base global `TO-DO LIST > T.TRABAJO > ACTIVIDADES`.
