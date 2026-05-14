@@ -54,6 +54,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Alex queda como ejecutor operativo de los croquis de despiece.
 - En el status global, Codex puede actualizar `Status` pero no debe marcar `Checkbox` salvo instruccion explicita del usuario.
 - En el status global, solo deben figurar tareas que el usuario ejecuta o sigue directamente; las actividades tecnicas que ejecuta Alex se mantienen como control de proyecto, no como tareas personales del usuario.
+- En el status global, la propiedad `Observacion`/`Observación` debe usarse para dejar contexto fino de cada actividad: responsable real, cliente, criterio, bloqueo, fuente, razon del status o detalle de seguimiento.
 
 ## Soluciones o propuestas
 - Centralizar futuras decisiones, criterios y hallazgos en threads independientes para permitir lectura cruzada por tags.
@@ -96,6 +97,14 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Incluir en el RFI inicial el criterio de discrepancias entre planta y detalle para vigas/columnas, y activar alerta cada vez que se note una diferencia dimensional.
 - Hacer seguimiento a Alex sobre el avance de croquis/despiece de Torre A1.
 - No cargar como pendientes personales las tareas de produccion de Alex; convertirlas en seguimiento/coordinacion.
+- Mantener actualizadas las observaciones de los subitems globales cuando cambie el contexto del seguimiento.
+
+## Actualizacion de seguimiento - 2026-05-14
+- Se ajusto el status global para que `The Circle` refleje solo trabajo directo del usuario: seguimiento a Alex, seguimiento RFI/consultas si Alex detecta vacios, y gestiones ya completadas.
+- Se archivaron del status global los subitems que parecian ejecucion directa de Alex: preparar matriz, organizar avance preliminar y controlar discrepancias como produccion.
+- Se mantuvieron esas actividades como contexto/control del proyecto cuando corresponde, pero no como pendientes personales del usuario.
+- Se confirmo la regla: Codex puede actualizar `Status`, `Date`, relaciones y `Observacion`, pero no debe marcar `Checkbox` salvo pedido explicito.
+- Se completaron observaciones en los subitems globales vigentes para indicar responsable real, cliente, rol de seguimiento y razon del status.
 
 ## Tags tematicos
 - edificio_the_circle
