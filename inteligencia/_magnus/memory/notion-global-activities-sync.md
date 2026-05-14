@@ -3,6 +3,14 @@
 ## Regla de checkbox
 Codex puede actualizar `Status`, `Date`, `Empresa`, relaciones y observaciones, pero no debe marcar ni desmarcar `Checkbox` en la base global salvo que el usuario pida explicitamente esa accion.
 
+## Regla de responsabilidad
+En la base global `TO-DO LIST > T.TRABAJO > ACTIVIDADES`, registrar solo lo que el usuario debe ejecutar o seguir directamente.
+
+Si una actividad de proyecto sera ejecutada por otra persona, no cargarla como tarea directa del usuario en el status global. En ese caso:
+- Mantener la actividad tecnica en la base `ACTIVIDADES` del proyecto si sirve para control del proyecto.
+- En la base global crear solo una tarea de seguimiento/coordinacion.
+- Ejemplo The Circle: Alex ejecuta croquis/despiece; en global debe quedar `G | Hacer seguimiento a Alex...`, no tareas `D | Organizar avance...` como si fueran ejecucion directa del usuario.
+
 ## Fechas operativas
 Si el usuario comunica una fecha operativa o deadline, siempre mapearla a:
 - `Date` en la base global `TO-DO LIST > T.TRABAJO > ACTIVIDADES`.

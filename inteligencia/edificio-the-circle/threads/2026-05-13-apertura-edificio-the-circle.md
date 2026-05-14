@@ -53,6 +53,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Iniciar ejecucion por Torre A1, segun confirmacion de Carlos.
 - Alex queda como ejecutor operativo de los croquis de despiece.
 - En el status global, Codex puede actualizar `Status` pero no debe marcar `Checkbox` salvo instruccion explicita del usuario.
+- En el status global, solo deben figurar tareas que el usuario ejecuta o sigue directamente; las actividades tecnicas que ejecuta Alex se mantienen como control de proyecto, no como tareas personales del usuario.
 
 ## Soluciones o propuestas
 - Centralizar futuras decisiones, criterios y hallazgos en threads independientes para permitir lectura cruzada por tags.
@@ -94,6 +95,7 @@ Actualizar el contexto base: el proyecto consiste en elaborar croquis de despiec
 - Completar responsables, fechas limite reales y links cuando lleguen los documentos oficiales.
 - Incluir en el RFI inicial el criterio de discrepancias entre planta y detalle para vigas/columnas, y activar alerta cada vez que se note una diferencia dimensional.
 - Hacer seguimiento a Alex sobre el avance de croquis/despiece de Torre A1.
+- No cargar como pendientes personales las tareas de produccion de Alex; convertirlas en seguimiento/coordinacion.
 
 ## Tags tematicos
 - edificio_the_circle

@@ -52,3 +52,5 @@ El 2026-05-14 se creo el proyecto como fila padre/desplegable en la base global:
   - `G | Pasar informacion y plantilla de planilla a Alex` con Status `100`.
   - `G | Hacer seguimiento a Alex para croquis/despiece Torre A1` con Status `0`.
 - Regla confirmada por usuario: Codex puede actualizar `Status`, pero no debe marcar `Checkbox` en la base global salvo pedido explicito.
+- 2026-05-14 ajuste de responsabilidad: en `TO-DO LIST` se archivaron subitems que parecian ejecucion directa de Alex (`D | Preparar matriz...`, `D | Organizar avance...`, `D | Controlar discrepancias...`). En global deben quedar solo seguimiento/coordinacion del usuario.
+- Global vigente bajo `The Circle`: seguimiento a Alex, seguimiento RFI/consultas si Alex detecta vacios, y dos gestiones ya en Status 100 (validar torre con Carlos; pasar informacion/plantilla a Alex).
