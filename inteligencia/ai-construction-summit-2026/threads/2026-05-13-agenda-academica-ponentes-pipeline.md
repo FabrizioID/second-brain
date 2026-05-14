@@ -1,0 +1,128 @@
+# Hilo - Agenda academica, pipeline y base de ponentes
+
+Fecha: 2026-05-13  
+Estado: activo  
+Tags: agenda, academico, ponentes, pipeline, Excel, Goldratt, Magnus, Peru, AEC, IA
+
+## Resumen
+
+Se trabajo la agenda academica del AI Construction Summit 2026 desde la caja horaria confirmada:
+
+- Viernes 17 de julio de 2026: 2:00 pm a 7:00 pm.
+- Sabado 18 de julio de 2026: 9:00 am a 7:00 pm.
+
+La agenda dejo de tratarse como una narracion suelta y paso a apoyarse en el Excel operativo `AI_Construction_Summit_2026_agenda_control_confirmaciones.xlsm`, que contiene bloques, horarios, formatos, responsables, estado de confirmacion, produccion, ubicacion, requerimientos y prioridades.
+
+El usuario marco que el Excel era superior a versiones narrativas previas en aspectos clave:
+
+- Considera inauguracion real.
+- Separa CIP y AECODE como momentos institucionales distintos.
+- Divide por bloques operativos, no solo por historia.
+- Incluye debate como dinamica disruptiva.
+
+## Decisiones curatoriales consolidadas
+
+1. La agenda debe usar el Excel operativo como columna vertebral.
+2. La narrativa Magnus se aplica encima, no reemplaza la estructura operativa.
+3. En bloques de adopcion/implementacion IA no se deben buscar speakers genericos de IA; se priorizan perfiles AEC con evidencia real.
+4. Para ponentes, la prioridad operativa debe ser:
+   - Peru/local o presencia local.
+   - Latam viable por remoto/viaje.
+   - Internacional premium solo para slots de alto impacto o remoto.
+5. Cada candidato debe tener perfil publico y evidencia del eje: IA, BIM/VDC, datos, gemelos digitales, obra inteligente, agentes, regulacion o equivalente.
+6. Si la evidencia no es IA directa, debe quedar marcado como "requiere brief" para no vender tecnologia generica como IA aplicada.
+
+## Pipeline academico
+
+- Julie: curaduria de agenda, detecta bloques vacios y balance del programa.
+- Daniella: envio de invitaciones, seguimiento y correos; tras aceptacion, pide informacion directa por WhatsApp.
+- Fabrizio: comunica confirmados a Marketing para activar posts y piezas.
+- Priorizacion de ponentes: conjunta entre Julie, Daniella y Fabrizio.
+
+Estados sugeridos:
+
+- Vacante
+- Por invitar
+- Invitado
+- Follow-up
+- Acepto
+- Confirmado
+- No puede
+
+El control se maneja con dos vistas simples:
+
+1. Agenda tal cual, llenando ponentes a medida que se confirman.
+2. Seguimiento general de ponentes invitados.
+
+## Artefactos generados
+
+- `Proyecto/pipeline_academico_summit_2026.html`: HTML visual del pipeline operativo con fondo animado semantico aceptado.
+- `Proyecto/ai_summit_agenda_v4.html`: propuesta narrativa de agenda; secundaria frente al Excel operativo cuando haya conflicto.
+- `Proyecto/AI_Construction_Summit_2026_agenda_control_confirmaciones.xlsm`: Excel operativo fuente, descargado desde Google Drive; no es Google Sheet nativo.
+- `Proyecto/base_ponentes_ai_construction_summit_2026.md`: primera base curatorial por bloques.
+- `Proyecto/base_ponentes_ai_construction_summit_2026.xlsx`: version tabular inicial.
+- `Proyecto/base_ponentes_ai_construction_summit_2026_con_viabilidad.xlsx`: version con ubicacion/viabilidad.
+- `Proyecto/base_ponentes_ai_construction_summit_2026_v2_colores.xlsx`: version ampliada y preferida; 79 candidatos; hojas `Base por bloques`, `Resumen`, `Shortlist Peru`.
+
+## Aprendizajes Magnus
+
+### Reverse engineering antes de proponer
+
+Cuando exista Excel, agenda, brochure o artefacto operativo, primero se debe leer su estructura real: bloques, tiempos, formatos, responsables, estados, requerimientos, observaciones, prioridades y nombres ya propuestos.
+
+Luego se mejora la curaduria; no se reemplaza de cero.
+
+### Peru como restriccion real
+
+La base de ponentes no puede asumirse internacional por default. Para un summit presencial en Lima:
+
+- Peru/local es mas accionable.
+- Latam remoto/viaje es segunda capa.
+- Internacional premium debe justificar costo/logistica por impacto.
+
+### Evidencia sobre prestigio
+
+No basta que una persona sea famosa o tenga cargo alto. Cada sugerencia debe estar conectada a una evidencia visible del eje: post, articulo, caso de empresa, charla, paper, demo, pagina de evento, producto o investigacion.
+
+## Shortlist fuerte observada
+
+Peru / local:
+
+- Luis Felipe Quiroz Mory - TSC Innovation / Aceros Arequipa.
+- German Elera - Digital Bricks.
+- Daniel Fernandez Sanchez - COSAPI.
+- Raul Eyzaguirre - COSAPI.
+- Alejandro Ahmed Alvarado Lezama - WAYKI Innovacion.
+- Renzo Giancarlo Rios Rugel - WAYKI Innovacion.
+- Luis Garcia Cavero - ANIN.
+- Claudia Cheenyi Zhou Chau - ANIN.
+- Daniel Moscol Calixto - OHLA Peru.
+- Guillermo Carrera - Grupo CPS / Presto Peru.
+- Johnny Monges Parada - Grupo CPS / Presto Peru.
+- Manuel Mazan - TELEMATICA.
+- Sofia Guillen - TELEMATICA.
+- Francisco Cuellar - Tumi Robotics.
+- Claudia Akamine - Tumi Robotics.
+- Smart Flight Peru - vocero por definir.
+- Geodrone Peru - vocero por definir.
+
+Regional / internacional premium:
+
+- Ricardo Munguia Alvarez - Ferrovial Construction.
+- Rodrigo Reyes Jara - Durability / UC Chile.
+- Andres Prieto Ibanez - CIPYCS / UC Chile.
+- Claudio Mourgues - UC Chile.
+- Martin Fischer - Stanford CIFE.
+- Simon Bae - Cupix.
+- Jeevan Kalanithi - OpenSpace.
+- Roy Danon - Buildots.
+- Mehdi Nourbakhsh - Autodesk Research.
+- Marushka Chocobar - IA/regulacion Peru.
+- Alvaro Soto - CENIA Chile.
+
+## Pendientes
+
+1. Revisar manualmente la V2 de ponentes y validar nombres/links antes de contacto formal.
+2. Separar lista de contacto real para Daniella con columnas minimas: nombre, organizacion, email/LinkedIn, bloque/slot, prioridad, estado, responsable y notas.
+3. Decidir que candidatos entran como invitacion inmediata, backup, remoto premium o descartar.
+4. Si se quiere editar el Drive, elegir entre trabajar el `.xlsm` local y subir nueva version, o convertirlo a Google Sheet nativo.

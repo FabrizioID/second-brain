@@ -13,3 +13,6 @@
 - **[F11]** La fuente local del brochure de sponsors 2026 es `C:\Users\USUARIO\Downloads\_BROCHURE_AI CONSTRUCTION SUMMIT 2026 _ SPONSORS_ESPAÑOL.pdf`; su extracto persistente en repo esta en `Proyecto/inteligencia/ai-construction-summit-2026/analysis/brochure-sponsors-2026-extract.md`. _(confirmado: 2026-05-11)_
 - **[F12]** El brochure 2025 documenta el evento anterior como 28 y 29 de noviembre de 2025 en Lima, Miraflores, Auditorio Ccori Wasi, con un workshop day y un dia central. _(confirmado: 2026-05-11, fuente: [F10])_
 - **[F13]** El brochure sponsors 2026 usa como prueba social del evento anterior: +40 speakers/panelistas, +350 asistentes y +20 colaboradores/sponsors. _(confirmado: 2026-05-11, fuente: [F11])_
+- **[F14]** La caja horaria de trabajo para la agenda 2026 es viernes de 2:00 pm a 7:00 pm y sabado de 9:00 am a 7:00 pm. _(confirmado por usuario: 2026-05-11)_
+- **[F15]** La agenda operativa academica 2026 esta en `Proyecto/AI_Construction_Summit_2026_agenda_control_confirmaciones.xlsm`, hoja `Agenda editable`; el archivo original de Drive es Excel `.xlsm`, no Google Sheet nativo. _(confirmado: 2026-05-13)_
+- **[F16]** La base ampliada de ponentes por bloque esta en `Proyecto/base_ponentes_ai_construction_summit_2026_v2_colores.xlsx`, con 79 candidatos, separadores por color, hoja resumen y shortlist Peru. _(confirmado: 2026-05-13)_

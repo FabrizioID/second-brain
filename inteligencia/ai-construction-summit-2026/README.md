@@ -18,6 +18,7 @@ Memoria estructurada del Summit. Este proyecto debe leerse como una base de dato
 - Agenda 2025 recuperada como baseline historico.
 - Brochure sponsors 2026 recuperado como fuente comercial, pero precios requieren validacion.
 - Ejes tematicos 2026 documentados en Notion como entregable academico gestionable.
+- Agenda academica 2026 en trabajo desde el Excel operativo `AI_Construction_Summit_2026_agenda_control_confirmaciones.xlsm`; base de ponentes preferida en `Proyecto/base_ponentes_ai_construction_summit_2026_v2_colores.xlsx`.
 
 ## Riesgos Activos
 
@@ -25,6 +26,7 @@ Memoria estructurada del Summit. Este proyecto debe leerse como una base de dato
 - Contradiccion de precios en sponsors 2026: validar antes de cotizar.
 - Landing + pasarela + CRM siguen siendo cuello de conversion.
 - Agenda/speakers 2026 reales aun deben reemplazar datos de prueba.
+- Base de ponentes V2 requiere validacion humana de links/contactos antes de enviar invitaciones.
 - Owner B2C/Premium sigue siendo punto critico para monetizacion post-evento.
 
 ## Fuentes Fuertes
@@ -33,9 +35,11 @@ Memoria estructurada del Summit. Este proyecto debe leerse como una base de dato
 - `analysis/brochure-sponsors-2026-extract.md`: paquetes comerciales, beneficios sponsors y prueba social.
 - `analysis/ejes-tematicos-summit-2026.md`: ejes 2026.
 - `analysis/cruces-vacios-web-marketing-academico.md`: cruces entre Web, Marketing y Academico.
+- `memory/ejes-publicos-2026.md`: nombres publicos observados/confirmados y separacion frente a la capa estrategica interna.
 
 ## Hilos Clave
 
+- `threads/2026-05-13-agenda-academica-ponentes-pipeline.md`
 - `threads/2026-05-11-ingesta-brochures-2025-2026.md`
 - `threads/2026-04-29-notion-academico-ejes-tematicos.md`
 - `threads/2026-04-27-mensajeria-comercial-y-automatizacion.md`
