@@ -1,5 +1,14 @@
 # Notion Global Activities Sync
 
+## Fechas operativas
+Si el usuario comunica una fecha operativa o deadline, siempre mapearla a:
+- `Date` en la base global `TO-DO LIST > T.TRABAJO > ACTIVIDADES`.
+- La fecha limite de la actividad del proyecto cuando esa propiedad exista.
+
+Para The Circle, el usuario aclaro que el trabajo era para este fin de semana; se aplico `2026-05-15` como fecha objetivo en:
+- Los 4 subitems globales bajo el padre `The Circle`.
+- Las actividades internas del proyecto en Notion.
+
 ## Regla
 Toda actividad creada o actualizada en una base `ACTIVIDADES` de proyecto Notion debe sincronizarse tambien con el status general de trabajo.
 

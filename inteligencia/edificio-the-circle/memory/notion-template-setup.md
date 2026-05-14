@@ -46,3 +46,4 @@ El 2026-05-14 se creo el proyecto como fila padre/desplegable en la base global:
   - `D | Preparar matriz de avance por bloque y elemento`.
   - `D | Organizar avance preliminar de vigas por zona`.
   - `D | Controlar discrepancias planta vs detalle en vigas/columnas`.
+- Fecha objetivo aplicada: `2026-05-15` para las actividades internas y los subitems globales, porque el usuario aclaro que el trabajo era para este fin de semana.
