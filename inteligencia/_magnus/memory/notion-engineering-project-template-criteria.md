@@ -77,6 +77,42 @@ Despues de crear/configurar:
 - Verificar que la tabla `Status` este agrupada por `Entregable`.
 - Reportar limitaciones si la API no permite replicar algo.
 
+## Sincronizacion global de actividades
+Cuando se cree, actualice o cambie estado de una actividad dentro de la base `ACTIVIDADES` de un proyecto Notion, tambien se debe reflejar en el status general de trabajo.
+
+Destino global:
+- Pagina: `TO-DO LIST`
+- URL: https://www.notion.so/TO-DO-LIST-e2066553a8494738976450204e36efd7
+- Page ID: `e2066553-a849-4738-9764-50204e36efd7`
+- Subpagina de trabajo: `T.TRABAJO (8 hr: 09:00 - 17:00)`
+- Work page ID: `241d8cc4-cfc1-80e7-bce2-f01e6a14c7f4`
+- Base global: `ACTIVIDADES`
+- Database ID: `2dcd8cc4-cfc1-806c-bda6-f9c4862a9cfd`
+- Data source ID: `2dcd8cc4-cfc1-8121-a268-000b4f55c021`
+
+Propiedades de la base global:
+- `Actividad` title.
+- `Status` number.
+- `Empresa` rich_text.
+- `Date` date.
+- `Observación` rich_text.
+- `Checkbox` checkbox.
+- `Parent item` relation.
+- `Sub-item` relation.
+
+Regla de sincronizacion:
+- No basta actualizar solo la base `ACTIVIDADES` del proyecto.
+- Crear o actualizar una fila espejo en la base global `TO-DO LIST > trabajo > ACTIVIDADES`.
+- Usar un nombre identificable que incluya proyecto y actividad, por ejemplo `The Circle | Preparar RFI inicial`.
+- Mapear avance del proyecto a `Status` numerico global:
+  - pendiente/bloqueado/en proceso sin avance claro -> `0`.
+  - `% Avance` disponible -> usar ese porcentaje como numero.
+  - listo/cerrado -> `100`.
+- Usar `Empresa` para la organizacion paraguas correspondiente, no para el cliente si no corresponde.
+- Guardar cliente/proyecto/contexto en `Observación`, por ejemplo `Proyecto: Edificio The Circle; Cliente: Ferralia Republica Dominicana; Fuente: ACTIVIDADES del proyecto`.
+- Al actualizar una actividad existente, buscar primero por `Actividad` y/o convencion de nombre para evitar duplicados.
+- Si no se puede determinar empresa, fecha o mapeo exacto, no inventar: crear la fila con observacion clara o pedir confirmacion.
+
 ## Caso The Circle - criterio aprendido
 Para proyectos de croquis/despiece de acero:
 - No asumir que se recibira cartilla final si el usuario dice plantillas.
