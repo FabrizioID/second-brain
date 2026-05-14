@@ -11,6 +11,20 @@ Si una actividad de proyecto sera ejecutada por otra persona, no cargarla como t
 - En la base global crear solo una tarea de seguimiento/coordinacion.
 - Ejemplo The Circle: Alex ejecuta croquis/despiece; en global debe quedar `G | Hacer seguimiento a Alex...`, no tareas `D | Organizar avance...` como si fueran ejecucion directa del usuario.
 
+## Uso de Observacion
+La propiedad `Observacion`/`Observación` de la base global se usa para agregar detalles sobre la actividad.
+
+Usarla para:
+- Contexto del proyecto.
+- Cliente.
+- Responsable real de ejecucion.
+- Que debe seguir el usuario.
+- Bloqueo o criterio tecnico relevante.
+- Fuente de la actividad.
+- Razon del status.
+
+No dejarla vacia cuando el contexto sea necesario para entender la tarea despues.
+
 ## Fechas operativas
 Si el usuario comunica una fecha operativa o deadline, siempre mapearla a:
 - `Date` en la base global `TO-DO LIST > T.TRABAJO > ACTIVIDADES`.

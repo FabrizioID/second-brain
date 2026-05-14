@@ -54,3 +54,4 @@ El 2026-05-14 se creo el proyecto como fila padre/desplegable en la base global:
 - Regla confirmada por usuario: Codex puede actualizar `Status`, pero no debe marcar `Checkbox` en la base global salvo pedido explicito.
 - 2026-05-14 ajuste de responsabilidad: en `TO-DO LIST` se archivaron subitems que parecian ejecucion directa de Alex (`D | Preparar matriz...`, `D | Organizar avance...`, `D | Controlar discrepancias...`). En global deben quedar solo seguimiento/coordinacion del usuario.
 - Global vigente bajo `The Circle`: seguimiento a Alex, seguimiento RFI/consultas si Alex detecta vacios, y dos gestiones ya en Status 100 (validar torre con Carlos; pasar informacion/plantilla a Alex).
+- 2026-05-14: Se completaron `Observacion`/`Observación` en los subitems globales vigentes para dejar contexto de responsable real, cliente, criterio de seguimiento y razon del status.
