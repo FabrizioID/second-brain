@@ -48,6 +48,7 @@
 - Brochure 2025 recuperado con agenda historica real.
 - Brochure sponsors 2026 recuperado como fuente comercial, con pendiente de reconciliacion de precios.
 - Ejes tematicos 2026 documentados como entregable academico gestionable.
+- La capa estrategica de ejes no siempre coincide con el nombre publico de campaña; para piezas visuales revisar `memory/ejes-publicos-2026.md`.
 - Prueba social 2025: +40 speakers/panelistas, +350 asistentes y +20 colaboradores/sponsors.
 
 ### Threads Clave
