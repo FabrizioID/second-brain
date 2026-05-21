@@ -201,3 +201,19 @@ Las mismas cinco actividades fueron creadas en la BD general de Fabrizio `ACTIVI
 ### Regla aplicada
 
 Todas las actividades fueron registradas sin marcar checkboxes. En AECODE se uso estado `Listo` para reflejar avance realizado, manteniendo `Terminado=false` y `Pasar a requerimiento=false`. En Fabrizio se mantuvo `Checkbox=false`.
+
+### Correccion de jerarquia AECODE
+
+El usuario aclaro que las actividades no debian quedar solo asociadas al area academica, sino como subactividades de entregables marco.
+
+Se corrigio en Notion AECODE:
+
+- `G | Definicion de agenda del congreso viernes 17 y sabado 18 Summit 2026` quedo como subactividad de `Agenda academica AI Construction Summit 2026`.
+- Se creo el entregable marco `Flujo de comunicacion con ponentes Summit 2026`.
+- Quedaron como subactividades de `Flujo de comunicacion con ponentes Summit 2026`:
+  - `G | Coordinacion de speakers tentativos por bloques Summit 2026`
+  - `G | Diseno del flujo de comunicacion con speakers Summit 2026`
+  - `G | Cierre de plantilla de carta de invitacion a speakers Summit 2026`
+  - `G | Planteamiento de automatizacion para seguimiento de status de speakers Summit 2026`
+
+Se mantuvo la regla de no marcar checkboxes salvo pedido explicito.
