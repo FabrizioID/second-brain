@@ -173,3 +173,31 @@ Tambien se actualizo la BD general de Fabrizio con actividades espejo bajo `AI S
 - `G | Reunion de definicion de agenda academica Summit 2026`
 - `G | Reunion de lluvia de ideas de ponentes Summit 2026`
 - `G | Reunion de actualizacion de ejes tematicos AI Summit 2026`
+
+## Actualizacion Notion - 2026-05-20
+
+Se documentaron nuevos avances del team academico en Notion AECODE y se replicaron como actividades espejo en la BD general de Fabrizio bajo `AI Summit`.
+
+### Actividades cargadas
+
+En `BD - Entregables por area Summit` de AECODE, relacionadas al equipo `Academico (Contenido y Programa)`, se crearon:
+
+- `G | Definicion de agenda del congreso viernes 17 y sabado 18 Summit 2026`
+- `G | Coordinacion de speakers tentativos por bloques Summit 2026`
+- `G | Diseno del flujo de comunicacion con speakers Summit 2026`
+- `G | Cierre de plantilla de carta de invitacion a speakers Summit 2026`
+- `G | Planteamiento de automatizacion para seguimiento de status de speakers Summit 2026`
+
+Las mismas cinco actividades fueron creadas en la BD general de Fabrizio `ACTIVIDADES`, bajo el parent `AI Summit`.
+
+### Detalles documentados
+
+- La agenda academica ya queda definida para viernes 17 y sabado 18 de julio, con separacion por bloques, tiempos, pausas, almuerzo, startups, AECODE Skills/F3, agentes, vision computacional, debate, paneles y cierre.
+- Se coordinaron speakers tentativos por bloques/ejes, priorizando pertinencia AEC, evidencia visible y viabilidad Peru/LATAM.
+- Se diseno el flujo de comunicacion con speakers: Daniella lidera envio/seguimiento; Julie revisa agenda y bloques; Fabrizio comunica confirmados a Marketing; tras aceptacion se pide informacion por WhatsApp.
+- Se cerro la plantilla base de carta de invitacion a speakers.
+- Se plantearon automatizaciones para seguimiento de estados de speakers: por invitar, invitado, follow-up, acepto, confirmado y no puede.
+
+### Regla aplicada
+
+Todas las actividades fueron registradas sin marcar checkboxes. En AECODE se uso estado `Listo` para reflejar avance realizado, manteniendo `Terminado=false` y `Pasar a requerimiento=false`. En Fabrizio se mantuvo `Checkbox=false`.
