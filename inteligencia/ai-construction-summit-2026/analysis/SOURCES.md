@@ -16,3 +16,4 @@
 | `analysis/brief-5-desarrollo-web-aecode-extract.md` | Extracto del brief de Web/App. |
 | `analysis/area7-mkt-difusion-summit2026-extract.md` | Extracto del brief de Marketing/Difusion. |
 | `analysis/plan-marketing-area-7.md` | Plan operativo textual de Marketing. |
+| `analysis/agenda-cerrada-google-sheet-2026-05-21.csv` | Export CSV de la agenda cerrada del Google Sheet operativo: `https://docs.google.com/spreadsheets/d/1R47-ibcOsUJnEXOqdz0PhZJCgQPHPXZFOaNM2s9ojYQ/edit?gid=574900526#gid=574900526`. Fuente de verdad actual para slots, tiempos, ponentes sugeridos y estados de carta/confirmacion. |

@@ -217,3 +217,36 @@ Se corrigio en Notion AECODE:
   - `G | Planteamiento de automatizacion para seguimiento de status de speakers Summit 2026`
 
 Se mantuvo la regla de no marcar checkboxes salvo pedido explicito.
+
+## Actualizacion agenda cerrada - 2026-05-21
+
+El usuario compartio el Google Sheet operativo definitivo de agenda:
+
+- URL: `https://docs.google.com/spreadsheets/d/1R47-ibcOsUJnEXOqdz0PhZJCgQPHPXZFOaNM2s9ojYQ/edit?gid=574900526#gid=574900526`
+- Export local en repo: `analysis/agenda-cerrada-google-sheet-2026-05-21.csv`
+- Filas utiles detectadas: 38.
+
+### Lectura incorporada
+
+La agenda queda como fuente de verdad cerrada. No corresponde reabrir el diseno salvo pedido explicito; el trabajo siguiente es asignar/confirmar ponentes dentro de la estructura.
+
+La agenda conserva la logica construida en conversacion, con ajustes ligeros:
+
+- Viernes 17/07/2026: onboarding/apertura, vision y adopcion, tecnologia/decision ejecutiva, datos/BIM, bloque de startups que presentan soluciones como resultado del call previo, cierre teaser.
+- Sabado 18/07/2026: registro/recap, implementacion/adopcion, AECODE Skills/F3, startup buffers, panel de implementacion, almuerzo, agentes IA, vision computacional, debate sobre datos/confianza/autonomia, coffee, obra inteligente, robotica/construccion 4.0, panel LATAM, comunidad AECODE y clausura.
+
+### Variable nueva: sponsors con ponentes
+
+Se incorporo una restriccion operativa nueva: algunos sponsors ya cerrados, especialmente Gold y Diamante, pueden venir con ponentes. Esto afecta la agenda en la capa de asignacion de speakers, no en la arquitectura base.
+
+Regla absorbida:
+
+- No modificar la agenda cerrada por defecto.
+- Insertar ponentes sponsor solo donde calcen con eje, formato y funcion narrativa.
+- Cuidar que un sponsor no convierta un slot academico en pitch comercial.
+- Diferenciar origen del ponente: curado, sponsor, AECODE, GEN, startup, institucional.
+- Para sponsors Gold/Diamante, evaluar si su aporte funciona mejor como keynote, caso aplicado, demo o panelista.
+
+### Implicancia para el pipeline academico
+
+El seguimiento de speakers debe cruzar `status de carta`, `status de confirmacion`, `empresa/sponsor`, `bloque` y `tipo de origen`. Julie debe cuidar equilibrio de agenda; Daniella seguimiento/carta; Fabrizio comunica confirmados a Marketing.
