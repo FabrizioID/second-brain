@@ -1,0 +1,1180 @@
+﻿PLAN DE EJECUCIÓN BIMPEB PLAN DE EJECUCIÓN BIMPEB 
+PLAN DE EJECUCIÓN BIM
+PEB 
+PLAN DE EJECUCIÓN BIM
+PEB 
+"MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA""MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA"
+"MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA"
+"MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA"
+ÍNDICE
+Contenido
+PLAN DE EJECUCIÓN BIM – PEB4
+3.2.1.Levantamiento de instalaciones existentes11
+3.2.2.Diseño de especialidades12
+3.2.3.Elaboración de documentación13
+3.2.4.Visualización 3D14
+3.2.5.Coordinación 3D15
+3.2.6.Detección de interferencias15
+3.2.7.Planificación de la fase de ejecución17
+3.2.8.Análisis del entorno físico18
+3.2.9.Revisión del diseño19
+4.3.1.Nivel de detalle e información (NDI)-LOD22
+3.3.1.Nomenclatura de Archivos23
+3.3.2.ESTRATEGIA DE FEDERACIÓN28
+A.COORDENADAS28
+B.UNIDADES28
+C.IDIOMA29
+4.3.1.DEFINICION DE ROLES29
+6.1.2ORGANIGRAMA DEL EQUIPO30
+6.1.3ROLES BIM31
+A.Coordinador BIM31
+B.Modelador BIM31
+4.4.1.Hardware32
+4.4.2.Software y Formatos de Entrega34
+5.3.1.Entorno Común de Datos (CDE)35
+5.3.2.Estrategia de transmisión de datos37
+5.3.3.Estructura de carpetas37
+5.3.4.Intercambio de información39
+5.3.5.Interfaz con Terceros39
+5.3.6.Gestión de Cambios39
+5.5.1.Reuniones. Desarrollo de las Sesiones ICE40
+5.5.2.Gestión de Incidencias/Incompatibilidades41
+5.5.3.Comunicaciones42
+5.5.4.Reportes e indicadores de la gestión BIM44
+1.ANEXO PEB N°1 FORMATO DE ACTA DE COORDINACIÓN46
+2.ANEXO PEB N°2 FORMATO DE ACTA ICE46
+3.ANEXO PEB N°3 FORMATO N° 5 (REGISTRO DEL PLAN DE EJECUCIÓN BEP)46
+4.ANEXO PEB N°4 LICENCIA DE SOFWARE46
+5.ANEXO PEB N°5 CRONOGRAMA DE COORDINACIÓN E HITOS46
+PLAN DE EJECUCIÓN BIM – PEB
+PLAN DE EJECUCIÓN
+INTRODUCCIÓN
+El objeto del presente documento es establecer el alcance y desarrollo de la metodología de trabajo para dar respuesta a los requerimientos BIM para "MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA".
+El presente Plan de Ejecución BIM (PEB) es el documento de control en el que se regulan las prácticas para el desarrollo y organización de la información mediante metodología BIM. A continuación, se especificarán estrategias de modelado, procesos, recursos, técnicas, herramientas, sistemas; en resumen, compila los mecanismos aplicados para asegurar el cumplimiento de los requisitos BIM solicitados por el cliente. 
+El PEB tiene como finalidad asegurar la calidad de los modelos, garantizando por un lado la comunicación constante con el cliente para el cumplimiento y cierre de las diferentes etapas de evolución, así como la coordinación entre las disciplinas implicadas. Las modificaciones al PEB deberán ser consensuadas entre los agentes y acordadas con el cliente previamente a publicar una actualización, en especial, aquellas que impliquen cambios en el alcance de los modelos y procesos BIM.
+OBJETIVOS
+Los objetivos principales del presente Plan de Ejecución BIM son:
+Responder y satisfacer los "LINEAMIENTOS DE TRABAJO PARA LA ELABORACIÓN DE INGENIERÍA CON LA METODOLOGÍA BIM”, para así poder optimizar la gestión colaborativa de la información, disminuyendo desperdicios de recursos durante la etapa de diseño y de construcción, y generando la información base para el AIM (Modelo de Información del Activo).
+Describir los lineamientos BIM para el desarrollo de la ingeniería requerida en base a una gestión colaborativa basada en la metodología BIM.
+Definir los objetivos, visión, procesos y procedimientos que seguirán todos los participantes del proyecto.
+Definir los estándares de información BIM requeridos con el propósito de alinear la gestión BIM del proyecto con la visión y objetivos planteados.
+Definir los protocolos de comunicación y cualquier otro participante del proyecto.
+Objetivos Específicos
+Obtener un modelo que pueda ser utilizado en las etapas de expediente técnico y construcción del proyecto.
+Desarrollar la planificación de la ejecución de obra identificando las principales problemáticas y fases constructivos que permitan minimizar riesgos durante la obra
+Desarrollar un producto óptimo, que minimice el riesgo, la generación de adiciones y falta de información.
+Gestionar las comunicaciones interdisciplinarias asociadas al desarrollo de la ingeniería, así como mitigar la latencia en la gestión de cambios y/o modificaciones al diseño mediante un entorno de datos y las sesiones ICE.
+Desarrollar la entrega y revisión de la información de un Entorno Común de Datos (ECD), para el registro de la trazabilidad de la documentación, los estados de revisión de los entregables, el seguimiento y control de avances.
+Seguimiento de las pautas para la preparación del Plan de Ejecución BIM, detallando procedimientos, roles responsabilidades, entre otros.
+Describir los diferentes tipos de entregables BIM que se deberán presentar, asegurando que los modelos BIM y la documentación asociada cumplan con los requisitos contractuales, tales como el Plan de Ejecución BIM y los modelos federados. 
+Desarrollo del proyecto mediante la metodología BIM, permitiendo la colaboración e integración de los modelos de información y a partir de ello desarrollar información 2D, como planos, especificaciones técnicas, tablas de cuantificación y metrados.
+Generar el cálculo de cantidades (metrados), estimaciones del costo y presupuesto del proyecto a partir del modelo, desde las primeras fases del ciclo de vida del proyecto.
+OBLIGACIONES DE LA GESTIÓN BIM
+De acuerdo con los términos de referencia ANEXO B “TÉRMINOS DE REFERENCIA MODELO BIM”, se plantea lo siguiente:
+Plantear como modelo de gestión para el proyecto adjudicado, involucrando a todos los especialistas, que esto supondrá realizar el proyecto usando la metodología BIM.
+Desarrollar el Plan de Ejecución BIM (PEB), sus actualizaciones a partir de los presentes lineamientos y del TDR del proyecto, velando por su estricto cumplimiento.
+Crear y desarrollar todos los modelos BIM y la documentación técnica asociada, tanto a nivel de avance y finales que se deben emitir y presentar. El consorcio logrará los tiempos de entrega del proyecto acordados bajo el modelo de gestión BIM respetando los estándares BIM propuestos por los lineamientos descritos en el presente documento.
+Definir las plataformas BIM que permitan cumplir con los usos BIM requeridos en el presente documento.
+Proveer a todos sus colaboradores las licencias y equipos necesarios; así como asegurar las características adecuadas de los mismo para asegurar el correcto desarrollo de la gestión BIM.
+Proporcionar para fines de la gestión y coordinación general un equipo BIM, conformado como mínimo por un coordinador BIM, y modeladores. 
+Entregar todos los modelos BIM, en sus formatos originales, de revisión y de presentación, durante y una vez termine el servicio; siendo Provias Descentralizado el dueño de los modelos y creaciones generados, los cuales estarán en calidad de préstamo con el consorcio hasta la finalización del servicio.
+ALCANCES
+De acuerdo con los términos de referencia ANEXO B “TÉRMINOS DE REFERENCIA MODELO BIM”, se plantea lo siguiente:
+El modelo de gestión BIM planteado por elCONSORCIO VIAL APURIMACdebe contemplar los requerimientos descritos por los términos de referencia en el presente documento. Se define como alcances generales lo siguiente:
+Desarrollo del PEB y actualizaciones durante el servicio de la consultoría.
+Desarrollo y entrega de los Modelos BIM cumpliendo con los usos, niveles de detalle de información.
+Gestión de la documentación, entrega y actualizaciones correspondientes al desarrollo de la ingeniería a través del ECD definido.
+Planificación y desarrollo de las sesiones ICE, asociados con el desarrollo colaborativo del diseño del proyecto.
+Emisión y presentación de los Informes de avance BIM.
+AVISOS SOBRE EL DOCUMENTO
+En el marco actual existe una gran cantidad de guías y estándares BIM (tanto a nivel nacional como internacional) que nos permiten componer una estrategia BIM a nivel organizativo. Sin embargo, el Consorcio se regirá de acuerdo con el contrato de la consultoría, pero se consideran como guía los siguientes estándares y normativas:
+ISO 19650–1: Organización y digitalización de la información en obras de edificación e ingeniería civil que utilizan BIM. Gestión de la información al utilizar BIM.
+NTP ISO 19650-1: Norma adaptada de las normas ISO 19650 al contexto nacional peruano y articuladas con los procesos del ciclo de inversión para el proceso de Gestión de la Información BIM para el desarrollo de inversiones y que han sido utilizadas para elaborar los Documentos y Herramientas BIM descritas dentro del PLAN BIM PERÚ.
+NTP ISO 19650-2: Norma adaptada de las normas ISO 19650 al contexto nacional peruano y articuladas con los procesos del ciclo de inversión para el proceso de Gestión de la Información BIM para el desarrollo de inversiones y que han sido utilizadas para elaborar los Documentos y Herramientas BIM descritas dentro del PLAN BIM PERÚ.
+Plan BIM Perú, Guía Nacional BIM. Gestión de la información para inversiones desarrolladas con BIM, 2023: Guía Nacional BIM. Gestión de la información para inversiones desarrolladas con BIM. Ministerio de Economía y Finanzas. Dirección General de programación Multianual de Inversiones. Dirección de Política y Estrategias de la Inversión Pública.
+PROYECTO
+INFORMACIÓN PRINCIPAL DEL PROYECTO
+Tabla Nº1 – Información del proyecto
+TÉRMINO
+VALOR
+PROPIETARIO
+MTC
+NOMBRE PROYECTO
+EXPEDIENTE TÉCNICO DE OBRA DEL PROYECTO: "MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA".
+BREVE DESCRIPCION DEL PROYECTO
+Elaborar el Expediente Técnico de Obra, que comprenden estudios de ingeniería, el instrumento de gestión ambiental certificado, certificación de inexistencia de restos arqueológicos (CIRA) y la formulación de los resultados, cálculos, planos especificaciones técnicas y metrados.
+Fuente: Elaboración Propia.
+CARACTERÍSTICAS DE UBICACIÓN DEL PROYECTO
+Tabla Nº2 – Características del proyecto
+TÉRMINO
+DESCRIPCIÓN
+REGIÓN
+PIURA
+PROVINCIA
+CAÑETE
+DISTRITO
+CERRO AZUL Y QUILMANA
+TRAMOS
+“MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA”
+ZONA UTM
+18L
+Descripción
+Norte
+Este
+cota
+Margen izquierdoProg. 0+000
+8,559,788.861
+340,047.605
+1.794
+Margen derecho Prog. 10+405
+8,566,092.521
+346,557.009
+109.457
+Fuente: Elaboración Propia.
+FASES E HITOS DEL PROYECTO
+Las características del modelo y su propio manejo de información varían y evolucionan según las diferentes fases de la vida útil del activo. En el presente termino de referencia se incluye la “MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM -878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA”, con la metodología BIM. La relación de fases del activo con los hitos del proyecto y sus entregables son las indicadas en la tabla que se muestra a continuación:
+Tabla Nº3 – Fases e hitos del proyecto
+FASES E HITOS DE PROYECTO
+N° Entregable
+Descripción
+Equipo Encargado
+Contenedor de información
+Método de entrega
+1
+Modelos 3D con los puntos de Control utilizados para la georreferenciación de los levantamientos topográficos
+MDT correspondientes a los levantamientos topográfico
+Modelo de infraestructuras existentes
+CONSORCIO VIAL ROLDAN
+LandXML
+DWG
+RVT
+IFC
+Envio de Link de Acceso al CDE por email
+2
+Modelos de Ejes y Modelos de Corredores
+Modelos 3D de los estratos del suelo y ubicación de niveles de cimentación propuestos
+Modelos de Ubicación de las superficies de lámina de agua correspondientes a diferentes caudales de diseño y ubicación de estructuras de protección
+Modelos de ubicación de canteras y MDE
+CONSORCIO VIAL ROLDAN
+LandXML
+DWG
+RVT
+IFC
+3
+Modelos arquitectónicos de la señalización
+Modelos BIM definitivos de elementos estructurales de los puentes con inclusión de armaduras de refuerzo pasivas y activas, acero estructural, injertos, anclajes.
+CONSORCIO VIAL ROLDAN
+LandXML
+DWG
+RVT
+IFC
+4
+Metrados obtenidos a partir del modelo BIM y referenciado a los parámetros del modelo
+Modelo BIM Compatibilizado
+Modelado secuencia constructiva según procedimiento constructivo propuesto
+CONSORCIO VIAL ROLDAN
+Formato RVT
+XLSL
+AVI/MP4
+IFC
+Fuente: Elaboración Propia.
+ESTRATEGIA BIM 
+OBJETIVOS BIM DEL CLIENTE RELACIONADOS CON USOS BIM
+Los usos BIM es la utilidad que se le da a los modelos BIM a lo largo del ciclo de vida de un proyecto, es innegable su relación con los objetivos y las diferentes fases del proyecto. Como estrategia base, cada uso BIM debe estar vinculado o dar respuesta a cada objetivo expuesto por el cliente, esto nos permitirá lograr el cumplimiento del alcance del proyecto, optimizando el desarrollo de la información.
+En este sentido, el consorcio plantea 11 usos BIM esperados para el proyecto de acuerdo con el Plan BIM Perú, estos son los siguientes:
+Tabla Nº4 – Objetivos BIM
+N°
+OBJETIVO
+USO BIM ASOCIADO
+1
+Levantamiento Topográfico, Levantamiento de las Condiciones Existentes del Lugar y Estudios: Modelamiento de elementos como pistas, drenajes, cercos o edificaciones existentes en un nivel de desarrollo conceptual, así como de calicatas, diamantinas, sondajes, canteras, fuentes de agua, sistemas de hidrología, entre otros según el requerimiento del nivel de ingeniería adjudicada
+Levantamiento de Condiciones existentes
+2
+Diseño de las especialidades requeridas para el proyecto de inversión realizando modelos de información. Específicamente para este uso se requiere: - Desarrollo del diseño para todas las especialidades del proyecto. I. Conceptual. II. Básico. - Revisión de la Normativa asociada a la infraestructura del proyecto.
+Diseño de especialidades
+3
+Utilización del modelo de información para extraer datos esenciales y documentación técnica requerida para el desarrollo de las inversiones, así como para el desarrollo de planos y la información contenida en ellos (tablas, listas, esquemas, entre otros).
+Elaboración de documentación
+4
+Utilización del Modelo de información para mostrar, comunicar y previsualizar el activo mediante imágenes 3D, fotomontajes, recorridos virtuales y otras herramientas gráficas visuales. No solo se trata de unas herramientas de difusión o socialización, sino de una herramienta para facilitar el entendimiento de la propuesta de diseño entre los diferentes miembros del Equipo del Proyecto.
+Visualización 3D
+5
+Es la acción donde las partes involucradas coordinan el desarrollo del diseño o construcción, haciendo uso de software y plataformas que admiten los distintos formatos de intercambio de información
+Coordinación de la Información
+6
+Detección de interferencias en la geometría del Modelo de Información, las cuales pueden causar problemas en la ejecución física de la inversión. Este proceso puede usar software de análisis de interferencias para automatizar el proceso de revisión; sin embargo, también puede realizarse de manera visual a través de recorridos virtuales.
+Detección de interferencias e incompatibilidades
+7
+Utilización del Modelo de Información para generar cantidades de componentes y materiales del activo, para que, en base a esta información, se realicen las estimaciones de costos.
+Estimación de cantidades y costo
+8
+Utilización de los Modelos de Información para revisar y validar los múltiples aspectos del diseño de todas las especialidades de un proyecto. Estos aspectos incluyen la visualización del diseño en un entorno virtual y los criterios de iluminación, seguridad, ergonomía, acústica, texturas, colores, etc., así como la normativa y reglamentación vigente.
+Revisión del diseño
+9
+Evaluación de las propiedades y características del entorno para determinar la ubicación óptima para la ejecución de la obra. Este uso puede ser aplicado para analizar, planificar, simular y visualizar el impacto de una obra de infraestructura en los aspectos geográficos de la zona.
+Análisis del entorno físico
+10
+Planificación para determinar las fases o etapas constructivas de la
+inversión a partir de un modelo de información. La aplicación de este
+uso permite controlar y optimizar la fase de ejecución y el tiempo de la
+inversión. Específicamente para este uso se requiere:
+Planificación y programación 4D.
+Planificación de la fase de ejecución.
+11
+Revisión de los procesos y métodos de construcción antes de que comience la etapa de construcción, con la finalidad de identificar posibles obstáculos y fallas de diseño que podrían resultar en retrasos en el cronograma, sobrecostos, reelaboración, etc.
+Análisis de la capacidad constructiva
+Fuente: Elaboración Propia.
+METODOLOGÍAS DE APLICACIÓN DE CADA USO BIM.
+Levantamiento de instalaciones existentes
+A partir de la nube de puntos y la información recopilada en campo, se procederá a la realización de un modelo simplificado de las infraestructuras existentes dentro de las áreas de actuación del contrato (i.e. pistas, drenajes, cercos o edificaciones existentes, instalaciones, elementos de mobiliario, etc.) que sirva de referencia para la realización de los trabajos. En términos generales, el objetivo es realizar un modelo sencillo mediante elementos volumétricos de aquellas edificaciones/infraestructuras cercanas a la zona de actuación que servirán para coordinación, para una mejor integración del conjunto y para visualizaciones. 
+El LOD de los elementos existentes tendrá como mínimo un LOD 200
+El levantamiento de las condiciones existentes formará parte de los entregables finales, integrándose dentro del modelo federado. Este modelo consolidado será clave para proporcionar al cliente una visión completa y precisa del proyecto, combinando tanto los elementos existentes como los nuevos diseños propuestos.
+Figura Nº1 – Diagrama de flujo de Levantamiento de instalaciones existentes
+Fuente: Elaboración Propia.
+Diseño de especialidades
+Es el proceso de creación de uno o más modelos BIM de acuerdo con la división de modelo propuesta para el diseño de las especialidades requeridas para el proyecto y su revisión de la normativa asociada a la infraestructura el proyecto. Es un paso clave para incorporar soluciones técnicas del diseño, soluciones que nos permitirán extraer información para su futuro uso. Los diseños se realizan íntegramente con metodología BIM, éstos incluyen procesos estandarizados de definición, modelación, extracción de planos de los modelos de información, algunos cálculos de especialidades, cuantificación y otros usos que son transversales a este punto. El detalle del contenido, por cada especialidad, obtenido de los modelos BIM, se encuentra reflejado en el listado de entregables y la matriz de Objetos BIM. Para ello los modelos avanzarán al desarrollo de un LOD 300 según los requerimientos de los términos de referencia.
+Todos los modelos de las especialidades contarán con vínculos a los modelos actualizados del resto de especialidades dentro de la plataforma Autodesk Construction Cloud, para la generación de accesos a los principales elementos del modelo y que sean de interés para su uso en otros modelos o por otras especialidades. El Modelo Federado estará presente en las reuniones de coordinación, tanto las internas del equipo de diseño como en las reuniones técnicas periódicas de seguimiento del proyecto que se realizarán con PROVIAS DESCENTRALIZADO, esto será una parte clave de la estrategia de coordinación BIM en las que el modelo BIM servirá de base para la toma de decisiones. 
+Figura Nº2 – Diseño de especialidades
+Fuente: Elaboración Propia
+Elaboración de documentación
+Se debe a la creación de todos los documentos necesarios para el presente proyecto, basándose fielmente en el modelo BIM siempre haciendo referencia que elementos pertenecen al modelo y cuáles son elementos auxiliares. El uso permitirá que, a partir del modelo de información se extraerán datos esenciales y documentación técnica requerida para el desarrollo de las inversiones, así como para el desarrollo de planos y la información contenida en ellos (tablas, listas, esquemas, entre otros). Cabe señalar que cada modelo estará detallado en la matriz BIM de modelos. 
+Específicamente para este uso se requiere: 
+Elaboración de planos de diseño asociados al expediente del proyecto: Planos de planta, cortes, elevaciones, detalle, vistas 3D, tablas de detalle o tipología de elementos, Tablas de metrados
+Reflejo de la información no grafica de los elementos.
+Nivel de detalle necesario. 
+Figura Nº3 – Elaboración de documentación
+Fuente: Elaboración propia.
+Visualización 3D
+Uso de los modelos BIM para comunicar información visual, espacial y funcional entre los agentes intervinientes durante el contrato para la coordinación del diseño. Siendo el modelo 3D la herramienta visual principal durante todo el ciclo de vida, ésta nos permitirá la interpretación y compresión del proyecto por parte de todos los agentes, así como evaluar las soluciones de diseño y favorecer la toma de decisiones.
+Se utilizarán herramientas de software nativo, de gestión, comunicación y el propio CDE para la visualización de modelos parciales o federados, y se potenciará su uso durante las reuniones de diseño. El modelo BIM generado será utilizado como punto de partida para generar imágenes realistas o simbólicas según necesidades, destinadas a comunicación comercial, institucional, relativa al negocio y su gestión o sencillamente de difusión política.
+Figura Nº4 – Visualización 3D
+Fuente: Elaboración propia.
+Coordinación 3D
+El uso es coordinación de la información, que es la acción donde las partes involucradas coordinan el desarrollo del diseño y su planificación de construcción, haciendo uso del software y la plataforma colaborativa de intercambio de información, que admiten los distintos formatos. Dentro de la plataforma colaborativa, se utilizarán los modelos como una base de datos viva a disposición del resto de disciplinas del proyecto.
+Este uso en realidad va en consonancia de otros usos especificados anteriormente citados, como son: la obtención de planos, la gestión de datos, obtención de cantidades, planificación de fases y la coordinación de especialidades, pero también de los diferentes análisis que pudieran producirse como gestión de la información contenida en los modelos.
+Figura Nº5 – Coordinación 3D.
+Fuente: Elaboración propia.
+Detección de interferencias
+Trata de la estrategia de coordinación, revisión y auditoría de la calidad geométrica de los modelos. A partir de los diferentes modelos de disciplinas generados, se obtendrá un Modelo de Coordinación, como input del uso, realizado con el software Navisworks Manage, mediante el cual se revisará la coordinación de todas las disciplinas implicadas en el proyecto. Durante el proceso de modelado, realizará test de interferencias para poder detectar errores, descoordinaciones u omisiones de información. Estos controles se realizarán mediante el modelo federado, aplicando una matriz de interferencias.
+Se analizarán los resultados en función de: 
+Interferencia debida a un error/duplicado de modelado. En este caso, el BIM Manager avisará al responsable de dicho cambio.
+Interferencia debida a una colisión entre disciplinas. En este caso, el BIM Manager en la reunión técnica de seguimiento avisará de dicha colisión y se decidirá la solución a seguir. El BIM Manager será el responsable de definir este Modelo y los tests de interferencias a realizar (basados en la matriz de interferencias). El número de tests a realizar irán en función del avance del proyecto, es decir, se irá incrementando su número a medida que el proyecto avanza. Finalmente, se entregará un modelo “clash-free”, considerando la definición de este modelo como un modelo donde las interferencias críticas se han resuelto o aprobado por parte del equipo de diseño y el cliente.
+Tabla Nº5 – Matriz de Interferencias
+DISCIPLINA
+Entorno
+Topografía
+Geotecnia
+Pavimentos
+Drenaje
+Estructura
+Instalaciones
+Señalización
+Entorno
+CD
+1
+1
+1
+2
+3
+2
+1
+Topografía
+CD
+1
+2
+2
+2
+2
+1
+Geotecnia
+CD
+2
+2
+1
+1
+1
+Pavimentos
+CD
+3
+3
+2
+2
+Drenaje
+CD
+2
+2
+1
+Estructura
+CD
+2
+2
+Instalaciones
+CD
+2
+Señalización
+CD
+Fuente: Elaboración propia.
+Esta matriz de interferencia para modelos BIM muestra la relación y el nivel de prioridad entre diferentes disciplinas dentro de un proyecto. Cada celda indica la importancia de gestionar y coordinar posibles interferencias entre disciplinas específicas para minimizar conflictos durante el desarrollo del modelo. La matriz utiliza tres niveles de prioridad y un control de disciplina propio:
+CD (Control de Disciplina): Identifica que la disciplina no tiene interferencias que requieran coordinación externa.
+1 (Prioridad Baja): Indica una baja probabilidad de conflicto o impacto leve en el proyecto, por lo que no es necesario dedicar muchos recursos a su coordinación.
+2 (Prioridad Media): Representa una interacción de impacto moderado, por lo que es importante revisar estas áreas para evitar problemas potenciales.
+3 (Prioridad Alta): Señala áreas críticas de alta probabilidad de conflicto, donde se requiere una coordinación intensa y constante para prevenir problemas mayores.
+Planificación de la fase de ejecución
+La generación de los elementos de modelo en 3D permitirá visualizar y revisar procesos y métodos de construcción mediante la parametrización de dichos elementos y la asignación de distintas fases constructivas a los mismos.
+Modelos alineados con la planificación de obra (faseo constructivo) y la no afectación a la operación del aeropuerto. Con vinculación de los elementos de los modelos a las tareas de planificación de obra estimada a nivel de proyecto constructivo.
+Se realizará un vídeo desde Autodesk Navisworks que muestre la secuencia constructiva de las diferentes infraestructuras proyectadas.
+Figura Nº6 – Planificación de la fase de ejecución.
+Fuente: Elaboración propia.
+Análisis del entorno físico
+Cada modelo deberá estar georreferenciado y vinculados a un modelo federado según el Sistema de Coordenadas establecido para el proyecto, con propiedades otorgadas a los modelos que permitirá analizar, planificar, simular y visualizar el impacto de la infraestructura en los aspectos geográficos de la zona. De esta manera podemos actuar en el proceso del diseño no trabajando de manera aislada sino tomando en consideración el contexto del proyecto. 
+Específicamente para este se requiere:
+Desarrollo del Mapa de ruidos.
+Visualización de la zona de impacto ambiental en el modelo de información.
+Visualización de áreas arqueológicas (no incluye modelo de detalle).
+Visualización de las superficies limitadoras de obstáculos (SLO) de las distintas
+Fases constructivas de obra.
+Hidrología de la zona (modelo auxiliar)
+Figura Nº7 – Análisis del entorno físico
+Fuente: Elaboración propia.
+Revisión del diseño
+Figura Nº8 – Revisión del diseño
+Fuente: Elaboración propia.
+Se define la utilización del modelo de información para revisar y validar los múltiples aspectos del diseño de todas las especialidades de un proyecto, mediante procesos de extracción de datos esenciales y de documentación técnica, así como para el desarrollo de planos y la información contenida en ellos (tablas, listas, esquemas, entre otros). Dicho uso se ve fielmente reflejado en la utilización de los modelos BIM en reuniones de coordinación entre especialidades y que se realizarán desde fases iniciales de proyecto.
+ENTREGABLES BIM Y ALCANCE DE MODELADO
+ENTREGABLES BIM
+De acuerdo con los términos de referencia ANEXO B “TERMINOS DE REFERENCIA MODELO BIM”, tabla E.1 MATRIZ DE ENTREGABLES DE CONTROL los entregables BIM corresponden a toda la información que incluye documentación con relación a la gestión BIM, toda la clase de modelos de información del proyecto (modelos BIM), documentación asociada a los modelos BIM, reportes de la gestión BIM e indicadores de desempeño de la gestión definidos en el Plan de ejecución BIM (PEB). 
+Los tipos de entregables son los siguientes:
+Modelos BIM
+Formatos Nativos
+IFC
+Federado
+Auxiliares
+Plan de Ejecución BIM (PEB)
+Listado de entregables
+Documentos.
+Informes
+Memoria y Anexos
+Pliego de Prescripciones técnicas
+Plano
+Presentaciones
+Planificación de obra
+Estimación de cantidades y costos
+Material Audiovisual
+Video
+Cada plano, vista de plano o vista de detalle que no se extraiga directamente del modelo BIM debe quedar el registro del vínculo con el modelo de información correspondiente. De esta manera, se garantizará que la información descriptiva quede asociada a los modelos generados. 
+ALCANCE DE MODELADO
+El alcance del modelado BIM debe ser la extensión de los alcances en los requerimientos expuestos en los términos de referencia sumado a los objetivos y usos BIM descrito en este documento, considerando todos esos puntos se abordará las siguientes intervenciones: 
+Georeferenciación
+Topografía 
+Diseño Geométrico
+Señalización, Seguridad Vial
+Geología y Geotecnia
+Hidrología e hidráulica
+Estudio de Suelos, Canteras Fuentes de Agua y Pavimentos
+Estructuras
+Procedimientos Constructivos
+NIVEL DE INFORMACIÓN NECESARIO
+De acuerdo con los términos de referencia ANEXO B “TERMINOS DE REFERENCIA MODELO BIM”, para definir los alcances BIM asociados a los objetivos se emplearán 3 conceptos:
+Nivel de Desarrollo / Levelofdevelopment (LOD)
+Nivel de Información / Leve lof Information (LOI)
+Este párrafo subraya la importancia del modelo BIM como el eje central de la coherencia y precisión de la información gráfica en un proyecto. Dado que el modelo es la principal herramienta para generar y gestionar esta información, es esencial que se defina desde el inicio el nivel de detalle y tipo de información que debe contener para garantizar que el desarrollo del proyecto sea fluido y adecuado en cada fase, desde el diseño conceptual hasta la construcción y operación. La definición temprana de estos parámetros asegura que los equipos puedan coordinarse y cumplir con los objetivos del proyecto, evitando errores o inconsistencias.
+Nivel de detalle e información (NDI)-LOD
+El concepto de NDI-LOD combina estos dos aspectos, un estándar tanto para la precisión geométrica de los elementos modelados como para la información asociada que deben contener, permitiendo que los modelos BIM sean más útiles para las diversas fases del ciclo de vida del proyecto. El NDI establece que no solo el detalle geométrico es importante, sino también los datos y metadatos asociados, como especificaciones técnicas, propiedades de materiales, requisitos de mantenimiento, entre otros. Esta será la definición de los tipos y la definición de los niveles LOD que se debe considerar para el desarrollo de este servicio:
+Figura Nº9 – Tipos de LOD
+Fuente: Elaboración propia a partir de conceptos del Instituto Americano de Arquitectos (AIA).
+A continuación, se define el concepto de los niveles LOD que se debe considerar para el desarrollo de este servicio.
+LOD 100: Es la información gráfica e información no gráfica conceptual que aporta una visión general. En este nivel los elementos modelados pueden representarse con símbolos genéricos de 2D o 3D. De manera general aportará el volumen, la orientación y el área. Se usará como mínimo para análisis conceptuales, alternativas de diseño, desarrollo de planos generales a nivel de ingeniería conceptual, costes estimados genéricos, y fases de programación de obra preliminares. Estará asociado al estudio de cabida, planes maestros, alternativas de diseño e ingeniería conceptual y preliminar.
+LOD 200: Es la información gráfica e información no gráfica genérica. En este nivel los elementos modelados identifican los sistemas, objetos y equipos, pero genéricos obteniendo datos y metrados aproximados y referenciales. Define aproximadamente cantidades, tamaño, sistemas, forma y ubicación; también incluye información básica no gráfica como nivel del elemento, especialidad, sistema propuesto y características básicas. Se usará como mínimo para análisis, desarrollo de planos generales a nivel anteproyecto o ingeniería conceptual, alternativas de diseño, metrados genéricos, presupuestos, programación de obra, coordinación y definición general de tipos de elementos - o sistemas. Estará asociado al desarrollo de anteproyectos, programa de áreas, alternativas de diseño e ingeniería conceptual.
+LOD 300: Es la información gráfica e información no gráfica definida. En este nivel los elementos modelados identifican los sistemas, objetos y equipos, obteniendo datos y metrados. Define de manera exacta cantidades, tamaño, sistemas, forma y ubicación; también incluye información detallada no gráfica vinculada a los elementos o sistemas. Se usará como mínimo para análisis y simulaciones del diseño, desarrollo de planos generales a nivel ingeniería básica, alternativas de diseño, metrados, presupuestos, programación de obra, y compatibilización de especialidades, vistas renderizadas y recorridos virtuales. Estará asociado al desarrollo de la ingeniería básica y desarrollo de perfiles.
+ORGANIZACIÓN DE MODELOS
+ESTRUCTURA DE DATOS
+Nomenclatura de Archivos
+La codificación de archivos consiste en una serie de códigos definidos para generar una estructura comprensible y manejable. De esta manera se pretende gestionar los documentos del proyecto de manera más ordenada posible.
+La nomenclatura propuesta consiste en una serie de campos, que se concatenan para formar el nombre del documento.
+2412448 – PVD/CVA- XXX - INF – YY - AAA – 00 - 2026
+En dónde: 
+2412448: Código de la inversión 
+PVD/CVR: Autor del documento (PROVIAS DESCENTRALIZADO / CONSORCIO VIAL ROLDAN)
+XXX: VOLUMEN DE INGENIERIA O AMBIENTAL 
+INF: INFORME
+YY: Numero Correlativo
+AAA: Especialidad 
+00: Numeración Correlativa
+2026: año 
+La nomenclatura asignada por el consorcio para la codificación base de los archivos es la siguiente:
+2412448 – PVD/CVA- XXX - INF – YY - AAA – 00 - 2026
+Cada uno de los intervinientes del proyecto deberá utilizar el Código de la inversión y Código del autor del proyecto, así como el esquema de codificación establecido por el consorcio.
+Para ello, se muestra a continuación las tablas referenciales de los acrónimos correspondientes para la codificación de archivos.
+Tabla Nº6 – Acrónimos para codificación
+Detalle y propuesta de convenciones de identificación
+Convenios deidentificación
+Obligación
+Código
+Nombre / Descripción
+Numero de contrato 
+Opcional 
+2412448
+CUI
+Autor 
+Opcional 
+PVD/CVR
+PROVIAS DESCENTRALIZADO / CONSORCIO VIAL ROLDAN
+Volumen o sistema 
+Opcional 
+EI
+ESTUDIOS DE INGENIERIA
+EA
+ESTUDIOS IMPACTO AMBIENTAL 
+EXP
+EXPEDIENTE
+01-02-03-04
+NUMERO DE INFORME 
+Tipo de documento
+Opcional 
+INF
+INFORME
+3D 
+MODELO BIM 
+LEV
+LEVANTAMIENTO DE OBSERVACIONES
+ANX
+ANEXOS
+Disciplina 
+Requerido
+COMPONENTE DE INGENIERIA 
+GEO
+Georreferenciacion
+MC
+Modelo central 
+INV
+Inventario vial 
+TRAF
+Trafico
+TOPO
+Topografia
+DIG
+Diseño geométrico
+SCP
+Suelos, canteras y pavimentos
+ESU
+Estudio de Suelos
+ECA
+Estudio de Canteras 
+EPA
+Estudio de Pavimentos
+GEG
+Geologia y geotecnia
+ESTR
+Diseño estructural de obras de drenaje y obras complementarias
+SSG
+Señalizacion y seguridad vial
+HIDRO
+Hidrologia e hidraulica
+MET
+Metrados 
+PCO
+Procedimientos de construcion
+MRP
+Mantenimiento Rutinario y Periodico
+IC
+Informe de consistencia 
+CSTP
+Costos y Presupuestos 
+ETEC
+Especificaciones Técnicas
+GES
+Gestion de riesgos en la planificacion de la ejecucion de obras 
+COMP
+Informe de compatibilidad
+PMRP
+Plan de Mantemimiento Rutinario y Periódico
+PYA
+Permisos y Autorizaciones
+BEP 
+Plan de ejecución BIM
+INCO
+Informe de consideraciones para establecer el eje del trazo de la vía
+DVI
+Derecho de Via
+VANEX
+VOLUMEN Nº XIV: ANEXO
+ESTUDIO SOCIO AMBIENTAL
+AMB
+Estudio Socioambiental
+DIA
+Declaracion de impacto ambiental 
+SOC
+Social
+PAC
+Gestión de Afectaciones Prediales
+ARQ
+Arqueología
+ESTRUCTURA INFORME FINAL 
+REJ
+Resumen Ejecutivo
+MED
+Memoria Descriptiva
+APU
+Análisis de Precios Unitarios
+PRE
+Presupuesto de Obra
+CRO
+Cronogramas 
+VVP
+Verificación de Viavilidad del Proyecto
+PCVD
+Plan de Emergencia Sanitaria (COVID 19)
+Revisión
+Opcional
+REV
+Revisiones de Provías Descentralizado 
+N°
+ESPECIALIDAD
+COD
+INFORME 04
+LEV. INF.04
+COMENTARIOS
+V.1
+RESUMEN EJECUTIVO
+REJ
+2412448-PVD/CVA-EI-INF-04-REJ-00-2026
+2412448-PVD/CVA-EI-INF-04-REJ-LEV.01-2026
+-
+V.2
+MEMORIA DESCRIPTIVA
+MED
+2412448-PVD/CVA-EI-INF-04-MED-00-2026
+2412448-PVD/CVA-EI-INF-04-MED-LEV.01-2026
+-
+V.3
+ESTUDIOS DE INGENIERIA 
+-
+-
+-
+-
+V.4
+METRADOS
+MET
+2412448-PVD/CVA-EI-INF-04-MET-00-2026
+2412448-PVD/CVA-EI-INF-04-MET-LEV.01-2026
+-
+V.5
+ESPECIFICACIONES TÉCNICAS
+ETEC
+2412448-PVD/CVA-EI-INF-04-ETEC-00-2026
+2412448-PVD/CVA-EI-INF-04-ETEC-LEV.01-2026
+-
+V.6
+ANÁLISIS DE PRECIOS UNITARIOS
+APU
+2412448-PVD/CVA-EI-INF-04-APU-00-2026
+2412448-PVD/CVA-EI-INF-04-APU-LEV.01-2026
+-
+PRESUPUESTO DE OBRA
+PRE
+2412448-PVD/CVA-EI-INF-04-PRE-00-2026
+2412448-PVD/CVA-EI-INF-04-PRE-LEV.01-2026
+-
+CRONOGRAMAS
+CRO
+2412448-PVD/CVA-EI-INF-04-CRO-00-2026
+2412448-PVD/CVA-EI-INF-04-CRO-LEV.01-2026
+-
+V.7
+MANTENIMIENTO RUTINARIO Y PERIODICO 
+PMRP
+2412448-PVD/CVA-EI-INF-04-PMRP-00-2026
+2412448-PVD/CVA-EI-INF-04-PMRP-LEV.01-2026
+Se encuentra en el informe de Costos y Presupuestos
+V.8
+VERIFICACIÓN DE VIABILIDAD DEL PROYECTO
+-
+-
+-
+-
+V.9
+DELIMITACIÓN DEL DERECHO DE VIA
+DVI
+2412448-PVD/CVA-EI-INF-04-DVI-00-2026
+-
+No corresponde
+V.10
+GESTIÓN DE RIESGOS EN LA PLANIFICACIÓN DE LA EJECUCIÓN DE OBRAS
+GES
+2412448-PVD/CVA-EI-INF-04-GES-00-2026
+2412448-PVD/CVA-EI-INF-04-GES-LEV.01-202+
+-
+V.11
+PLAN DE EMERGENCIA SANITARIA (COVID 19)
+PCVD
+2412448-PVD/CVA-EI-INF-04-PCVD-00-2026
+2412448-PVD/CVA-EI-INF-04-PCVD-LEV.01-2026
+-
+V.12
+DECLARACIÓN DE IMPACTO AMBIENTAL 
+AMB
+2412448-PVD/CVA-EA-INF-04-AMB-00-2026
+2412448-PVD/CVA-EA-INF-04-EST-LEV.01-2026
+-
+2412448-PVD/CVA-EA-ANX-04-AMB-00-2026
+2412448-PVD/CVA-EA-ANX-04-AMB-LEV.01-2026
+DIA
+2412448-PVD/CVA-EA-INF-04-DIA-00-2026
+2412448-PVD/CVA-EA-INF-04-DIA-LEV.01-2026
+2412448-PVD/CVA-EA-ANX-04-DIA-00-2026
+2412448-PVD/CVA-EA-ANX-04-DIA-LEV.01-2026
+PAC
+2412448-PVD/CVA-EA-INF-04-PAC-00-2026
+2412448-PVD/CVA-EA-INF-04-PAC-LEV.01-2026
+2412448-PVD/CVA-EA-ANX-04-PAC-00-2026
+2412448-PVD/CVA-EA-ANX-04-PAC-LEV.01-2026
+SOC
+2412448-PVD/CVA-EA-INF-04-SOC-00-2026
+2412448-PVD/CVA-EA-INF-04-SOC-LEV.01-2026
+2412448-PVD/CVA-EA-ANX-04-SOC-00-2026
+2412448-PVD/CVA-EA-ANX-04-SOC-LEV.01-2026
+ARQ
+2412448-PVD/CVA-EA-INF-04-ARQ-00-2026
+2412448-PVD/CVA-EA-INF-04-ARQ-LEV.01-2026
+2412448-PVD/CVA-EA-ANX-04-ARQ-00-2026
+2412448-PVD/CVA-EA-ANX-04-ARQ-LEV.01-2026
+V.13
+PLANOS DEL PROYECTO 
+PLS
+2412448-PVD/CVA-EI-EXP-PLS-04-...-00-2026
+2412448-PVD/CVA-EI-EXP-PLS-01-...-00-2026
+"…" Volumen del componente y Código de la especialidad que corresponda
+V.14
+ANEXOS 
+VANEX
+2412448-PVD/CVA-EI-INF-04-VNEX-00-2026
+-
+-
+V.15
+VERSIÓN DIGITAL
+-
+-
+-
+-
+Fuente: Elaboración propia.
+La documentación deberá seguir la secuencia de numeración para evitar duplicidad de códigos. Los parámetros indicados anteriormente y que forman parte de la nomenclatura, serán meta data de cada documento que se cargará sobre el entorno de datos Común. 
+Adicionalmente a ellos, se añadirán los campos: 
+Descripción
+Y solo aplicara en el EDC.
+ESTRATEGIA DE FEDERACIÓN
+De acuerdo con los términos de referencia ANEXO B “TERMINOS DE REFERENCIA MODELO BIM”, el modelo federado deberá estar alojado en el Entorno Común de Datos (ECD). La estrategia de federación cuenta con el siguiente contenido y propósito:
+Tabla Nº7 – Estrategia de federación de modelos
+ESTRATEGIA DE FEDERACIÓN
+N.º
+Descripción
+Contenido
+Nomenclatura
+Propósito
+1
+Modelo de Coordinación y Visualización 3D
+Archivo único basado en la integración de modelos de Gestión BIM, lado Aire e Instalaciones
+SEGÚN AVANCE
+Integración de todos los modelos, capaz de reflejar la evolución completa del proyecto y permitiendo la coordinación, visualización y detección de interferencias sin fusionar los archivos.
+Fuente: Elaboración propia.
+COORDENADAS
+De acuerdo con lo definido en los términos de referencia ANEXO B “TERMINOS DE REFERENCIA MODELO BIM”, El consorcio garantizará que todos los componentes BIM del proyecto están integrados según su geolocalización y posición relativa correspondiente.
+El sistema de coordenadas proyectadas a utilizar será el UTM WGS84 – Proyección UTM tanto los modelos BIM como los dibujos CAD se producirán en base a el sistema de coordenadas establecido.
+UNIDADES
+El proyecto y los modelos utilizaran el sistema métrico internacional.
+Tabla Nº8 – Unidades de medida
+UNIDADES DE MEDIDA
+DIMENSIÓN
+UNIDADES
+DECIMALES
+Longitud
+Metros
+2 decimales
+Área
+Metros cuadrados
+2 decimales
+Volumen
+Metros cúbicos
+2 decimales
+Ángulo
+Grados
+1 decimal
+Pendiente
+Porcentaje
+1 decimal
+Fuente: Elaboración propia.
+IDIOMA
+El idioma del proyecto será en español y todos los entregables serán en este idioma.
+Sin embargo, se usarán las versiones originales en inglés de los softwares/plugin para garantizar compatibilidad. 
+RECURSOS
+RECURSOS HUMANOS
+DEFINICION DE ROLES
+De acuerdo con lo definido en los términos de referencia ANEXO B “TERMINOS DE REFERENCIA MODELO BIM”, El Plan de ejecución BIM (PEB) no solicita el organigrama del equipo BIM del proyecto, el rol que se desempeña y las funciones específicas por cada participante.  Por lo tanto, se colocará por el momento y se actualizará si es necesario la siguiente tabla:
+Tabla Nº9 – Definición de roles
+ROL
+NOMBRE Y APELLIDO
+E-MAIL
+PROFESION
+Jefe de Proyecto
+ING°WILLIAM SALVATIERRA VEGA
+care.ingenieros@gmail.com
+Ing. Civil
+Coordinador BIM
+ALFREDO MAURICIO TAMARIZ VELA
+mklarquitectos@gmail.com
+Arquitecto
+Especialista en Topografía, Trazo y Diseño Vial
+ING° MISAEL LUDEÑA AGUILAR
+cipmisael@outlook.com.pe
+Ing. Civil
+Especialista en Evaluación socioeconómica
+LIC° MARDONIO VENTURA ZARATE
+zmardonio35@gmail.com
+Economista
+Especialista en Suelos y Pavimentos
+ING° ROBERT MARTINEZ DONGO
+romado06@yahoo.es
+Ing. Civil
+Especialista en Hidrología, Hidráulica y Drenaje
+ING° JULIO CESAR SALVATIERRA
+VEGA
+jcsalvatierrav@gmail.com
+Ing. Civil
+Especialista en Geología y Geotecnia
+ING° ESMERALDA LUZBELINDA CORONADO ARIAS
+ecoar021@hotmail.com
+Ing. Geologo
+Especialista en Estructuras y Obras de Arte
+ING°ALFRERDO VEGA ALARCON
+care.ingenieros@gmail.com
+Ing. Civil
+Especialista en Metrados, Costos y Presupuestos
+WALTER JULIO, GUTIÉRREZ
+PARADO
+waltergp@hotmail.com
+Ing. Civil
+Especialista en Tráfico
+HUGO LUDEÑA AGUILAR
+echugo@hotmail.com
+Economista
+ESPECIALISTA EN SEGURIDAD Y SALUD EN EL TRABAJO
+WILLIAM ARCAYA BUENDIA
+care.ingenieros@gmail.com
+Ing. Civil
+Especialista en Señalización y Seguridad Vial
+ING° JOEL RAUL CHIPANA FERNANDEZ
+ingcivilchipana@hotmail.com
+Ing. Civil
+Fuente: Elaboración propia.
+ORGANIGRAMA DEL EQUIPO
+Este documento es propiedad de los gestores BIM, siendo estos responsables de la actualización y/o modificación del mismo.
+Tabla Nº10 – Organigrama del equipo
+POSICIÓN
+NOMBRE DE CONTACTO
+LOCALIZACIÓN
+E-MAIL
+Jefe de Proyectos
+ING°WILLIAM SALVATIERRA VEGA
+Perú
+care.ingenieros@gmail.com
+Coordinador BIM
+ALFREDO TAMARIZ VELA
+Perú
+care.ingenieros@gmail.com
+Coordinador BIM
+FRANKLIN ALEXANDER REQUEJO VASQUEZ
+Perú
+Franklin767@hotmail.com
+Modelador BIM
+WILFREDO GALINDO CASTRO
+Perú
+care.ingenieros@gmail.com
+Modelador BIM
+JHON JAVIER HUASHUAYO CASTRO
+Perú
+care.ingenieros@gmail.com
+Fuente: Elaboración propia.
+ROLES BIM
+Coordinador BIM
+Elaborar el Plan de Ejecución BIM (PEB), ejecutar y retroalimentarlo con el equipo interno de trabajo por especialidad. 
+Dirigir y ejecutar los procesos necesarios de revisión, integración, compatibilización, documentación y extracción metrados o cantidades de materiales a partir de los Modelos BIM.
+Realizar los procesos de calidad y control internos necesarios para la validación del Modelo BIM en función a los objetivos y requerimientos del Proyecto establecidos en este documento.
+Federar las disciplinas por especialidades en el Modelo de Información del Proyecto para el proceso de Compatibilización.
+Gestionar el uso, accesos y permisos del Entorno Común de Datos (ECD) establecido en este documento y sus anexos.
+Coordinar con los especialistas de diseño los temas específicos del desarrollo del Modelo de Información del Proyecto (PIM).
+Elaborar Lineamientos o Estándares y Protocolos BIM conforme a las condiciones establecidas por el Cliente.
+Establecer el canal de comunicación y gestionar los protocolos de colaboración con los especialistas de diseño a través del Entorno Común de Datos (ECD).
+Modelador BIM
+Desarrollar los modelos BIM en base a la planificación dispuesto por cada especialidad
+Presentar oportunamente consultas técnicas al Coordinador BIM para evitar impactos en el tiempo y costo de la implementación BIM.
+Desarrollar familias paramétricas para los modelos de cada especialidad según los lineamientos BIM del Cliente.
+Realizar el levantamiento de las observaciones de su especialidad, acordadas en las Reuniones de Coordinación BIM.
+INFRAESTRUCTURA TECNOLÓGICA
+Hardware
+Atendiendo a los requisitos mínimos y recomendados del sistema y hardware para ejecutar los siguientes programas según los fabricantes:
+Autodesk Revit , Civil 3D, InfraWorks, Navisworks.
+Se concluye que los equipos informáticos de nueva adquisición se recomiendan que cumplan con las siguientes características:
+Tabla Nº11 – Tabla de Equipos de Hardware
+Placa
+Tarjeta gráfica
+Procesador
+Memoria
+Monitor
+1
+MB MSI MEG X570 ACE
+MSI GEFORCE RTX 2070 SUPER 8GB
+AMD RYZEN 7-3800X
+32 GB
+SAMSUNG LED 34"
+Placa
+Tarjeta gráfica
+Procesador
+Memoria
+Monitor
+2
+MB ASUS TUF Z390-PLUS
+ASUS GFORCE GTX1650 SUPER 4GB
+INTEL COREI 7-9700K
+16 GB
+SAMSUNG LED 27"
+Placa
+Tarjeta gráfica
+Procesador
+Memoria
+Monitor
+3
+MB ASROCK X570 TAICHI
+MSI GFORCE RTX 2070 8GB
+AMD RYZEN 7-3700X
+16 GB
+SAMSUNG LED 32"
+Fuente: Elaboración propia
+02 LAPTOP:
+12th Gen Intel (R) Core ™ i7-12650h 2.70 Ghz
+RAM 32.00 GB DDR4
+DISCO DDURO SSD M.2 2TB
+TARJETA DE VIDEO RTX 4050 6GB GDDR6
+Software y Formatos de Entrega
+Tabla Nº12 – Tabla de Softwares
+DESCRIPCIÓN
+COMPONENTE/ZONA
+N
+USOS BIM
+SOTWARES
+VERSIÓN
+FORMATO
+TRAMOS
+1
+Levantamiento de Instalaciones existentes
+CIVIL 3D
+2024
+DWG
+●
+RECAP
+2024
+RCP
+2
+Diseño de especialidades
+REVIT
+2024
+RVT
+●
+CIVIL 3D
+2024
+DWG
+●
+3
+Revisión del diseño
+REVIT
+2024
+RVT
+●
+CIVIL 3D
+2024
+DWG
+●
+4
+Elaboración de documentación
+REVIT
+2024
+RVT
+●
+CIVIL 3D
+2024
+DWG
+●
+5
+Visualización 3D
+REVIT
+2024
+RVT
+●
+CIVIL 3D
+2024
+DWG
+INFRAWORKS
+2024
+IWX
+6
+Coordinación de la información
+NAVISWORK
+2024
+NWC
+●
+7
+Detección de interferencias e incompatibilidades
+NAVISWORK
+2024
+NWC
+●
+8
+Estimación de cantidades y costos
+REVIT
+2024
+RVT
+●
+CIVIL 3D
+2024
+DWG
+EXCEL
+2023
+XLSX 
+9
+Análisis de entorno físico
+REVIT
+2024
+RVT
+●
+NAVISWORK
+2024
+NWC
+Fuente: Elaboración Propia
+NOTA: Respecto a las versiones de los softwares, como buena práctica, se actualizarán los modelos anualmente a la versión más reciente, siempre y cuando ese versionado ya se encuentre libre de errores o inestabilidades y testeado por el consorcio, ya que las primeras versiones suelen requerir parches y correcciones, lo cual puede interrumpir el flujo de trabajo generando ralentizaciones o fallas inesperadas.
+LISTA DE ENTREGABLES BIM POR INFORMES
+PROCEDIMIENTO DE COLABORACIÓN
+Entorno Común de Datos (CDE)
+Para el desarrollo de cualquier contrato bajo metodología BIM se tiene que definir un marco de trabajo específico que tiene que cumplir una serie de requerimientos sobre el tratamiento de la información, la relación entre sus agentes y el entorno tecnológico a implementar, esto es, un CDE (Common Data Environment).
+Dentro de la ISO 19650-1: 2019, normativa de referencia para la implantación de la metodología BIM, se define entorno común de datos (CDE) como “la fuente de información acordada para cualquier proyecto o activo, para recopilar, gestionar, y difundir cada contenedor de información a través de un proceso gestionado”.
+Como entorno de gestión común de datos y trabajo colaborativo adecuado y específico para la metodología BIM, se propone la implementación del trabajo de diseño y realización de los modelos BIM mediante la plataforma Autodesk Construction Cloud perfectamente compatible con el software de modelado Autodesk Revit y con el software de integración, coordinación y planificación Autodesk Navisworks Manage.
+El CDE organiza la evolución de la información del proyecto mediante áreas de trabajo, asegurando que cada documento madure antes de su uso final. Este proceso sigue una secuencia específica desde la creación inicial hasta el archivado, definida por los estados:
+Trabajo en curso (WIP): WIP es el único estado donde la información es editable y donde ocurre el desarrollo de la información. Tanto en el CDE del consorcio como PVD contendrá archivos en estado WIP.
+CDE Consorcio: Documentación externa
+CDE Entidad: Documentación + Modelos BIM
+Compartido: estado para realizar tareas de coordinación, revisión previa a la aprobación.
+Publicado: Es la documentación aprobada y validada.
+Archivado
+Figura Nº10 – Flujo de cambio de estados en CDE.
+Fuente: Elaboración Propia.
+Estrategia de transmisión de datos
+Siguiendo el estándar de seguridad y de comunicación de la norma ISO 19650:
+La plataforma ECD será el medio ÚNICO de transmisión de documentos digitales generados en un Proyecto. 
+El Consorcio cuenta con las licencias para su equipo de trabajo según lo establecido en los TdR y/o Bases del concurso, se añadirá a todos los Especialistas en la Plataforma ECD del respectivo proyecto para la Transmisión de la Documentación entre el consorcio y PROVIAS DESENTRALIZADO. Los permisos de acceso y edición de las carpetas en el sitio serán coordinados al inicio de cada Proyecto entre el RGDP, el responsable de Proyecto y el Consultor. 
+El Consorcio creará una carpeta en la plataforma CDE por cada entregable a entregar.
+Los documentos en formato digital pdf sellados, firmados y los editables en formato que corresponda (Word, Excel, Project, etc.). 
+Los modelos BIM en formatos nativos según lo definido en los Lineamientos BIM.
+Los planos en formato pdf sellados y firmados, editable y/o NWG, con las referencias externas que se deberán adjuntar en la misma carpeta de los planos digitales.
+Todos los documentos y/o planos deberán ser entregados sin el número de revisión en el nombre de archivo, pero si deberá de ser indicado en la carátula o membrete, esto permitirá tener la trazabilidad de versiones generada automáticamente en el ECD.
+Los DT en soporte digital deberán almacenarse con estructura de carpetas que contemple lo siguiente: Informe, Tarea, Sector y Especialidad.
+Estructura de carpetas
+La estructura base utilizada como depósito de los archivos alojados en el CDE oficial es la siguiente:
+Figura Nº11 – Estructura de carpetas
+Fuente: Elaboración Propia
+Intercambio de información
+Como propuesta de intercambio de información entre los distintos agentes se propone las siguientes:
+Tabla Nº13 – Intercambio de información
+INTERCAMBIO
+CONTENIDO
+EMITE
+RECIBE
+PERIOCIDAD
+UBICACIÓN
+Desarrollo de la información
+Modelos Nativos
+Responsable Disciplina
+Equipo de Trabajo
+Bajo Demanda
+CDE PVD(WIP)
+Coordinación BIM
+Modelo Federado/Modelo de Coordinación
+Coordinador BIM
+Equipo de Trabajo Responsable
+Tras detección
+CDE PVD (WIP)
+Incidencias
+Registro y asignación de incidencias
+Consorcio
+Gestor de Incidencias
+Bajo demanda
+CDE PVD
+Entregas
+Documentación y entregables BIM
+Consorcio
+PVD
+Según Cronograma
+CDE ConsorcioCDE PVD(COMPARTIDO)
+Entregas aprobadas
+Documentación y entregables BIM
+PVD
+Equipo de Trabajo
+Según Cronograma
+CDE PVD (PUBLICADO)
+Fuente: Elaboración propia.
+Interfaz con Terceros
+Para poder establecer los requisitos de intercambio de información con los colaboradores/adjudicatarios del proyecto se organizó una reunión inicial para discutir objetivos y alcance del contrato. Se aseguró la comprensión de las responsabilidades y las expectativas de las entregas de información dejando claro el tipo de información, así como los formatos, frecuencia de entrega, nivel de información necesaria.
+El VIAL ROLDAN como adjudicatario principal recopilará y analizará toda la documentación antecedente que puedan afectar a la actuación y resumirá en la siguiente tabla la información recibida para desarrollar los entregables BIM.
+Gestión de Cambios
+Como es de esperar, los proyectos pueden experimentar cambios a lo largo del proceso, y es fundamental que estos estén claramente definidos y se les dé un seguimiento adecuado. Para ello, contamos con una ficha de registro donde se documentan los cambios, permitiendo hacer un seguimiento de la evolución y del impacto que dichos cambios tienen en los modelos de información.
+El proceso de gestión de cambios es el siguiente:
+Detección: Se identifica la necesidad de un cambio, el cual es registrado y se evalúa su impacto en el proyecto.
+Discusión: el Coordinador BIM convocará una reunión con los especialistas de las distintas disciplinas para discutir su viabilidad y consecuencias. Dichos cambios serán registrados en actas de reunión.
+Ejecución: Tras recibir la respuesta y aprobación del equipo, se procede a implementar el cambio en los modelos de información.
+Este proceso asegura que los cambios se gestionen de manera organizada, garantizando que todas las partes involucradas estén al tanto y se minimicen posibles riesgos o errores.
+ESTRATEGIA DE GESTIÓN DOCUMENTAL
+El CONSORCIO VIAL ROLDAN utilizará su propio entorno de trabajo para la generación y coordinación de la documentación del proyecto, transfiriendo dicha información al CDE para PVD conforme la documentación esté lista para la colaboración, seguimiento, entrega y revisión.
+En cuanto a los modelos BIM, estos serán generados y gestionados desde el CDE del Consorcio para PVD. Así mismo, también se utilizará el CDE del Consorcio, internamente como herramienta de repositorio de información, únicamente a modo interno, siendo el Autodesk Construction Cloud del consorcio como el repositorio oficial del proyecto.
+ESTRATEGIA DE COMUNICACIÓN
+Reuniones. Desarrollo de las Sesiones ICE
+EL CONSORCIO debe proponer dentro de la estrategia de coordinación y colaboración una secuencia de sesiones ICE con el propósito de potenciar la colaboración con PVD. El esquema de las reuniones ICE propuesto es el siguiente:
+Tabla Nº14 – Reuniones ICE
+TAREA
+REUNIÓN
+FECHAS SEGÚN CRONOGRAMA PRESENTADO
+Plan de Trabajo
+-----
+Entregable N°1
+Sesión ICE
+Entregable N°2
+Sesión ICE
+Entregable N°3
+Sesión ICE
+Entregable N°4
+Sesión ICE
+Fuente: Elaboración propia.
+Nota: Las fechas son tentativas y deben ser previas a las entregas de las tareas
+Para la presentación de dichas reuniones se tomarán en cuenta lo siguiente:
+AGENDA: El líder de reuniones ICE deberá definir claramente la agenda de la reunión, el tiempo y quienes participaran.
+PRESENTACIÓN: El especialista o el coordinador BIM deberá explicar cómo se generó el producto en el software definido.
+VISUALIZACIÓN: el presentador deberá aprovechar los beneficios de las herramientas BIM y lograr que todos los participantes.
+LIDER: quien será el líder de la reunión ICE. Quien debe velar la reunión, promover la participación, velar por el cumplimiento de la agenda.
+SEGUIMIENTO Y CONTROL: Se llevará el registro de la reunión y los temas acordados y temas pendientes. Esta información será compartida con el cliente para su validación o comentarios.
+Gestión de Incidencias/Incompatibilidades
+Las incidencias e incompatibilidades durante el proyecto se podrán gestionar y junto con ello se podrá mejorar el proceso de identificación y resolución de incompatibilidades según la fase correspondiente para evitar retrabajos en etapas posteriores del diseño y construcción.
+El proceso de coordinación y colaboración de observaciones emitidas por PVD se realizarán a través de la plataforma Autodesk Construction Cloud Es obligación de CONSORCIO hacer uso de las plataformas para una correcta gestión de las incompatibilidades emitidas por PROVIAS NACIONAL
+El sistema de incidencias de Autodesk Construction Cloud (ACC) funciona de la siguiente manera:
+De parte de PVD pueden crear incidencias directamente en los documentos, modelo o plano digital, indicando el área afectada, la descripción del problema y su prioridad. Se pueden añadir fotos, archivos o notas adicionales.
+Una vez creada la incidencia, se asigna a un miembro del equipo responsable de resolverla (Gestor de incidencia) o de derivar a quien corresponda, este recibe una notificación cuando se le crea dicha incidencia
+Asignado a: (Gestor de Incidencias)
+Los involucrados pueden intercambiar comentarios, adjuntar documentos adicionales o actualizar el estado de la incidencia en tiempo real, manteniendo a todos los interesados informados.
+Resp-Consultor-01
+Resp-PVD-A
+La plataforma permite hacer seguimiento del progreso, desde la identificación hasta su resolución. Las incidencias pueden estar en diferentes estados, como "Borrador”, “Abierta", "Completada", o "Cerrada".
+Se pueden generar reportes detallados para analizar patrones de incidencias, identificar problemas recurrentes y mejorar la toma de decisiones y la planificación en el futuro. 
+Este flujo garantiza una gestión eficiente de problemas, ayudando a minimizar el impacto en el proyecto.
+Comunicaciones
+La frecuencia y los formatos de las reuniones de coordinación pueden variar según las necesidades específicas del proyecto, el tamaño del equipo y la etapa en la que se encuentre el proyecto.  
+Utilizaremos Teams para comunicarnos de manera efectiva y directa, manteniéndonos actualizados sobre el progreso del proyecto, 
+Chat  
+Microsoft Outlook: Uso de herramienta para enviar actualizaciones, informes y anuncios importantes dentro del equipo de manera más formal.
+Mensajería y llamadas: Debido al protocolo de desconexión digital de la empresa, utilizaremos este medio de comunicación solo en caso de emergencias.
+Figura Nº12 – Esquema de flujo de comunicaciones
+Fuente: Elaboración propia.
+Tabla Nº15 – Comunicaciones
+ALCANCE
+TIPO DE REUNIÓN
+CANAL
+FRECUENCIA
+ASISTENTES
+CONTENIDO
+EXTERNA
+SEGUIMIENTO
+Video
+Bisemanal
+PVD y Consorcio
+Actualizar avances, informar sobre el equipo, proporcionar retroalimentación, sugerir mejoras, gestionar nuevas reuniones
+EXTERNA
+ESPECÍFICA
+Video
+A demanda
+PVD, Consorcio y Expertos según reunión
+Temas específicos
+INTERNA
+SEGUIMIENTO
+Video
+Bisemanal
+Internas Consorcio
+Planificación y control de avance, carga de trabajo, control de calidad, cambios de alcance, optimización de los procesos, acciones pendientes, revisión y gestión de riesgos identificados durante el desarrollo del proyecto
+INTERNA
+SEGUIMIENTO BIM
+Videollamada
+Semanal
+Internas Consorcio
+Criterios de diseño, Conflictos e Interfaces entre disciplinas, Acciones pendientes, Mejoras a los procedimientos de trabajo, Gestión BIM, Revisión y gestión de riesgos identificados durante el desarrollo del proyecto.
+EXTERNA
+ESPECÍFICA
+Videollamada
+Según Cronograma
+PVD y Consorcio
+Reuniones ICE
+Fuente: Elaboración propia.
+Se destacan los aspectos necesarios para la programación de una reunión:
+Toda reunión se solicita con una agenda de temas y con la lista de los participantes requeridos.
+Toda reunión tiene una Acta en formato.
+Toda Acta se redacta durante la reunión y se repasa en los últimos 10 minutos de la reunión.
+El final de la reunión el Acta es subida a la plataforma Autodesk Construction Cloud
+Reportes e indicadores de la gestión BIM
+Como parte de la gestión, seguimiento de avances y para agilizar el diseño y las definiciones necesarias, se elaborarán como mínimo los siguientes reportes de manera periódica, la periodicidad de los reportes se debe definir en el Plan de Ejecución BIM (PEB), y como mínimo deberán ser entregadas con cada informe y tarea.
+Reportes de avance del plan BIM, incluidos en los informes mensuales de gestión
+Reporte de interferencias identificadas en el proyecto y debidamente clasificadas para facilitar el entendimiento del revisor.
+Métricas e indicadores de la gestión de incompatibilidades. Los indicadores propuestos deben permitir la lectura del estado de las incompatibilidades debidamente clasificadas por criticidad y agrupadas según el criterio propuesto por CONSORCIO.
+Reporte de desempeño y efectividad de las sesiones ICE
+Reportes de actualizaciones y modificaciones de la estrategia de gestión BIM, estas modificaciones deben ser actualizadas en el Plan de Ejecución BIM (PEB).
+PLAN DE MOVILIZACIÓN
+El objeto del plan de movilización es definir cómo se debe preparar y organizar el equipo de trabajo antes de comenzar con la fase de entrega de información en los proyectos y define los métodos de comprobación de dicho plan a lo largo de las diferentes etapas de intercambio de información. Este plan asegura que todos los recursos, herramientas y procedimientos estén en su lugar para una gestión eficiente de la información.
+Tabla Nº16 – Lista de actividades que conforman la movilización
+Referencia
+Tarea
+Responsabilidades
+Equipo de trabajo
+Plazo de entrega
+1
+Comprobación del flujo de los procesos del CDE
+Realizar un testeo entre las partes involucradas para comprobar el correcto funcionamiento del flujo del CDE.
+CONSORCIO VIAL ROLDAN
+Hasta la primera entrega
+2
+Verificación del correcto funcionamiento de los recursos informáticos (softwares).
+Verificar que todos los equipos cuenten con la versión requerida de los recursos informáticos, que se hayan instalado correctamente y/o estén actualizados.
+CONSORCIO VIAL ROLDAN
+3
+Revisión de la NTP-ISO 19650 Parte 1 y 2
+Verificar el cumplimiento de la gestión de la información BIM
+CONSORCIO VIAL ROLDAN
+Durante todo el proyecto
+4
+Revisión de la Guía Nacional BIM Perú
+Verificar el cumplimiento de la gestión de la información BIM articulado con el sistema nacional de inversiones Invierte.pe
+CONSORCIO VIAL ROLDAN
+Durante todo el proyecto
+5
+He de asegurar que todos los equipos de trabajo sean capaces de cumplir sus planes de Capacidad y de Competencia 
+Verificar el cumplimiento de indicadores de cumplimiento de planes de Capacidad y de Competencia.
+CONSORCIO VIAL ROLDAN
+Hasta la primera entrega
+6
+Confirmar que cada equipo de trabajo sigue teniendo la capacidad acordada
+Establecer y gestionar evaluaciones de capacidad del equipo de trabajo
+CONSORCIO VIAL ROLDAN
+Hasta la primera entrega
+Fuente: Elaboración propia.
+LECCIONES APRENDIDAS
+Las lecciones aprendidas a lo largo del proyecto deben servir para conseguir una mejora continua en la calidad del servicio, se registrarán y se compartirán al finalizar el proyecto en el entorno común de datos (CDE). Los aspectos que se deberán evaluar serán:
+Organización General
+Comunicaciones
+Capacitación del equipo de trabajo
+Medios Informáticos
+ANEXOS
+Los anexos del PEB se actualizarán y entregarán según las necesidades y el avance del proyecto, los cuales a solicitud del cliente se reportarán los anexos incluidos serán como mínimo:
+ANEXO PEB N°1 FORMATO DE ACTA DE COORDINACIÓN
+ANEXO PEB N°2 FORMATO DE ACTA ICE
+ANEXO PEB N°3 FORMATO N° 5 (REGISTRO DEL PLAN DE EJECUCIÓN BEP)
+ANEXO PEB N°4 LICENCIA DE SOFWARE
+ANEXO PEB N°5 CRONOGRAMA DE COORDINACIÓN E HITOS

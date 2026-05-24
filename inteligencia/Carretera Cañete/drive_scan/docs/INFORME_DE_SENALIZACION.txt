@@ -1,0 +1,6244 @@
+﻿1.Introducción:2
+2.Objetivos:2
+3.Estudio de seguridad vial:3
+a.Generalidades:3
+b.Derecho de vía3
+c.Diagnostico Arqueológico:12
+d.Recolección y análisis de datos de accidentes:17
+e.Registro y análisis de las características físicas actuales de la vía:39
+f.Análisis de características físicas de la vía proyectada, para identificar los factores que puedan afectar la seguridad vial: Magnitudes forzadas del alineamiento horizontal y vertical, estrechamiento de la vía, limitaciones de velocidad por presencia de curvas y/o restricciones de visibilidad; puntos de cruce e intersecciones; zonas de peligro por procesos externos; obstáculos fijos; zonas de seguridad, etc.58
+g.Análisis de accidentes – identificaciones de puntos negros69
+h.Sistema de contención Tipo Barreras de seguridad69
+i.Medidas para prevenir y reducir accidentes de tránsito:86
+j.Vehículo de diseño87
+4.Estudio de señalización:89
+a.Metodología del estudio:89
+b.Señalización existente:90
+c.Señalización proyectada:90
+i.Señalización vertical:92
+1.Señales reguladoras o de reglamentación:92
+2.Señales preventivas:94
+3.Señales informativas:118
+4.Otros:125
+ii.Marcas en el pavimento o demarcaciones:127
+1.Marcas planas en el pavimento:127
+2.Marcas elevadas en el pavimento:144
+iii.Elementos de seguridad vial:153
+1.RECOLECCION153
+2.Barreras de seguridad:153
+3.Guardavías:156
+4.Postes delineadores:156
+5.Dispositivos de control de tránsito en zonas de trabajo:159
+a.Dispositivos particulares para el control en zonas de trabajo:159
+b.Plan de mantenimiento de transito y seguridad vial (PMTSV):163
+c.Señales particulares para la zona de trabajo:175
+6.Resumen de señalización:181
+7.Conclusiones y recomendaciones:183
+8.Anexos:187
+ESTUDIO DE SEÑALIZACIÓN Y SEGURIDAD VIAL:
+Introducción:
+El Proyecto Especial de Infraestructura de Transporte Descentralizado, Provias Descentralizado y la Municipalidad Distrital de Cerro Azul, tiene por finalidad esencial de fomentar el desarrollo distrital, integral y sostenible, promoviendo la inversión pública, privada, el empleo y garantizando el ejercicio pleno de derecho y la igualdad de oportunidad de sus habitantes, de acuerdo con los planes y programa nacionales, regionales y locales de desarrollo.
+Por lo que, en atención a las solicitudes de la población afectada, se hace necesaria la elaboración del Expediente Técnico de obra del proyecto: “MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S – SAN JUAN DE IHUANCO – EMP. LM – 878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE – DEPARTAMENTO DE LIMA”.
+Objetivos:
+El presente estudio tiene los siguientes objetivos:
+Plantear la implementación de Señales verticales y horizontales, en función a la característica de la carretera rehabilitada y mejorada a fin de prevenir, informar y salvaguardar la seguridad de los conductores y usuarios de la vía.
+Proponer mejoras de información visual de la carretera rehabilitada y mejorada para que los conductores visualicen e indiquen las Señales claramente, tanto de día como de noche, dentro de los estándares de la seguridad vial.
+Estudio de seguridad vial:
+Generalidades:
+En el presente estudio de Ingeniería y detalle, comprende la presentación del Estudio de Señalización y seguridad vial para la “MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S – SAN JUAN DE IHUANCO – EMP. LM – 878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE – DEPARTAMENTO DE LIMA” En concordancia con la evaluación realizada, se ha visto por conveniente implementar los estudios adecuados para la Señalización y seguridad vial para brindar una mayor seguridad en el tráfico vehicular de la vía y consecuentemente evitar o minimizar los accidentes de tránsito.
+Para ser efectivo un dispositivo de control del tránsito es necesario que cumpla con los siguientes requisitos:
+Que exista una necesidad para su utilización.
+Que llame positivamente la atención y ser visible.
+Que encierre un mensaje claro y conciso.
+Que su localización permita al usuario un tiempo adecuado de reacción y respuesta.
+Infundir respeto y ser obedecido.
+uniformidad y estandarización.
+Derecho de vía
+De acuerdo a la Resolución Ministerial Nº 404-2011-MTC/02, indican los artículos:
+Articulo 1.- Demarcación y señalización del derecho de vía por la autoridad competente
+Articulo 2.- Demarcación del derecho de vía
+Articulo 3.- Señalización del derecho de vía
+Articulo 4.- Costos de la demarcación y señalización del derecho de vía
+Artículo 5.- Preservación de la demarcación y señalización del derecho de vía.
+Articulo 6.- vigencia
+Para la determinación del Derecho de Vía, además de la sección transversal del proyecto, deberá tenerse en consideración la instalación de los dispositivos auxiliares y obras básicas requeridas para el funcionamiento de la vía, por ello se establecen los anchos mínimos en función de la clasificación de la carretera por demanda y orografía, según se detalla en la siguiente tabla: 
+Tabla 1. Anchos mínimos de derecho de vía. Fuente DG-2018. Tabla 304.09
+Fuente: Manual de Carreteras: Diseño Geométrico DG-2018.
+Se puede apreciar en la Tabla 304.09 del Manual de Carreteras DG-2018 que, para la clasificación de carretera de 3° clase, se considera el ancho mínimo de Derecho de vía de 16 metros. pero en este caso por ser un camino vecinal se hará el mejoramiento a nivel de limite constructivo.
+CONSULTA SOBRE DEMARCACIÓN DE DERECHO DE VÍA A LA AUTORIDAD LOCAL
+Se solicito a la Municipalidad Distrital de Cerro Azul y Quilmana consulta sobre resolución de demarcación de derecho de vía del camino vecinal en estudio donde indica que no cuenta y/o ha emitido resolución de demarcación de derecho de vía del camino vecinal “MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S – SAN JUAN DE IHUANCO – EMP. LM – 878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE – DEPARTAMENTO DE LIMA”, de acuerdo al sistema nacional de carreteras – SINIAC; asimismo indica que se considere el AREA de CONSTRUCCION; se adjunta losdocumentos:
+Municipalidad distrital de Cerro Azul
+Mediante CARTA N.°025-2024-CVR/CDT-RL, de fecha 07 de agosto 2024, se solicita a la municipalidad distrital de Cerro Azul, “Solicito información sobre resolución de demarcación de derecho de vía del camino vecinal en estudio”.
+CARTA N.° 082-2024-SGOPCYHU/MDCA
+ASUNTO: SOLICITO INFORMACIÓN SOBRE RESOLUCION DE DEMARCACION
+Donde indica que la Municipalidad distrital de Cerro Azul, cuenta Plan de Desarrollo Urbano, aprobado por la Municipalidad Provincial de Cañete, mediante Ordenanza N°041-2001-MPC de fecha 09 de octubre del 2001, en donde se asigna mediante PROPUESTA DE ORDENAMIENTO TERRITORIAL AL CAMINO DE ACCESO PRINCIPAL DE ACCESO AL C.P. SAN JUAN DE IHUANCO COMO VÍA PAVIMENTADA; conteniéndose en ese orden de estructuración, donde no se encuentra reglamentada el ancho de vía.
+Municipalidad distrital de Quilmana 
+Mediante CARTA N.° 026-2024-CVR/CDT-RL, de fecha 22 de agosto 2024, se solicita a la municipalidad distrital de Quilmana, “Solicito información sobre resolución de demarcación de derecho de vía del camino vecinal en estudio”.
+OFICIO N°423-2024-AL-MDQ
+ASUNTO: REMITO INFORMACION SOLICITADA
+INFORME N°130-2024-JRCB-SGOPHUC-GDUR-MDQ
+ASUNTO: SOLICITUD DE INFORMACION SOBRE DEMARCACIÓN DE DERECHO DE VÍA DE CAMINO VECINAL
+Donde manifiesta que actualmente no cuenta ni se ha emitido documentos que aprueben la demarcación de derecho de vía del camino vecinal en estudio (camino a Ihuanco)
+ya que los municipios de Cerro Azul y Quilamana, no cuenta con resolución de demarcación de derecho de vía se trabajará con el límite constructivo.
+Así mismo en el informe de PAC:
+1.5.1DERECHO DE VÍA 
+Respecto a las demarcación y señalización, se indica lo siguiente:
+De acuerdo al estudio de Afectaciones prediales 2.8.2 identificación de sujeto pasivo
+de acuerdo al informe de PAC, se verifica que al largo del tramo los terrenos son propietarios y posesionarios; por lo que en el proyecto no considera señalización y demarcaciones territoriales.
+Diagnostico Arqueológico:
+De acuerdo al informe de arqueología y al CIRA obtenido se indica que no existe colindancia ni proximidad con zona arqueología.
+Certificado de inexistencia de restos arqueológicos en superficie CIRAS N°608-2024-DCE/MC; con fecha de emisión 18/11/2024
+Resolución directoral N°001337-2024DCE-DGPA-VMPCIC/MC; con fecha 15/12/2024
+Recolección y análisis de datos de accidentes:
+A fin de complementar la información recabada de las instituciones mencionadas, se realizó un inventario de las zonas de accidentes en base a la ubicación de las “capillas” o “cruces” que los deudos acostumbran a colocar a lo largo de la vía, en tributo a sus familiares fallecidos en accidentes de tránsito, inventario que ha sido complementado con la información proporcionada por los pobladores asentados en la cercanía a la zona de accidentes. En base a la información recabada no se ha registrado ninguna “capilla” que evidencie un accidente de tránsito fatal.
+En la visita de campo realizada no se observó la existencia de elementos de seguridad existente en el tramo. Respecto al registro de accidentes en la carretera en estudio, de las consultas verbales realizadas a los lugareños, nos han informado que no se registran accidentes en la carretera. En la zona no existe una estación policial ni entidad alguna que lleve un registro de accidentes.
+Se ha realizado consulta formal por Carta a la Comisaría y al Centro de Salud de la jurisdicción.
+Paso 1: Recolección de datos y evaluación de la red vial
+Así mismo se presentó las cartas a las entidades correspondientes:
+CENTRO DE SALUD DE CERRO AZUL
+ASUNTO: SOLICITO REGISTRO DE ATENCION A PACIENTES POR ACCIDENTES
+Con fecha 23/08/2024
+POLICIA NACIONAL DEL PERU COMISARIA PNP QUILMANA
+ASUNTO: SOLICITO REGISTRO DE ACCIDENTE VEHICULAR
+Con fecha 22/08/2024
+POLICIA NACIONAL DEL PERU COMISARIA PNP CERRO AZUL
+ASUNTO: SOLICITO REGISTRO DE ACCIDENTE VEHICULAR
+Con fecha 23/08/2024
+CENTRO DE SALUD DE QUILMANA
+ASUNTO: SOLICITO REGISTRO DE ATENCION A PACIENTES POR ACCIDENTES
+Con fecha 22/08/2024
+De las cartas presentadas se tuvo respuesta de las siguientes entidades:
+POLICIA NACIONAL DEL PERU COMISARIA PNP QUILMANA
+OFICIO N° 469-2024-RP-LIMA-SUR/DIVPOL-C/CIA CERRO.AZUL “B” – ADM
+ASUNTO: INFORMACION DE ACCIDENTES DE TRÁNSITO, POR MOTIVOS QUE SE INDICA. - REMITE/
+Con fecha 06/09/2024
+POLICIA NACIONAL DEL PERU COMISARIA PNP CERRO AZUL
+CARTA INFORMATIVA N°003-2024-REGPOL-LIMA-SUR/DIVPOL-CY-CQ-SEC.
+Con fecha 27/08/2024
+De acuerdo a lo indicado en el Oficio N°469-2024-RP-LIMA-SUR/DIVPOL-C/CIA CERRO.AZUL “B” – ADM; nos indica que hubo nueve (09) accidentes vehiculares con fecha 11/03/2020, 12/05/2020, 28/11/2020, 03/06/2021, 06/06/2022, 02/12/2022, 16/06/2023, 09/09/2023 y 23/08/2024 lo que se toma en consideración para las proyecciones de las señales verticales y horizontales adecuadas; así como las guardavías y barreras de seguridad en todo el tramo a intervenir, así poder evitar accidentes futuros.
+Respecto a la Carta Informativa N° 003-2024-REGPOL-LIMA-SUR/DIVPOL-CY-CQ-SEC., indica que no se registró ningún accidente de transito desde el amor 2020, 2021, 2022, 2023 y desde enero a la fecha 2024 (27 de agosto del 2024).
+Paso 2: Análisis y Diagnostico
+Revisión de data:
+ Tipo de accidentes:
+11 de marzo del 2020 a las 7:00
+Despiste vehicular – daños materiales
+12 de mayo del 2020 a las 16:30
+Choque vehicular – daños materiales y lesiones personales
+28 de noviembre del 2021 a las 11:30
+Choque vehicular – daños materiales y lesiones personales
+03 junio del 2021 a las 10:30
+Volcadura en campana – daños materiales y lesiones personales
+06 de junio del 2022 a ñas10:30
+Despiste vehicular - daños materiales y lesiones personales
+02 de diciembre del 2022 a las 10:15
+Volcadura vehicular - daños materiales y lesiones personales
+16 de junio del 2023 a las 07:30
+Despiste vehicular - daños materiales y lesiones personales
+09 de septiembre del 2023 a las 15:10
+Despiste vehicular - daños materiales y lesiones personales
+23 de agosto del 2024 a las 22:50 
+Despiste vehicular - daños materiales y lesiones personales
+TABLA DE RESUMEN TABULAR
+NUMERO DE ACCIDENTES
+1
+2
+3
+4
+5
+DIA
+11/03/2020
+12/05/2020
+28/11/2020
+03/06/2021
+06/06/2022
+DIA DE LA SEMANA
+MIERCOLES
+MARTES
+SABADO
+JUEVES
+LUNES
+HORA DEL DIA
+07:00
+16:30
+11:30
+10:30
+10:30
+GRAVEDAD
+C/O
+C/O
+C/O
+C/O
+C/O
+TIPO DE COLISION
+DESPISTE
+CHOQUE
+CHOQUE
+VOLCADURA
+DESPISTE
+CONDICIONES DE LA VIA
+HUMEDA
+HUMEDA
+HUMEDA
+HUMEDA
+HUMEDA
+CONDICIONES DE ILUMINACION
+ATARDECER
+ATARDECER
+DIA
+DIA
+DIA
+DIRECCION
+-
+-
+-
+-
+-
+GRADO DE ALCOHOL (CAS)* (G/L)**
+0
+0
+0
+0
+0
+NUMERO DE ACCIDENTES
+6
+7
+8
+9
+DIA
+02/12/2022
+16/06/2023
+09/09/2023
+23/08/2024
+DIA DE LA SEMANA
+VIERNES
+VIERNES
+SABADO
+VIERNES
+HORA DEL DIA
+10:15
+07:30
+15:10
+22:50
+GRAVEDAD
+C/O
+C/O
+C/O
+C/O
+TIPO DE COLISION
+VOLCADURA
+DESPISTE
+DESPISTE
+DESPISTE
+CONDICIONES DE LA VIA
+HUMEDA
+HUMEDA
+HUMEDA
+HUMEDA
+CONDICIONES DE ILUMINACION
+DIA
+DIA
+DIA
+NOCHE SIN ILUMINACION
+DIRECCION
+-
+-
+-
+-
+GRADO DE ALCOHOL (CAS)* (G/L)**
+0
+0
+0
+0
+Donde:
+Evaluación de las condiciones de campo
+Una investigación de campo siempre debe ser realizada por el estudio de seguridad vial, dichas observaciones piden servir para validar la información identificada mediante el análisis de data y documentación pertinente.
+Los cuales se detalla a continuación:
+Características de la vía
+Señalización vertical y horizontal
+El tramo no cuenta con adecuada señal vertical a lo largo de todo el tramo, así mismo el tramo no cuenta con ningún tipo de señal horizontal.
+Tipo de semaforización
+El tramo no cuenta ningún tipo de semáforo
+Límites de velocidad
+El proyecto es un camino vecinal que tiene como límite de velocidad entre 25 a 30km/h
+Iluminación
+El proyecto no cuenta con iluminación a lo largo del tramo.
+Condiciones del pavimento
+El tramo es un camino vecinal, el cual esta a nivel de terreno natural.
+Condiciones de áreas verdes
+El tramo no cuenta con condiciones de áreas verdes.
+Distancia de visibilidad
+El tramo con cuenta con distancia de visibilidad
+Ancho de berma
+El tramo no cuneta con ancho de berma
+Mobiliario de la vía
+El tramo no cuenta con mobiliarios
+Diseño geométrico (curvas horizontales, verticales, perfil de la vía, etc.)
+ELEMENTOS DE DISEÑO
+Red vial 
+Camino vecinal
+Categoría 
+trocha carrozable
+Velocidad de Diseño
+30 - 40 km/h
+Vehículo de Diseño
+REMOLQUE SIMPLE T2S1
+Orografía 
+Tipo 1 (plano) y Tipo 2 (ondulado)
+IMDA Proyectado
+397veh/día IMD
+ALINEAMIENTO HORIZONTAL
+Longitud
+10+405km.
+Radio mínimo
+20 m 
+Peralte máx.
+No cuenta
+Sobreancho máx.
+No cuenta
+ALINEAMIENTO VERTICAL
+Pendiente Máx.
+8.00 %
+Pendiente Mín.
+0.00%
+SECCIÓN TRANSVERSAL
+Calzada km 00+000 – km 10+405
+3.5 m - 4.50 m
+Berma km 00+000 – km 31+578
+No cuenta
+Bombeo (según hidrología)
+No cuenta
+Espesor de pavimento (según suelos y pavimentos)
+Terreno natural
+cuneta
+No cuenta
+Condiciones de tráfico
+Tipos de usuarios
+Condiciones de viaje (velocidad a flujo libre, congestión)
+Almacenamiento de colas
+Exceso de velocidad vehicular
+Dispositivos de control de tráfico
+Tiempo de ámbar en la intersección
+Presencia de giros protegidos, permitidos, o ambos
+Presencia de ámbar para flechas verdes 
+Diseño del esquema semafórico
+Por el tramo circulas vehículos tipo autos, stationwagon, camionetas pick up, camion 2E,camion 3E, Remolque Simple T2S1 cuyo IMD es de 397veh/dia, las cuales las velocidades exceden lo permitido mayores a 40 km/h; así mismo en el tramo si hay evidencia de dispositivos de control de tráfico no esquemas semafóricos.
+Comportamiento del viajero
+Conductor: por las malas condiciones de los dispositivos de control de trafico hacen que el conductor no tengas una visibilidad de orientación, así mismo el tramo es muy sinuoso y se genera que existan maniobras peligrosas; del mismo modo los conductores en la zona hacen mal uso del cinturón de seguridad.
+Peatón: a lo largo del tramo no existen señales de cruce de control de tráfico, lo que genera el mal uso la vía. 
+Consistencias de la vía
+A lo largo del tramo existen secciones trasversales variables entre 3.5 m a 4.50 m; lo que no es consistente con la funcionabilidad deseada para los usuarios.
+Uso de suelos
+A lo largo del tramo no existe señales respecto a pase y clasificación de la vía de niños en edad escolar y adultos de tercera edad; lo que hace que el tramo sea peligroso.
+Condiciones del clima
+El tipo de clima del área de estudio fue determinado a partir de la información cartográfica obtenida de acuerdo al Mapa de Clasificación Climática del SENAMHI (2020), que utiliza el modelo climático de Warren Thornthwaite y considera los climas según: precipitación efectiva, distribución de la precipitación en el año, eficiencia de temperatura y humedad atmosférica, de acuerdo a lo mencionado la zona de estudio tiene los siguientes tipos de clima: 
+Tabla. Clasificación climática
+Progresiva (Km)
+Unidad Climática
+Inicial
+Final
+0+000
+10+405
+Árido con deficiencia de humedad en todas las estaciones del año – templado E(d) B’ 
+Fuente: Servicio Nacional de Meteorología e Hidrología del Perú – SENAMHI: Mapa de Clasificación climática, 2024.
+Elaboración propia.
+Evidencias de accidentes de la zona
+Vidrios quebrados
+Marcas de neumáticos
+Señales dañadas
+Mobiliario dañado
+Áreas verdes dañadas
+En el tramo no se evidencia dichos puntos de control, ya que es un camino vecinal, donde no hay buena señalización vertical y horizontal
+Paso 3: Medidas Mitigadoras
+Estas medidas tienen como objetivo principal reducir la frecuencia o severidad de los accidentes
+Accidentes típicos:
+En el Perú los siguientes tipos de accidentes son los más comunes. Sin embargo, debe tomarse nota de que la data disponible es aún limitada y estos accidentes podrían representar un mayor o menor porcentaje del total. Los accidentes típicos en nuestra infraestructura vial son: Atropellos, despistes, ángulo alcance y frontal.
+Estadísticas a nivel nacional son poco confiables debido a la ausencia de un observatorio de seguridad vial nacional. Sin embargo, cabe mencionar que en zonas urbanas los atropellos pueden superar el 50% de los accidentes totales debido al alto índice de peatonalización del Perú.
+En el tramo los accidentes el 75% son por despiste, el 25% alcance frontal
+Identificación de los factores contribuyentes
+Para cada patrón de accidentes identificado pueden existir múltiples factores contribuyentes. Esta sección presenta una lista de posibles factores contribuyentes a la ocurrencia de accidentes. El objetivo es ayudar a identificar una amplia gama de posibles factores contribuyentes en orden para minimizar las probabilidades que un factor contribuyente principal sea pasado por alto. 
+Una vez que se hayan considerado una amplia gama de factores contribuyentes, los criterios de ingeniería son aplicados para identificar los factores con mayor contribución en base al tipo de colisión. 
+Criterios a considerar en la identificación de factores contribuyentes
+Uno de los métodos para identificar los factores contribuyentes a los accidentes es la Matriz de Haddon. En esta matriz, los factores contribuyentes son divididos en tres categorías: personas, vehículo y vía. Las condiciones que se dieron antes, durante y después de una colisión son relacionadas con cada categoría para identificar las posibles razones de la colisión. Un ejemplo de la Matriz de Haddon para una colisión cualquiera se representa en la siguiente tabla.
+Factores contribuyentes
+Factores contribuyentes asociados a una variedad de tipos de accidentes se presentan a continuación. Los posibles factores contribuyentes de accidentes enumerados en esta sección no son y no pueden ser una lista completa. Cada lugar es único en su historial y condiciones locales.
+Accidentes en la vía
+A continuación, se presentan tipos de accidentes comunes y posibles factores contribuyentes para cada tipo de colisión. Es importante notar que algunos de los posibles factores contribuyentes podrían superponerse, y que existen factores contribuyentes adicionales que podrían ser identificados durante el proceso del diagnóstico. Por ejemplo, una colisión contra un objeto fijo puede ser el resultado de múltiples factores contribuyentes, tales como el exceso de velocidad en curvas agudas con señales inadecuadas. Los posibles factores contribuyentes para accidentes en la vía son: 
+a. Atropellos 
+Presencia de atractores o generadores de flujo peatonal cerca de la vía
+Falta de veredas
+Falta de zonas escolares
+Velocidad excesiva
+Pobre diseño de semaforización peatonal a media calzada
+Falta de brechas en el tráfico
+Falta de segregación entre la vía y las zonas peatonales
+b. Volcadura
+Diseño de la vía y sus bermas
+Ancho inadecuado de la berma
+Velocidad excesiva
+Diseño del pavimento
+c. Objeto fijo
+Obstrucción sobre la vía o cerca de la vía
+Iluminación inadecuada
+Marcas en el pavimento inadecuadas o poco visibles
+Señales verticales, delineadores o guardavías inadecuados
+Diseño geométrico de las vías inadecuado (espacio de recuperación inadecuado)
+Velocidad excesiva
+ d. En la noche
+Poca visibilidad en la noche debido a iluminación pobre
+Poca retrorreflectividad de las señales
+Velocidad excesiva
+Distancia de la visibilidad inadecuada
+e. Pavimento húmedo 
+Diseño del pavimento (permeabilidad, drenaje)
+Marcas en el pavimento inadecuadas
+Mantenimiento Inadecuado
+Velocidad excesiva
+f. Choque frontal
+Geometría de la vía inadecuada
+Bermas inadecuadas
+Velocidad excesiva
+Marcas en el pavimento inadecuadas
+Señalización vertical inadecuada
+g. Despistes
+Ancho de carril inadecuado
+Mantenimiento inadecuado
+Bermas inadecuadas
+Poca visibilidad
+Velocidad excesiva 
+h. Puentes
+Alineamiento de la vía y el puente
+Visibilidad 
+Altura vertical libre
+Pavimentos resbaladizos
+Superficie áspera
+ Sistema de guardavías inadecuado
+Accidentes en intersecciones no semaforizadas
+Los tipos de accidentes más comunes ocurren en intersecciones no semaforizadas y sus factores contribuyentes pueden superponerse en varios tipos de accidentes. Esta lista noes exhaustiva y no puede ser exhaustiva debido a la variedad de condiciones locales. Los posibles factores contribuyentes para accidentes en intersecciones no semaforizadas son:
+a. Ángulo recto
+Distancia de visibilidad restringida
+Volúmenes altos de tráfico 
+Velocidades altas en los accesos
+ Excesivo cruce de tráfico
+Conductores que no respetan la señal “PARE”
+Pavimentos resbaladizos 
+b. Alcance
+Cruce de peatones
+Conductores distraídos
+Carriles estrechos
+Distancia de visibilidad restringida
+ Brecha inadecuada en el tráfico
+Velocidad excesiva
+ c. Accidentes en accesos 
+Vehículos que giran a la izquierda
+Ubicación inadecuada del acceso
+Vehículos que giran a la derecha
+Distancia de visibilidad restringida
+Excesiva velocidad
+ d. De frente
+Marcas en el pavimento inadecuadas
+Carriles estrechos 
+e. Giros derecha o izquierda
+Brechas inadecuadas en el tráfico
+Distancia de visibilidad restringida  
+f. En la noche
+Poca visibilidad o iluminación en la noche
+Poca retrorreflectividad de las señales
+Velocidad excesiva
+Distancia de visibilidad inadecuada
+ g. Pavimento húmedo
+Pavimento resbaladizo
+Marcas en el pavimento inadecuadas
+Mantenimiento inadecuado
+Excesiva velocidad
+Accidentes con peatones y ciclistas en general
+Los tipos comunes de accidentes con peatones y ciclistas y posibles factores contribuyentes son:
+Distancia de visibilidad limitada
+Segregación inadecuada entre peatones y vehículos
+Dispositivos de control de tránsito inadecuados
+Marcas en el pavimento inadecuadas
+Iluminación inadecuada
+Cruce a media calzada sin advertencia adecuada para los conductores
+Falta de alternativas para cruzar
+ Velocidad excesiva
+Peatones en la vía
+Distancia excesiva al cruce peatonal más cercano
+Vereda demasiado cerca de la carretera
+Cruce escolar sin la señalización adecuada
+Los siguientes son factores contribuyentes a accidentes con ciclistas: 
+Distancia de visibilidad limitada
+Señalización inadecuada
+Marcas en el pavimento inadecuadas
+Iluminación inadecuada
+Velocidad excesiva
+Bicicletas en la vía sin las condiciones adecuadas para el uso mixto
+Ciclovías demasiado cercanas a la carretera
+Carriles de ciclovías estrechos
+Falta de segregación entre el flujo vehicular y los ciclistas
+Paso 4: priorización de proyectos
+presenta métodos para priorizar proyectos de medidas mitigadoras. Antes de realizar la priorización, de una o más medidas son identificadas para su implementación en un determinado lugar y cada una de estas presenta una evaluación económica. Cada medida que es económicamente justificada será incluida en el proceso de priorización de proyectos descritos en este paso. La siguiente figura presenta una visión general del proceso de administración de la seguridad vial en general y la ubicación de este capítulo dentro de dicho proceso.
+Los métodos de priorización presentados en este paso son aplicables principalmente para optimizar un sistema vial, también pueden ser aplicables para comparar alternativas de mejora en un lugar específico. La siguiente figura presenta una visión general del proceso de priorización de proyectos.
+Registro y análisis de las características físicas actuales de la vía:
+Las características físicas actuales de algunos sectores de la carretera son inadecuadas desde el punto de vista de seguridad. Esto sumado a las excesivas velocidades que desarrollan los vehículos y a las malas prácticas de conducción que realizan los conductores, han hecho que sea cada vez más insegura, surgiendo grandes posibilidades de accidentes a lo largo de la misma.
+Dentro de las características físicas y actuales de la vía, que permiten identificar los factores que afectan la seguridad vial, tenemos:
+Inexistencia o ineficacia de alumbrado público
+Los únicos centros poblados asentados de la vía carecen de un alumbrado público eficiente, hecho que resulta crítico para el tránsito nocturno.
+Cabe indicar que la ejecución de obras de alumbrado público escapa a los alcances del presente proyecto.
+Alineamiento Horizontal y Vertical inadecuado
+El eje existente de la vía presenta radios de curvatura que están por debajo de los mínimos permisibles. La presencia de curvas con dichos valores de radios hace que los conductores de vehículos, sobre todo los de grandes dimensiones hagan maniobras exigidas para poder salvar dicha deficiencia en la carretera existente ocasionando que los vehículos que circulan en sentido contrario tengan que recostarse en un lado de la vía para poder permitirles el pase adecuado.
+La vía existente es sinuosa con presencia de curvas y contracurvas con tramos en tangente sumamente cortos e incluso nulos aumentando la inseguridad de la vía, toda vez que entre curvas de sentido opuesto debe existir siempre un tramo en tangente lo suficientemente largo para asegurar la estabilidad de los vehículos.
+Teniendo en cuenta que las condiciones ideales para el conductor son aquellas en las que la visión de la carretera es dinámicamente estable y su transcurso posterior predecible, en dicho contexto la visibilidad es la principal característica que se busca en una vía.
+El camino vecinal en estudio presenta una topografía ondulada y accidentada desarrollándose la vía entre curvas horizontales con radios que varían de 7 a 70 m, cruzando terrenos de cultivo a ambos lados, y con cortesa lo largo del tramo,con superficie de rodadura a nivel de afirmado en mal estado de conservación.
+La velocidad promedio de operación estimada en base a un recorrido en auto y/o camioneta, que se registra en la vía es de 25 km/h.
+Fotografía 1: Sinuosidad en la vía
+Fotografía 2: radios que no cumple el mínimo requerido
+Radio de  11 mRadio de 12m
+Radio de  11 m
+Radio de 12m
+Fotografía 3: radios que no cumple el mínimo requerido
+Radio de 12mRadio de 12m
+Radio de 12m
+Radio de 12m
+Fotografía 4: radios que no cumple el mínimo requerido
+Radio de 12mRadio de 12m
+Radio de 12m
+Radio de 12m
+Accesos irregulares o inadecuados a lo largo de la vía
+En la actualidad no proporcionan condiciones óptimas de seguridad y capacidad, puesto que los conductores tienen que realizar maniobras difíciles y/o peligrosas para poder circular.
+Fotografía 5: Accesos Inadecuados en la vía
+Fotografía 6: Accesos Inadecuados en la vía
+Fotografía 7: Accesos Inadecuados en la vía
+Fotografía 8: Accesos Inadecuados en la vía
+Fotografía 9: Accesos Inadecuados en la vía
+Fotografía 10: Accesos Inadecuados en la vía
+Fotografía 11: Accesos Inadecuados en la vía
+Ausencia de obras de arte y drenaje
+La vía en estudio carece de obras de arte y drenaje, no cuenta con actividades de mantenimiento rutinario, esta situación se agrava en épocas de lluvias donde la superficie de rodadura se vuelve vulnerable y peligrosa, ya que esta no cuenta con un sistema de drenaje adecuado, lo que origina que el transporte demande mayor tiempo de recorrido.
+Hay sectores de la vía que están muy dañadas por efectos de la erosión del agua de escorrentía de las lluvias y otros sectores por caída de materiales de los taludes superiores.
+Fotografía 13: falta de sistema de drenaje
+Fotografía 14: falta de sistema de drenaje
+Ausencia de señalización
+A lo largo de la vía existe preventivas mal ubicadas y en mal estado; lo cual no permite la visibilidad y orientación adecuada para la transitabilidad de la ruta.
+A lo largo de la vía no existente elementos de seguridad vial (guardavías y barreras de seguridad)
+De acuerdo a la inspección de campo se proyectarán adecuadas señales preventivas, reglamentarias, panel de información, postes delineadores, guardavías y barreras de seguridad. 
+Se verifico en campo que existen señales verticales mal ubicados; lo cual no permite la visibilidad y orientación adecuada para la transitabilidad de la ruta.
+Señal informativa que requiere limpieza y pintado -  Prog. 00+089
+Señal informativa que requiere limpieza y pintado -  Prog. 00+089
+Hito kilométrico en mal estado - Prog. 00+770
+Hito kilométrico en mal estado - Prog. 00+770
+Señal preventiva se encuentra en mal estado- Prog. 01+980
+Señal preventiva se encuentra en mal estado- Prog. 01+980
+Hito kilométrico en mal estado - Prog. 04+740
+Hito kilométrico en mal estado - Prog. 04+740
+Señal preventiva en mal estado – Prog. 05+260
+Señal preventiva en mal estado – Prog. 05+260
+Señal preventiva en mal estado – Prog. 09+785
+Señal preventiva en mal estado – Prog. 09+785
+Se verifico en campo que no existen señales horizontales ya que el camino es trocha carrozable
+Camino en trocha carrozable a lo largo de todo el tramo
+Camino en trocha carrozable a lo largo de todo el tramo
+e.2Acceso a intersecciones irregulares inadecuadas
+Se verifico en campo que hay accesos que no indican lugar de llegada, y en la mayoría de los casos solo son dirigidos a zonas de cultivo, para la orientación y dirección de los conductores se proyectaran señales preventivas de intersecciones y panel informativos.
+No se visualiza panel informativo, ni señal de intersección al Emp. (Prog. 00+760) EJE DE LA VIAINTERSECCION
+No se visualiza panel informativo, ni señal de intersección al Emp. (Prog. 00+760) 
+EJE DE LA VIA
+INTERSECCION
+Se visualiza panel informativo, ni señal de intersección Prog. 02+020INTERSECCIONEJE DE LA VIA
+Se visualiza panel informativo, ni señal de intersección Prog. 02+020
+INTERSECCION
+EJE DE LA VIA
+No se visualiza panel informativo, ni señal de intersección Prog. 00+300
+No se visualiza panel informativo, ni señal de intersección Prog. 00+300
+INTERSECCIONEJE DE LA VIA
+INTERSECCION
+EJE DE LA VIA
+No se visualiza panel informativo, ni señal de intersección Prog. 05+00
+No se visualiza panel informativo, ni señal de intersección Prog. 05+00
+No se visualiza panel informativo, ni señal de intersección Prog. 10+405EJE DE LA VIAFIN DE LA VIA
+No se visualiza panel informativo, ni señal de intersección Prog. 10+405
+EJE DE LA VIA
+FIN DE LA VIA
+e.3 Estrechamiento de la vía, deformaciones de la superficie
+De acuerdo a la inspección se verificó que la superficie de rodadura se encuentraa nivel de terreno natural, no pavimentada. 
+El camino vecinal en estudio, actualmente se encuentra a nivel de materiales naturales, presentando una superficie de rodadura compuesta por suelos de la zona, donde no se ha evidenciado la presencia de materiales de préstamo, y los suelos existentes corresponden a suelos gravosos limosos y arcillosos, arenas limosas y arcillosas que se pueden identificar desde medio arcillosos a suelos de alta plasticidad. 
+Así mismo se verifico que el camino vecinal no cuenta con plazoletas de cruce ni estrechamientos de pase.
+La mayoría de los problemas que se observan en la carretera actual es debido a la inexistencia de un adecuado sistema de drenaje. Erosiones de la plataforma existente en el talud inferior, así como deslizamientos en el talud superior han provocado que diversas zonas se vuelvan riesgoso para los conductores. Cuando transitan vehículos de grandes dimensiones estos hacen que los de menor tamaño tengan que recostarse demasiado a un lado de la vía para poder permitir el paso de estos, obligando en muchos casos que los vehículos menores entren a las cunetas existentes ocasionando maniobras exigidas de parte de los conductores para poder salir de ellas.
+Fotografía 01: estrechamiento de la vía, deslizamiento del talud superior
+e.4 Puntos de cruce y recorrido de animales, peatones y ciclistas, inadecuado dispositivo de seguridad vial análisis de los comportamientos sociales y comerciales que tengan lugar en la zona de influencia del camino y que impacten en la seguridad vial ya sea en forma estacional como periódica a lo lardo del año.
+De acuerdo a la inspección se verificó que no existen dichas señales ni puntos de cruce; lo que hace que se genere accidente a los peatones y acémilas; así mismo genera trafico vehicular
+e.4 insuficiente o inadecuada señalización vial
+De acuerdo lo que sustentado en el capitulo e.1, e.2, e.3; se indica que el tramo cuenta con insuficiente e inadecuada señalización vial; por lo que se está proyectando nuevas señales viales.
+e.5 carencia y necesidad de defensa laterales (guardavías, muros)
+Se verifico en campo que no existen guardavías, barreras de seguridad ni muros; donde el proyecto requiere dichas defensas laterales a lo largo del camino vecinal.
+Se verifica que requiero barrera de seguridad 
+Se verifica que requiero barrera de seguridad 
+Se verifica que requiero barrera de seguridad 
+Se verifica que requiero barrera de seguridad 
+Análisis de características físicas de la vía proyectada, para identificar los factores que puedan afectar la seguridad vial: Magnitudes forzadas del alineamiento horizontal y vertical, estrechamiento de la vía, limitaciones de velocidad por presencia de curvas y/o restricciones de visibilidad; puntos de cruce e intersecciones; zonas de peligro por procesos externos; obstáculos fijos; zonas de seguridad, etc.
+De acuerdo al diseño geométrico, y necesidad del proyecto se esta considerando señales preventivas verticales y horizontales, paneles informativos, barreras de seguridad, postes delineadores, señales de ensanchamiento de cruce, señales ambientales; donde indico y detallo:
+Alineamiento horizontal y vertical
+se están proyectando radio mínimo excepcionales de 11 m en curvas de vuelta, para lo que se está considerando señales preventivas de curva de vuelta 
+Radio de 25.00 m
+Radio de 25.00 m
+Radio de 25.00 m
+Radio de 25.00 m
+A lo largo del proyecto no se esta proyectando señales de zona escolar (P-49), ni señal horizontal de pase peatonal, ya que a lo largo del tramo no hay ninguna institución educativa cercana. 
+Se está proyectando marca en el pavimento a lo largo del proyecto
+Se está proyectando tachas reflectivas a lo largo del proyecto.
+Se está proyectando paneles informativos
+Se está proyectando postes kilométricos
+Se está proyectando postes delineadores
+Se está proyectando guardavías, no se están proyectando guardavías
+Se está proyectando barreras de seguridad
+Se proyecto Guardavías ya que no se tiene área de trabajo recomendado en la topografía proyectada
+Ensanchamiento de la vía
+Se esta considerando estrechamiento en sectores adecuados, las cuales se esta indicando con la señal I-31; así mismo marcas en el pavimento indicando la plazoleta de cruce.
+ITMS
+CODIGO
+PROGRESIVA
+LADO
+INICIO
+FINAL
+1
+A1
+00+520
+00+550
+IZQUIERDO
+2
+A2
+01+135
+01+165
+DERECHO
+3
+A3
+01+550
+01+580
+IZQUIERDO
+4
+A4
+01+970
+02+000
+IZQUIERDO
+5
+A5
+02+610
+02+640
+DERECHO
+6
+A6
+02+970
+03+000
+IZQUIERDO
+7
+A7
+03+500
+03+530
+IZQUIERDO
+8
+A8
+03+895
+03+925
+DERECHO
+9
+A9
+04+520
+04+550
+IZQUIERDO
+10
+A10
+04+850
+04+880
+IZQUIERDO
+11
+A11
+05+470
+05+500
+DERECHO
+12
+A12
+06+000
+06+030
+IZQUIERDO
+13
+A13
+06+350
+06+380
+DERECHO
+14
+A14
+06+940
+06+970
+DERECHO
+15
+A15
+07+670
+07+700
+DERECHO
+16
+A16
+08+010
+08+040
+DERECHO
+17
+A17
+08+610
+08+640
+IZQUIERDO
+18
+A18
+09+000
+09+030
+DERECHO
+19
+A19
+09+540
+09+570
+DERECHO
+20
+A20
+10+100
+10+140
+DERECHO
+30.00 m3.00 m2.00 m
+30.00 m
+3.00 m
+2.00 m
+Limitación de velocidades por presencia de curvas y/o restricciones de visibilidad
+Según diseño geométrico se está considerando una velocidad de 40km/h, lo que se está proyectando la señal R-30.
+No se está proyectando visibilidad de banquetas.
+Puntos de cruce e intersecciones
+Se están proyectando señales de cruce de intersección y paneles informativos en los sectores principales.
+Para el proyecto no se está considerando demarcaciones líneas de cruce peatonal (pase de zona escolar).
+Análisis de accidentes – identificaciones de puntos negros
+La identificación de puntos negros se basa en un análisis de la información recopilada, específicamente en los registros de accidentes ocurridos a lo largo del tramo de estudio, en ese sentido para la identificación de los puntos negros ha sido necesario en primer lugar identificar las zonas peligrosas.
+Como no existen datos estadísticos de la frecuencia de accidentes, se tuvo que recurrir a buscar información entre los pobladores. De acuerdo a dicha información recopilada, el tramo de la carretera presenta accidentes debido al exceso de velocidad.
+En cuanto a la causalidad de los accidentes, se observa que la imprudencia del conductor constituye la principal, seguido de la falta de pericia y finalmente a las condiciones.
+Por lo tanto, el proyecto contempla el mejoramiento del trazo existente y los trabajos de intervención están orientados al ensanche de la plataforma existente e incremento de radios de curvatura a fin de garantizar la seguridad de la vía.
+Sistema de contención Tipo Barreras de seguridad
+Se realizo de acuerdo a la directiva N°007-2008-MTC/02
+1.0 DISPOSICIONES GENERALES 
+1.1 OBJETO 
+La presente directiva tiene como objeto normar el diseño, uso, instalación y mantenimiento de los sistemas de contención de vehículos del tipo barreras de seguridad. 
+1.2 COMPETENCIAS 
+Las autoridades competentes para la aplicación de la presente Directiva, de conformidad con los niveles de Gobierno que corresponden a la organización del Estado, son las siguientes: 
+a. El MTC, por el Gobierno Nacional a cargo de la Red Vial Nacional. 
+b. Los Gobiernos Regionales a cargo de su respectiva Red Vial Departamental o Regional. 
+c. Los Gobiernos Locales, a cargo de su respectiva Red Vial Vecinal. 
+1.3 ÁMBITO DE APLICACIÓN 
+La presente directiva es de obligatorio cumplimiento por las dependencias que ejercen competencia en el Sistema Nacional de Carreteras (SINAC). 
+1.4 DEFINICIONES
+Para efectos de la presente directiva se adoptarán las definiciones contenidas en el “Glosario de términos de uso frecuente en proyectos de infraestructura vial” aprobado con Resolución Ministerial N°660-2008-MTC/02 
+1.5 REFERENCIAS NORMATIVAS
+La presente Norma tiene las siguientes referencias: 
+Comité Europeo de Normalización, Norma EN 1317 Sistemas de Contención para Carreteras. 
+Norma NCHRP Report 350 RecommendProceduresforthe Safety Performance EvaluationofHighwayFeatures. 
+1.6 BASE LEGAL 
+Constitución Política del Perú. 
+Ley de Organización y Funciones del MTC, Ley Nº 27791
+Ley General de Transporte y Tránsito Terrestre, Ley Nº 27181 
+Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias.
+Ley Orgánica de Gobiernos Locales, Ley Nº 27972 y sus modificatorias
+Plan Nacional de Seguridad Vial, D.S. Nº 013-2007-MTC. 
+Reglamento de Jerarquización Vial, D.S. Nº 017-2007-MTC.
+Clasificador de Rutas del SINAC, D.S. Nº 034-2007-MTC.
+2. SISTEMAS DE CONTENCIÓN DE VEHÍCULOS 
+2.1 DEFINICIÓN 
+Los sistemas de contención de vehículos son aquellos dispositivos instalados en la carretera con la finalidad de proporcionar un cierto nivel de contención a un vehículo fuera de control, que puede impactar contra algún objeto fijo (un puente, un pilar, un poste) o salirse de la carretera, mitigando los daños y lesiones tanto para sus ocupantes como para los otros usuarios de la carretera.
+Los sistemas de contención de vehículos deben cumplir con tres funciones básicas:
+Contener al vehículo
+Redireccionar al vehículo
+Mitigar la gravedad del impacto de los ocupantes del vehículo
+2.2 TIPOS DE SISTEMAS DE CONTENCIÓN DE VEHÍCULOS 
+Los tipos de sistemas de contención de vehículos según su función y ubicación son los siguientes: 
+Barreras de seguridad.
+Amortiguadores de impacto. 
+Lechos de frenado. 
+La presente directiva desarrollará el sistema de contención de vehículos del tipo barreras de seguridad, así como de sus terminales y transiciones.
+3. BARRERAS DE SEGURIDAD 
+Se definen como barreras de seguridad a aquellos sistemas de contención de vehículos ubicados e instalados en los márgenes o en los separadores centrales de la carretera y en los bordes de los puentes (pretiles). Las barreras pueden ser flexibles, semirígidas o rígidas. 
+BARRERAS DE SEGURIDAD CERTIFICADAS
+Una barrera de seguridad certificada es aquella que ha pasado por pruebas de impacto de acuerdo a los requisitos normativos establecidos por la NCHRP Report 350 de los Estados Unidos de Norteamérica o por la EN 1317 de la comunidad Europea. 
+Mediante las pruebas de impacto a la barrera de seguridad se obtienen los siguientes parámetros: 
+Nivel de contención. 
+Nivel de severidad del impacto.
+Deformación del sistema. 
+Capacidad de redireccionamiento del sistema 
+Las pruebas de impacto son realizadas en un laboratorio autorizado autenticada por el organismo normativo del país en donde se desarrolló la prueba. En el informe de la prueba de impacto debe estar indicado el nivel de contención, nivel de severidad del impacto, deformación del sistema, los componentes de la barrera de seguridad, planos del diseño de la barrera, tipo de suelo donde fue instalada la barrera, e incluir los videos del funcionamiento de la barrera durante el impacto del vehículo y toda la documentación solicitada en la normativa internacional (NCHRP 350 o EN 1317)
+3.1.1 Nivel de contención 
+El nivel de contención es la capacidad de la barrera de seguridad de absorber la energía de impacto de un vehículo, manteniendo una adecuada deformación, deceleración y capacidad de redireccionamiento del vehículo. 
+Se han definido los siguientes niveles de contención y criterios básicos para su aplicación:
+P1 - Bajo: se utilizarán estas barreras para condiciones de nivel de servicio bajo como en zonas urbanas o en carreteras de bajo volumen de tránsito donde predominen el tránsito de vehículos livianos con velocidades de hasta 50km/h, también pueden ser utilizado como barreras temporales. 
+P2 - Medio: es el nivel mínimo requerido para carreteras de alta velocidad donde predomine el tránsito de vehículos livianos. 
+P3 – Medio alto: es el nivel de contención recomendado para vías que tienen un tráfico principal de vehículos de transporte público y autobuses interurbanos con pesos brutos de hasta 10 toneladas.
+P4 - Alto: es el nivel recomendado para vías que tienen un tráfico considerable de vehículos pesados como camiones y autobuses con pesos brutos de hasta 30 toneladas. 
+P5 - Muy alto: es el nivel recomendado para vías que tienen un tráfico considerable de camiones trailer y semi trailer. 
+En la tabla Nº 1 se aprecia los diferentes niveles de contención que pueden ser considerados por los diseñadores, en el cual podrán utilizar su correspondiente norma NCHRP Report 350 o EN 1317.
+Para nuestro proyecto se considera P4 - Alto
+En el anexo Nº 1 se presenta los niveles de contención de las dos normativas internacionales donde se puede apreciar que varían de acuerdo al peso del vehículo, la velocidad y el ángulo de impacto.
+3.1.2 Nivel de Severidad del Impacto 
+El nivel de severidad del impacto es una manera de medir el daño que sufrirán los ocupantes del vehículo al impactar en una barrera de seguridad, para ello se ha desarrollado a nivel mundial los siguientes parámetros: 
+ASI - Índice de severidad de la aceleración.
+THIV - Velocidad teórica de choque de la cabeza.
+OIV – Velocidad de choque del ocupante.
+ORA – Deceleración del ocupante.
+PHD - Deceleración de la cabeza tras el choque.
+VCDI - Índice de la deformación de la cabina del vehículo. 
+Todos estos parámetros tienen por finalidad contar con indicadores que aseguren que la barrera de seguridad no se convierta en un obstáculo que cause daños equivalentes o mayores de los que se desea proteger a los ocupantes del vehículo. 
+El ASI y PHD corresponde a las deceleraciones que se producen al interior del vehículo, si las deceleraciones son excesivas estas producen daños y desprendimiento de órganos internos que pueden causar la muerte de los ocupantes del vehículo, por lo que sus valores deben ser limitados. 
+En la tabla N° 02, de acuerdo al índice de severidad del impacto, se muestran los valores permisibles de ASI, THIV y PHD.
+El propósito del VCDI según EN 1317 o OCDI según NCHRP-350, es dar una.
+3.1.3 Deformación del Sistema 
+La absorción de energía se realiza en gran parte por la deformación del conjunto de elementos que componen la barrera de seguridad y el vehículo, éstas deformaciones deben ser limitadas y deben de ser compatibles con el lugar y el entorno en el que serán instaladas. Las deformaciones de las barreras de seguridad durante la prueba de  
+impacto vienen caracterizadas por la deflexión dinámica y el ancho de trabajo
+EL ancho de trabajo (W) es la distancia entre la cara más próxima a la corriente de tráfico antes del impacto, y la posición lateral más alejada que durante el impacto alcanza cualquier parte esencial del sistema de contención o vehículo.
+La deflexión dinámica (D) es el máximo desplazamiento dinámico lateral de la cara del sistema más próxima al tráfico. (Ver anexo Nº 3)
+Los valores de deflexión dinámica y el ancho de trabajo están registrados en la instalación para cada barrera de seguridad, y también ayuda a definir las distancias a establecer delante de obstáculos para permitir que la barrera se deforme satisfactoriamente
+Los valores de deflexión dinámica y el ancho de trabajo están registrados en el informe de la prueba de impacto de la barrera de seguridad certificada, estos valores dependen de la estructura del sistema, así como de las características de la prueba.
+3.1.4 Capacidad de redireccionamiento del sistema
+El vehículo debe ser reconducido por la barrera de seguridad de tal forma que, tras el impacto, la trayectoria de las ruedas no atraviese una línea paralela a la posición inicial de la cara de la barrera de seguridad más próxima al tráfico, situada a una distancia A y sobre una distancia B medida desde la intersección final (ruptura) de la trayectoria de las ruedas del vehículo con la cara de la barrera de seguridad más próxima al tráfico
+3.1.5 Revisión de la prueba de impacto
+Para poder verificar el buen funcionamiento y comportamiento de la barrera de seguridad se debe verificar en el informe de la prueba de impacto lo siguiente:   
+El elemento longitudinal de la barrera no debe romperse. 
+La barrera de seguridad debe contener y redireccionar al vehículo.
+No se permite desprendimiento de algún elemento de la barrera mayor a 1,5 Kg.,y en barreras para puentes en intersecciones viales no se permite desprendimiento alguno.
+Ningún elemento de la barrera debe penetrar en el vehículo. 
+El vehículo no debe volcarse 
+El centro de gravedad del vehículo no debe pasar el centro de gravedad de la barrera.
+Vigilar que durante la prueba no se haya caído carga del vehículo, solo se permite un 2% que se pueda caer del vehículo de prueba.
+El vehículo no puede cruzar el eje de la barrera de seguridad. 
+En el anexo Nº 5 se encuentra una lista de chequeo para ayudar en la revisión de las pruebas de impacto de una barrera certificada, considerando al vehículo másligero y al más pesado con el que ha sido ensayada la barrera de seguridad
+3.2 BARRERAS DE SEGURIDAD NO CERTIFICADAS 
+Será responsabilidad del proyectista el diseño y del proveedor proponer una barrera de seguridad no certificada que garantice el nivel de contención, nivel de severidad de impacto y ancho de trabajo requerido de acuerdo a las condiciones del proyecto en función a estudios técnicos que sustenten las mismas y que serán evaluadas y aprobadas dentro del rubro del título de Especificaciones Especiales propuesto en la EG-2000 (Sección 01.02), cumpliendo además con lo estipulado en la presente directiva.
+4.   CRITERIOS DE IMPLEMENTACIÓN DE LA BARRERA DE SEGURIDAD
+a) Se recomienda que antes de decidir a utilizar una barrera de seguridad se analice primero lo siguiente: 
+• El costo de las soluciones alternativas como desplazar o eliminar obstáculos.  
+• Las previsiones de mejoramiento, variación del perfil, explanar el terreno, etc. 
+• Estadística de accidentes de la carretera. 
+• El costo de instalación y mantenimiento de la barrera de seguridad.
+b) Se exigirá la instalación de barreras de seguridad en taludes de terraplén que tengan alturas superiores a los 4,0 m y con pendientes mayores a 1:4(V:H). Si no se tuviera el financiamiento necesario para la instalación de las barreras de seguridad será la decisión del ingeniero especialista determinar la prioridad de las barreras dependiendo de la severidad potencial del accidente que se piensa evitar.
+c) Se instalará una barrera de seguridad cuando la distancia a una zona de peligro al aquel lugar considerado como riesgo potencial de accidente que contengan: taludes donde hay peligro de volcar, tráfico en el sentido contrario, objetos fijos como muros, árboles, etc.   
+d) Se instalará barreras de seguridad cuando el ancho del separador central de la carretera sea inferior a 10 m. en zonas donde la velocidad directriz sea superior a 70km/h, o 6 m. donde la velocidad sea inferior. 
+e) Se recomienda instalar una barrera continua cuando una barrera es requerida en dos o más lugares que se encuentren cercanos. 
+f) En puentes y demás obras de paso a desnivel, seguridad en el borde del tablero. Si hubiera baranda por existir acera peatonal, se procurará que la barrera de seguridad separe la acera del resto de la plataforma.  
+g) e instalarán barreras de seguridad sobre los muros de contención (del lado de la ladera) en una carretera de terreno accidentado o muy accidentado donde la velocidad de proyecto sea superior a 50km/h, salvo previa justificación. 
+h) Es importante que el anclaje de la barrera de seguridad al tablero 
+o muro de contención sea fácilmente sustituible en caso de un impacto y no tenga una resistencia superior a la del elemento al que este sujeto para evitar que el impacto lo dañe. 
+i) La longitud de la barrera será la necesaria para que el sistema desarrolle de forma completa su comportamiento característico.
+5. CRITERIO DE SELECCIÓN DE LA BARRERA DE SEGURIDAD
+Será responsabilidad del ingeniero especializado en el tema, la elección de la barrera más conveniente, para ello deberá tener en cuenta los siguientes criterios.
+5.1 ESTUDIO DE TRAFICO
+Para la selección del nivel de contención, primero se debe determinar mediante un estudio de tráfico los tipos de vehículos que transitan en el tramo de la vía donde será necesaria la instalación de la barrera de seguridad, con esta información en la tabla Nº 05 se designa el tipo de tráfico al que correspondería la vía.
+PARA EL PROYECTO
+PARA EL PROYECTO
+* El proyecto es de tipo Trafico E
+5.1 SELECCIÓN DE BARRERA DE SEGURIDAD
+En la tabla N°06 se sugiere el nivel de contención de la barrera de seguridad de acuerdo al tipo de vía y el tipo de vehículo.
+Para el caso de una barrera certificada, se deberá tener en cuenta las siguientes consideraciones al momento de elegir la barrera más conveniente: 
+Funcionamiento y comportamiento de la barrera certificada. 
+Las condiciones del terreno. 
+El espacio disponible (ancho de trabajo y deflexión dinámica) 
+Necesidades especiales (conexiones, anclajes, abatimientos, etc.) 
+El menor valor de ASI. 
+El menor valor de THIV y PHD.  
+La menor deformación del vehículo de acuerdo a los valores del VCDI ó OCDI. 
+* El proyecto es carretera de bajo volumen de transito BVT
+6. INSTALACIONES COMPLEMENTARIAS
+6.1 TERMINALES
+Los terminales están ubicados en los extremos de la barrera, sus objetivos principales son la de evitar que se produzca una detención violenta del vehículo en un impacto frontal y que algún elemento de la barrera penetre al compartimiento de pasajeros del vehículo, asimismo sirve como anclaje de la barrera en un impacto lateral. Los terminales pueden ser:
+Terminal abatido y esviado
+Terminal esviado y empotrado en talud de corte
+Terminal atenuador
+7. ESPECIFICACIONES TÉCNICAS DE LA BARRERA DE SEGURIDAD
+7.1 MATERIALES
+Si la barrera de seguridad es de material metálico y con protección anticorrosivo de galvanizado, estará formada por una serie continua de elementos longitudinales (vigas), soportes (postes), espaciadores y accesorios (pernos, arandelas, tuercas, pieza angular, captafaros y topes), los cuales se podrá desmontar en caso de ser necesario, con el fin de proceder a su sustitución. Las barreras de seguridad también pueden ser de hormigón, mixtas, o de otro material.
+Las características específicas del material de cada elemento serán de acuerdo a lo estipulado en la prueba de impacto en el caso de una aberra de seguridad certificada. Estas especificaciones deberán estar basadas de acuerdo con las normas de control de calidad americanas o europeas según corresponda la prueba de impacto.
+7.2 INSTALACION
+La instalación de las barreras de seguridad certificadas hará con las mismas especificaciones técnicas de los materiales, suelo y lugar donde fue instalada la barrera de acuerdo a los documentos entregados por el laboratorio respectivo donde se ha realizado la prueba de impacto con su debida certificación.
+El proveedor deberá hacerse responsable de su instalación y armado de la barrera de seguridad, respetando las especificaciones del fabricante y resolviendo los problemas particulares que se presentan durante la instalación.
+Para las barreras metálicas el comportamiento rígido o flexible de un poste de acero depende de dos factores: el primero de estos factores corresponde a la sección del poste, el segundo factor depende de su instalación. Por ello es fundamental que dicha instalación se realice de acuerdo con las instrucciones del fabricante.
+Algunos de los problemas que se presentan ocurren en el borde de terraplenes o de quebradas, en esos casos se debe poner especial cuidado en que exista suelos disponibles para hincar el poste, ya que, si se instala una barrera muy cerca al borde de un terraplén, ésta no tendrá suelo tras de sí para transmitirle su carga y el resultado será que la barrera al ser impactada se desplazará con el vehículo siendo incapaz de contenerlo.
+8.00 MANTENIMIENTO DE BARRERA DE SEGURIDAD
+Las barreras de seguridad deberán ser sometidas a labores de conservación, con la finalidad de que cumplan con su función prevista. La reposición parcial o total de los elementos de la barrera de seguridad deberá ser con el mismo material con la que fue diseñada.
+Para el proyecto se está considerando un ancho de trabajo de 0.50 m; así mismo de acuerdo al diseño presentado el ancho de la barrera de seguridad es de 0.38.
+Para el proyecto se ha considerado y diseñado barrera de seguridad CLASSEH2 BORDO LATERALE – BARRIERA 3 ONDE SINGOLA SU RILEVATO W8, de una longitud de 4.05 m; dicha empresa a cotizar MARCEGAGLIA BUILDTECH.
+Medidas para prevenir y reducir accidentes de tránsito:
+La ingeniería de seguridad vial se puede resumir en dos grandes áreas:
+La reducción deaccidentes
+La prevención deaccidentes
+REDUCCIÓN DEACCIDENTES
+La primera labor que debe tomar la seguridad vial es reducir de manera inmediata los lugares de alto riesgo de accidentes.
+Los pasos que seguir son:
+Identificación de lugares con alta ocurrencia deaccidentes.
+Análisisdelascausasqueprovocanlosaccidentesmedianteinvestigación y visitas decampo.
+Definición de los problemas de losaccidentes.
+Diseño de los proyectoscorrectores.
+Monitoreo de los efectos delproyecto.
+El estudio de conflictos es una de las herramientas esenciales en todo análisis de accidentes. Los estudios de conflictos son probables omisiones o faltas que se registran en el lugar del análisis.
+PREVENCIÓN DE ACCIDENTES
+El siguiente paso, consiste en la introducción de medidas de control para los proyectos viales futuros evitando de esta manera, incurrir en las mismas deficiencias que, en alguna medida, causaron los accidentes pasados. Este control y supervisión de los proyectos viales tanto en carreteras como en urbes se conoce como auditoría de seguridad vial.
+Las medidas de seguridad recomendada para reducir y prevenir accidentes de tránsito, en la vía proyectada son las siguientes:
+Proyectar una buena señalización, tanto vertical como horizontal, tomando en cuenta el diseño geométrico de la vía, la velocidad directriz y las recomendaciones del presente estudio de seguridadvial.
+Proyectarseñalesquelimitenlavelocidadalaentradadecentrospobladosyen los tramos que seannecesarios.
+Proyectar reductores de velocidad (de ser el caso) en las zonasurbanas.
+Proyectar elementos de seguridad, tales como guardavías, en sectores críticos, de acuerdo al nivel de seguridadrecomendado.
+Proyectar bermas en todo el tramo de la vía y plazoletas de cruce distanciados 500m como máximo.
+Proyectarcunetasconinclinacionesdetaludacordeconelvolumenvehicularde la vía y las velocidades de operación que seregistran.
+Vehículo de diseño
+Para el proyecto se está considerando un tipo de vehículo de diseño Semitrayler 3S2;por lo que el vehículo de diseño cuenta con un ancho de 2.60m; nuestra calzada del proyecto es de 5.00 m; lo que hace que nuestro proyecto es de una sola vía.
+Estudio de señalización:
+Metodología del estudio:
+El diseño de la señalización se basa en el Manual de dispositivos de control del tránsito automotor para las calles y carreteras del MTC en vigencia, emitida el 2016, así como el
+Manual de Seguridad Vial 2017. Asimismo, el diseño de la señalización ha tomado en consideraciónlasrecomendacionesdelestudiodeseguridadvialyeldiseñogeométrico proyectado.
+Elproyectotambiéncontemplalacolocacióndeseñalesambientalescuyoobjetivoserá concientizar a las personas que transiten por la vía proyectada de mantener las características naturales de la zona, sin causar un impacto negativo enellas.
+A continuación, se describe la metodología utilizada para la elaboración del Estudio de Señalización.
+Información de campo
+Tarea realizada con el propósito de conocer con mayor detalle el medio físico donde se desarrollará la vía, y las zonas sin considerarse puntos críticos han merecido la atención del caso.
+Levantamiento topográfico del proyecto, en cuanto a su información de geometría en planta, perfiles y secciones transversales.
+Se ha realizado el inventario físico de la señalización existente a lo largo de la carretera en estudio, verificándose que la vía actualmente no cuenta con señalizaciones a lo largo del tramo.
+Identificación de los factores que contribuyen a crear la seguridad en el tráfico
+Evaluación de los sectores que representen riesgo o inseguridad vial y las condiciones de tránsito bajo las cuales se desenvolverán los usuarios de la vía.
+Elaboración del Estudio
+El presente estudio está enmarcado dentro de la normatividad vigente y los buenos criterios basadas en las buenas prácticas de la ingeniería. A continuación, se lista las normas consultadas en el presente estudio:
+Manual de Dispositivos de Control de Tránsito Automotor para Calles y Carreteras aprobado mediante R.D. N°18-2016-MTC/14, del 3 de mayo del 2016.
+Manual de Carreteras de Diseño Geométrico (DG-2018), aprobada mediante Resolución Directoral N°03-2018-MTC/14, del 30 de enero del 2018.
+Manual de Especificaciones Técnicas Generales para la Construcción (EG- 2013), aprobado con Resolución Directoral N°003-2013-MTC/14 del 17.017.2013, publicado el 07.08.2013.
+Los dispositivos de señalización y seguridad vial propuestos guardan relación con el diseño geométrico de la vía.
+Señalización existente:
+En la visita de reconocimiento de campose constató la existencia de señales a lo largo de la vía en estudio los cuales serán retirados en su totalidad por tener una ubicación inadecuada, no cumplir con las especificaciones según las normativas vigentes y por el estado de deterioro de los mismos. 
+Señalización proyectada:
+Teniendo como sustento técnico normativo el manual de dispositivos de control del tránsito automotor para calles y carreteras del MTC, aprobado según Resolución Ministerial Nº 210-2000-MTC/15.02, de fecha 03 de mayo del 2000 y su última modificación bajo el R.D. N° 016-2016-MTC/14.
+En la etapa de gabinete se tiene que haber criterios de diseño para lo cual tener en consideraciones lo siguientes definiciones.
+Diseño: El dispositivo debe ser de un diseño tal que la combinación de sus dimensiones, colores, forma, composición y visibilidad llamen apropiadamente la atención del conductor, de modo que este reciba el mensaje claramente y pueda responder con la debida oportunidad.
+Localización: Debe ser localizado en una posición que pueda llamar la atención del conductor dentro de su ángulo de visión, también se debe tener en cuenta que estas señales serán ubicadas obedeciendo a las siguientes características.
+a.Velocidad directriz = 30 km/h: es la que acondiciona las dimensiones de la totalidad de Señales.
+b.Radios de curvatura: Se tendrá en cuenta para ubicar las Señales de prevención o de las marcas en el pavimento, para lo cual se está considerando Señalizar en curvas con radios menores a 600m.
+c.En Zonas Urbanas: en este caso las Señales serán colocados a distancias no menores a los doscientos metros del límite de estos sectores.
+d.En Cruces de vía: se considerará las Señales reglamentarias para sectores con tránsito considerable.
+• Operación: La aplicación del dispositivo debe ser tal que esté de acuerdo con los requerimientos del tránsito vehicular. Debe operar o estar colocado de tal manera que pueda cumplir con la uniformidad establecida a fin de que el conductor reconozca rápidamente, reciba el mensaje claramente, respondiendo con prontitud y con la debida anticipación.
+• Mantenimiento: El mantenimiento debe ser considerándose primera importancia y representar un servicio preferencial en limpieza, para su eficiente operación y legibilidad, elementos esenciales para mantener el respeto que se debe a los dispositivos y de esa forma obtener el cumplimiento de su función de ordenamiento y control de la circulación vehicular.
+• Uniformidad: Requerimiento éste indispensable para que el conductor pueda reconocer e interpretar adecuadamente el mensaje del dispositivo en condiciones normales de circulación vehicular. Este aspecto es de suma importancia, en caso de no cumplirse puede ocasionar malas interpretaciones y poner en peligro la seguridad del tránsito.
+Señalización vertical:
+Señales reguladoras o de reglamentación:
+Se utilizarán Señales reglamentarias en el desarrollo de operativos o sucesos para indicar las restricciones físicas y operativas con las que cuenta el tramo de la vía afectada por el referido suceso. 
+La inclusión de Señales reglamentarias generará un ordenamiento en el tránsito vehicular, además de dar a conocer al usuario de la vía sobre la existencia de las limitaciones, restricciones, prohibiciones y autorizaciones que regulan su uso. En el presente estudio se ha considerado la utilización de Señales de carácter reglamentario, dentro de la clasificación de Señales relativas al derecho de paso, prohibitivas o restrictivas y de sentido de circulación.
+Los paneles de las Señales se fabricarán con planchas de fibra de vidrio con resina poliéster y con una cara de textura similar al vidrio. La parte posterior del panel se pintará con esmalte de color negro y en el borde superior derecho de esta cara posterior, se colocará una inscripción con las siglas “MTC” y la fecha de instalación (mes y año).
+Los postes de fijación o soporte de las Señales serán de concreto armado, los mismos que deberán pintarse con esmalte color negro y blanco, en franjas horizontales de 50 centímetros. Las dimensiones, especificaciones y detalles constructivos están indicados en el plano correspondiente.
+SEÑALES DE RESTRICCIÓN.
+Se usan para restringir o limitar el tránsito vehicular debido a características particulares de la vía. En general, están compuestas por un círculo de fondo blanco y orla roja en el que se inscribe el símbolo que representa la restricción o limitación, cuya relación se indica a continuación.
+Figura 2: Señal Reguladoras de Restricción
+Tabla 2: Relación de Señalización de Restricción.
+5.03
+SEÑALES REGLAMENTARIAS
+TOTAL 
+12
+Und.
+N°
+TIPO
+VELOCIDAD
+PROGR.
+LADO 
+CANT.
+1
+R-30
+40
+km/h
+00+380
+DERECHO
+1
+2
+R-30
+40
+km/h
+00+460
+IZQUIERDO
+1
+3
+R-30
+40
+km/h
+01+220
+DERECHO
+1
+4
+R-30
+40
+km/h
+01+400
+IZQUIERDO
+1
+5
+R-30
+40
+km/h
+02+470
+DERECHO
+1
+6
+R-30
+40
+km/h
+02+540
+IZQUIERDO
+1
+7
+R-30
+40
+km/h
+04+440
+DERECHO
+1
+8
+R-30
+40
+km/h
+04+630
+IZQUIERDO
+1
+9
+R-30
+40
+km/h
+06+430
+DERECHO
+1
+10
+R-30
+40
+km/h
+06+770
+IZQUIERDO
+1
+11
+R-30
+40
+km/h
+09+080
+DERECHO
+1
+12
+R-30
+40
+km/h
+09+340
+IZQUIERDO
+1
+TOTAL
+12
+RESUMEN DE SEÑALES REGULADORAS Y REGLAMENTARIAS QUE SERÁN UTILIZADOS EN EL PROYECTO.
+Las Señales reguladoras y reglamentarias que serán utilizados en el proyecto es.
+Tabla 2: Resumen de Señales reguladoras y Reglamentarias que Serán Utilizados en el Proyecto.
+TIPO
+TOTAL
+SEÑALES REGLAMENTARIAS
+12Und.
+Señales preventivas:
+Su propósito es advertir a los usuarios sobre la existencia y naturaleza de riesgos
+y/o situaciones imprevistas presentes en la vía o en sus zonas adyacentes, ya sea en forma permanente o temporal.
+Serán ubicadas y diseñadas de acuerdo al alineamiento de la vía, en las zonas que representan un peligro real o potencial, que puede ser evitado disminuyendo la velocidad del vehículo o tomando las precauciones del caso.
+Las Señales preventivas tienen una dimensión de 0.60 x 0.60m con fondo de material retro - reflectante de color amarillo; los símbolos, letras y borde del marco se pintarán con tinta xerográfica de color negro.
+Los paneles de las Señales serán fabricados en fibra de vidrio con resina poliéster y una cara de textura similar al vidrio. La parte posterior de los paneles se pintará con esmalte de color negro y en el borde superior derecho de la misma, se colocará una inscripción con las siglas “MTC” y la fecha de instalación (mes y año).
+Los postes de fijación o soporte de las Señales serán de concreto armado, los mismos que deberán pintarse con esmalte color negro y blanco, en franjas horizontales de 50 centímetros. Las dimensiones, especificaciones y detalles constructivos están indicados en el plano correspondiente.
+La ubicación de las Señales ha sido definida principalmente en función de la geometría de la vía, considerando a aquellos conductores que no se encuentran familiarizados con la carretera y darles el tiempo necesario para percibir, identificar y decidir cualquier maniobra sin peligro. Para obtener mayor información sobre las Señales de carácter preventivo puede recurrirse al Manual de Dispositivos de Control de Tránsito Automotor para Calles y Carreteras, así como las Especificaciones Técnicas de Calidad de Materiales para Uso en Señalización de Obras Viales del MTC.
+El rango admisible de retro reflexión para las láminas a utilizarse en el fondo de las Señales preventivas, cumplirá con lo indicado en el Manual de Dispositivos de Control de Tránsito Automotor para Calles y Carreteras del MTC.
+Ubicación: Deben ubicarse de tal manera, que los conductores tengan el tiempo de percepción-respuesta adecuado para percibir, identificar, tomar la decisión y ejecutar con seguridad la maniobra que la situación requiere. La distancia desde la Señal preventiva al peligro que ésta advierte debe ser en función de la velocidad límite o la del percentil 85, de las características de la vía, de la complejidad de la maniobra a efectuar y del cambio de velocidad requerido para realizar la maniobra con seguridad.
+Las Señalizaciones preventivas se clasifican teniendo en consideración lo siguiente:
+POR CARACTERÍSTICAS GEOMÉTRICAS HORIZONTALES Y VERTICALES DE VÍA:
+A) Curvas Horizontales.
+Señalan la proximidad de una o más curvas horizontales en la vía que requieran un cambio de velocidad para circular con seguridad. A continuación, se indica la relación de las Señales preventivas que puede existir en el tramo en estudio, así como se muestra en la siguiente relación y figura.
+(I-31) Señal estacionamiento para emergencia.
+(P-10B) Señal de empalme en Angulo agudo a la izquierda.
+(P-16A) Señal incorporación de tránsito a la derecha.
+(P-17A) Señal reducción de calzada a ambos lados
+(P-1A) Señal Curva Pronunciada A La Derecha.
+(P-1B) Señal Curva Pronunciada A La Izquierda.
+(P-2A) Señal Curva A La Derecha.
+(P-2B) Señal Curva A La Izquierda.
+(P-31) Señal final de vía pavimentada
+(P-33A) Señal proximidad reductor de velocidad tipo resalto.
+(P-3B) Señal Curva Y Contra-Curva Pronunciada A La Izquierda.
+(P-4A) Señal Curva Y Contra-Curva A La Derecha.
+(P-4B) Señal Curva Y Contra-Curva A La Izquierda.
+(P-51) Señal de maquinaria agrícola en la vía.
+(P-5-1) Señal Camino Sinuoso A La Derecha.
+(P-5-1A) Señal Camino Sinuoso A La Izquierda.
+(P-5-2A) Señal Curva En “U” A La Derecha.
+(P-5-2B) Señal Curva En “U” A La Izquierda.
+(P-7) Señal intersección en T
+(P-9A) Señal de empalme en ángulo recto con vía lateral a la derecha.
+(P-9B) Señal de empalme en ángulo recto con vía lateral a la izquierda.
+(P-33A) Señal de proximidad reductor de velocidad tipo resalto
+Figura 3: Señales preventivas - curvatura horizontal
+La selección de la Señalización adecuada para una curva estará en función al cambio de la velocidad de operación requerida y el uso coordinado con las demás Señales de la curva, tales como delineadores de curva horizontal, velocidad máxima y otras.
+De los cuales se adjuntan la relación de las Señalizaciones preventivas que serán usados en el proyecto en estudio.
+Tabla 3: Relación de Señales Preventivas.
+N°
+TIPO
+DESCRIPCION
+PROGR.
+LADO 
+CANT.
+1
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+00+160
+DERECHO
+1
+2
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+00+280
+IZQUIERDO
+1
+3
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+00+500
+DERECHO
+1
+4
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+00+570
+IZQUIERDO
+1
+5
+P-1B
+SEÑAL CURVA PRONUNCIADA A LA IZQUIERDA
+00+720
+DERECHO
+1
+6
+P-6
+SEÑAL CRUCE DE VIAS A NIVEL
+00+740
+DERECHO
+1
+7
+P-6
+SEÑAL CRUCE DE VIAS A NIVEL
+00+780
+DERECHO
+1
+8
+P-6
+SEÑAL CRUCE DE VIAS A NIVEL
+00+780
+DERECHO
+1
+9
+P-6
+SEÑAL CRUCE DE VIAS A NIVEL
+00+790
+IZQUIERDO
+1
+10
+P-1A
+SEÑAL CURVA PRONUNCIADA A LA DERECHA
+00+810
+IZQUIERDO
+1
+11
+P-1A
+SEÑAL CURVA PRONUNCIADA A LA DERECHA
+00+970
+DERECHO
+1
+12
+P-1B
+SEÑAL CURVA PRONUNCIADA A LA IZQUIERDA
+01+050
+IZQUIERDO
+1
+13
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+00+110
+DERECHO
+1
+14
+P-2A
+SEÑAL CURVA A LA DERECHA
+01+125
+DERECHO
+1
+15
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+01+205
+IZQUIERDO
+1
+16
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+01+230
+IZQUIERDO
+1
+17
+P-1B
+SEÑAL CURVA PRONUNCIADA A LA IZQUIERDA
+01+250
+DERECHO
+1
+18
+P-2A
+SEÑAL CURVA A LA DERECHA
+01+320
+DERECHO
+1
+19
+P-1A
+SEÑAL CURVA PRONUNCIADA A LA DERECHA
+01+330
+IZQUIERDO
+1
+20
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+01+380
+IZQUIERDO
+1
+21
+P-2A
+SEÑAL CURVA A LA DERECHA
+01+400
+DERECHO
+1
+22
+P-9B
+SEÑAL DE EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+01+470
+DERECHO
+1
+23
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+01+490
+IZQUIERDO
+1
+24
+I-31
+SEÑAL  ESTACIONAMIENTO PARA EMERGENCIA
+01+530
+DERECHO
+1
+25
+P-9A
+SEÑAL  EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+01+530
+IZQUIERDO
+1
+26
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+01+600
+IZQUIERDO
+1
+27
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+01+630
+DERECHO
+1
+28
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+01+720
+DERECHO
+1
+29
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+01+820
+IZQUIERDO
+1
+30
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+01+920
+DERECHO
+1
+31
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+01+930
+IZQUIERDO
+1
+32
+P-1B
+SEÑAL CURVA PRONUNCIADA A LA IZQUIERDA
+01+980
+DERECHO
+1
+33
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+000
+IZQUIERDO
+1
+34
+P-10 A
+SEÑAL EMPALME EN ANGULO AGUDO A LA DERECHA
+02+000
+DERECHO
+1
+35
+P-10 B
+SEÑAL EMPALME EN ANGULO AGUDO A LA IZQUIERDA
+02+060
+IZQUIERDO
+1
+36
+P-1A
+SEÑAL CURVA PRONUNCIADA A LA DERECHA
+02+080
+IZQUIERDO
+1
+37
+P-1A
+SEÑAL CURVA PRONUNCIADA A LA DERECHA
+02+280
+DERECHO
+1
+38
+P-10 B
+SEÑAL EMPALME EN ANGULO AGUDO A LA IZQUIERDA
+02+300
+DERECHO
+1
+39
+P-10 A
+SEÑAL EMPALME EN ANGULO AGUDO A LA DERECHA
+02+360
+IZQUIERDO
+1
+40
+P-1B
+SEÑAL CURVA PRONUNCIADA A LA IZQUIERDA
+02+360
+IZQUIERDO
+1
+41
+P-2A
+SEÑAL CURVA A LA DERECHA
+02+370
+DERECHO
+1
+42
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+02+450
+IZQUIERDO
+1
+43
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+02+530
+DERECHO
+1
+44
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+580
+DERECHO
+1
+45
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+02+610
+IZQUIERDO
+1
+46
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+640
+IZQUIERDO
+1
+47
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+02+695
+DERECHO
+1
+48
+P-10B
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA IZQUIERDA
+02+705
+DERECHO
+1
+49
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+02+760
+IZQUIERDO
+1
+50
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+02+770
+DERECHO
+1
+51
+P-2A
+SEÑAL CURVA A LA DERECHA
+02+770
+IZQUIERDO
+1
+52
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+02+840
+IZQUIERDO
+1
+53
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+920
+DERECHO
+1
+54
+P-5-1A
+SEÑAL CAMINO SINUOSO A LA IZQUIERDA
+03+000
+DERECHO
+1
+55
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+010
+IZQUIERDO
+1
+56
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+03+080
+DERECHO
+1
+57
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+03+150
+IZQUIERDO
+1
+58
+P-5-1A
+SEÑAL CAMINO SINUOSO A LA IZQUIERDA
+03+280
+IZQUIERDO
+1
+59
+P-2A
+SEÑAL CURVA A LA DERECHA
+03+400
+DERECHO
+1
+60
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+470
+DERECHO
+1
+61
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+03+470
+IZQUIERDO
+1
+62
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+03+535
+DERECHO
+1
+63
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+540
+IZQUIERDO
+1
+64
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+03+550
+DERECHO
+1
+65
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+03+590
+IZQUIERDO
+1
+66
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+03+640
+DERECHO
+1
+67
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+03+650
+IZQUIERDO
+1
+68
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+03+730
+IZQUIERDO
+1
+69
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+03+750
+DERECHO
+1
+70
+P-7
+SEÑAL INTERSECCION EN "T"
+03+770
+DERECHO
+1
+71
+P-7
+SEÑAL INTERSECCION EN "T"
+03+810
+IZQUIERDO
+1
+72
+P-2A
+SEÑAL CURVA A LA DERECHA
+03+830
+IZQUIERDO
+1
+73
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+03+830
+DERECHO
+1
+74
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+880
+DERECHO
+1
+75
+P-2A
+SEÑAL CURVA A LA DERECHA
+03+900
+IZQUIERDO
+1
+76
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+920
+IZQUIERDO
+1
+77
+P-2A
+SEÑAL CURVA A LA DERECHA
+03+920
+DERECHO
+1
+78
+P-9B
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA IZQUIERDA
+03+920
+DERECHO
+1
+79
+P-9A
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA DERECHA
+03+960
+IZQUIERDO
+1
+80
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+03+970
+DERECHO
+1
+81
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+03+970
+IZQUIERDO
+1
+82
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+04+130
+DERECHO
+1
+83
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+04+195
+IZQUIERDO
+1
+84
+P-3A
+SEÑAL CURVA Y CONTRA-CURVA PRONUNCIADA A LA DERECHA
+04+200
+DERECHO
+1
+85
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+04+200
+IZQUIERDO
+1
+86
+P-3A
+SEÑAL CURVA Y CONTRA-CURVA PRONUNCIADA A LA DERECHA
+04+320
+IZQUIERDO
+1
+87
+P-6
+SEÑAL CRUCE DE VÍAS A NIVEL
+04+345
+DERECHO
+1
+88
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+04+360
+DERECHO
+1
+89
+P-6
+SEÑAL CRUCE DE VÍAS A NIVEL
+04+420
+IZQUIERDO
+1
+90
+P-2A
+SEÑAL CURVA A LA DERECHA
+04+430
+IZQUIERDO
+1
+91
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+480
+DERECHO
+1
+92
+P-2A
+SEÑAL CURVA A LA DERECHA
+04+530
+DERECHO
+1
+93
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+550
+IZQUIERDO
+1
+94
+P-9B
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA IZQUIERDA
+04+550
+DERECHO
+1
+95
+P-9A
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA DERECHA
+04+600
+IZQUIERDO
+1
+96
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+04+610
+IZQUIERDO
+1
+97
+P-2B
+SEÑAL  CURVA A LA IZQUIERDA
+04+640
+DERECHO
+1
+98
+P-2A
+SEÑAL CURVA A LA DERECHA
+04+740
+IZQUIERDO
+1
+99
+P-2A
+SEÑAL CURVA A LA DERECHA
+04+760
+DERECHO
+1
+100
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+830
+DERECHO
+1
+101
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+04+840
+IZQUIERDO
+1
+102
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+900
+IZQUIERDO
+1
+103
+P-33A
+SEÑAL PROXIMIDAD REDUCTOR DE VELOCIDAD TIPO RESALTO
+04+940
+DERECHO
+1
+104
+P-33A
+SEÑAL PROXIMIDAD REDUCTOR DE VELOCIDAD TIPO RESALTO
+04+980
+IZQUIERDO
+1
+105
+P-6
+SEÑAL CRUCE DE VIAS A NIVEL
+04+990
+DERECHO
+1
+106
+P-6
+SEÑAL CRUCE DE VIAS A NIVEL
+05+035
+IZQUIERDO
+1
+107
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+04+980
+DERECHO
+1
+108
+P-33A
+SEÑAL PROXIMIDAD REDUCTOR DE VELOCIDAD TIPO RESALTO
+05+040
+DERECHO
+1
+109
+P-2A
+SEÑAL CURVA A LA DERECHA
+05+050
+IZQUIERDO
+1
+110
+P-33A
+SEÑAL PROXIMIDAD REDUCTOR DE VELOCIDAD TIPO RESALTO
+05+070
+IZQUIERDO
+1
+111
+P-1A
+SEÑAL CURVA PRONUNCIADA A LA DERECHA
+05+090
+DERECHO
+1
+112
+P-1B
+SEÑAL CURVA PRONUNCIADA A LA IZQUIERDA
+05+160
+IZQUIERDO
+1
+113
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+05+190
+DERECHO
+1
+114
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+05+260
+DERECHO
+1
+115
+P-16B
+     SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+05+320
+IZQUIERDO
+1
+116
+P-4A
+     SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+05+330
+IZQUIERDO
+1
+117
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+05+340
+DERECHO
+1
+118
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+05+350
+IZQUIERDO
+1
+119
+P-2A
+SEÑAL CURVA A LA DERECHA
+05+380
+DERECHO
+1
+120
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+05+440
+DERECHO
+1
+121
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+05+460
+IZQUIERDO
+1
+122
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+05+483
+DERECHO
+1
+123
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+05+500
+IZQUIERDO
+1
+124
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+05+540
+IZQUIERDO
+1
+125
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+05+570
+DERECHO
+1
+126
+P-2A
+SEÑAL CURVA A LA DERECHA
+05+640 
+IZQUIERDO
+1
+127
+P-2B
+SEÑAL DE CURVA A LA IZQUIERDA
+05+650
+DERECHO
+1
+128
+P-16A
+SEÑAL INCORPORACION DE TRANSITO A LA DERECHA
+05+660
+DERECHO
+1
+129
+P-16B
+SEÑAL INCORPORACION DE TRANSITO A LA IZQUIERDA
+05+720
+IZQUIERDO
+1
+130
+P-2A
+SEÑAL CURVA A LA DERECHA
+05+740
+IZQUIERDO
+1
+131
+P-2A
+SEÑAL CURVA A LA DERECHA
+05+760
+DERECHO
+1
+132
+P-2B
+SEÑAL DE CURVA A LA IZQUIERDA
+05+840
+IZQUIERDO
+1
+133
+P-4B
+SEÑAL CURVA Y CONTRA-CURVA A LA IZQUIERDA
+05+850
+DERECHO
+1
+134
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+05+920
+DERECHO
+1
+135
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+05+970
+IZQUIERDO
+1
+136
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+05+970
+DERECHO
+1
+137
+P-4B
+SEÑAL CURVA Y CONTRA-CURVA A LA IZQUIERDA
+05+980
+IZQUIERDO
+1
+138
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+040
+IZQUIERDO
+1
+139
+P-2A
+SEÑAL CURVA A LA DERECHA
+06+050
+DERECHO
+1
+140
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+06+120
+DERECHO
+1
+141
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+06+130
+IZQUIERDO
+1
+142
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+06+190
+IZQUIERDO
+1
+143
+P-2A
+SEÑAL CURVA A LA DERECHA
+06+250
+DERECHO
+1
+144
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+310
+DERECHO
+1
+145
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+06+320
+IZQUIERDO
+1
+146
+P-2A
+SEÑAL CURVA A LA DERECHA
+06+360
+DERECHO
+1
+147
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+380
+IZQUIERDO
+1
+148
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+06+380
+DERECHO
+1
+149
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+06+430
+IZQUIERDO
+1
+150
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+06+440
+IZQUIERDO
+1
+151
+P-2B
+SEÑAL DE CURVA A LA IZQUIERDA
+06+480
+DERECHO
+1
+152
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+06+560
+DERECHO
+1
+153
+P-2A
+SEÑAL CURVA A LA DERECHA
+06+570
+IZQUIERDO
+1
+154
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+06+840
+IZQUIERDO
+1
+155
+P-2A
+SEÑAL CURVA A LA DERECHA
+06+840
+DERECHO
+1
+156
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+890
+DERECHO
+1
+157
+P-2B
+SEÑAL DE CURVA A LA IZQUIERDA
+06+900
+IZQUIERDO
+1
+158
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+960
+IZQUIERDO
+1
+159
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+07+000
+DERECHO
+1
+160
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+07+020
+IZQUIERDO
+1
+161
+P-2A
+SEÑAL CURVA A LA DERECHA
+07+040
+DERECHO
+1
+162
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+07+140
+IZQUIERDO
+1
+163
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+07+260
+DERECHO
+1
+164
+P-5-1
+SEÑAL CAMINO SINUOSO A LA DERECHA
+07+480
+IZQUIERDO
+1
+165
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+07+480
+DERECHO
+1
+166
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+07+490
+DERECHO
+1
+167
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+07+550
+IZQUIERDO
+1
+168
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+07+630
+DERECHO
+1
+169
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+07+640
+IZQUIERDO
+1
+170
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+07+683
+DERECHO
+1
+171
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+07+720
+IZQUIERDO
+1
+172
+P-2A
+SEÑAL CURVA A LA DERECHA
+07+740
+IZQUIERDO
+1
+173
+P-2A
+SEÑAL CURVA A LA DERECHA
+07+780
+DERECHO
+1
+174
+P-3A
+SEÑAL CURVA Y CONTRA-CURVA PRONUNCIADA A LA DERECHA
+07+840
+DERECHO
+1
+175
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+07+840
+IZQUIERDO
+1
+176
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+07+920
+DERECHO
+1
+177
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+07+980
+IZQUIERDO
+1
+178
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+07+970
+DERECHO
+1
+179
+P-3A
+SEÑAL CURVA Y CONTRA-CURVA PRONUNCIADA A LA DERECHA
+08+000
+IZQUIERDO
+1
+180
+P-2A
+SEÑAL CURVA A LA DERECHA
+08+020
+DERECHO
+1
+181
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+030
+IZQUIERDO
+1
+182
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+08+090
+IZQUIERDO
+1
+183
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+08+160
+DERECHO
+1
+184
+P-2A
+SEÑAL CURVA A LA DERECHA
+08+250
+IZQUIERDO
+1
+185
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+08+310
+DERECHO
+1
+186
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+08+330
+DERECHO
+1
+187
+P-10B
+SEÑAL EMPALME EN ANGULO AGUDO A LA IZQUIERDA
+08+380
+IZQUIERDO
+1
+188
+P-2A
+SEÑAL CURVA A LA DERECHA
+08+390
+IZQUIERDO
+1
+189
+P-2A
+SEÑAL CURVA A LA DERECHA
+08+440
+DERECHO
+1
+190
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+08+510
+IZQUIERDO
+1
+191
+P-2A
+SEÑAL CURVA A LA DERECHA
+08+510
+DERECHO
+1
+192
+P-2B
+SEÑAL DE CURVA A LA IZQUIERDA
+08+570
+IZQUIERDO
+1
+193
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+570
+DERECHO
+1
+194
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+640
+IZQUIERDO
+1
+195
+P-2A
+SEÑAL CURVA A LA DERECHA
+08+740
+DERECHO
+1
+196
+P-2B
+SEÑAL CURVA A LA IZQUIERDA
+08+810
+IZQUIERDO
+1
+197
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+950
+DERECHO
+1
+198
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+09+040
+IZQUIERDO
+1
+199
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+150
+DERECHO
+1
+200
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+210
+IZQUIERDO
+1
+201
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+210
+DERECHO
+1
+202
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+270
+IZQUIERDO
+1
+203
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+09+340
+DERECHO
+1
+204
+P-51
+SEÑAL MAQUINARIA AGRÍCOLA EN LA VÍA
+09+380
+IZQUIERDO
+1
+205
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+09+490
+DERECHO
+1
+206
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+09+560
+IZQUIERDO
+1
+207
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+09+580
+DERECHO
+1
+208
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+700
+DERECHO
+1
+209
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+750
+IZQUIERDO
+1
+210
+P-4A
+SEÑAL CURVA Y CONTRA-CURVA A LA DERECHA
+09+760
+IZQUIERDO
+1
+211
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+09+850
+DERECHO
+1
+212
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+870
+DERECHO
+1
+213
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+09+920
+IZQUIERDO
+1
+214
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+940
+IZQUIERDO
+1
+215
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+10+060
+DERECHO
+1
+216
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+10+130
+IZQUIERDO
+1
+217
+P-2A
+SEÑAL CURVA A LA DERECHA
+10+320
+DERECHO
+1
+218
+P-2B
+SEÑAL DE CURVA A LA IZQUIERDA
+10+390
+IZQUIERDO
+1
+219
+P-7
+SEÑAL INTERSECCION EN T
+10+390
+DERECHO
+1
+220
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+10+405
+DERECHO
+1
+221
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+10+405
+IZQUIERDO
+1
+TOTAL
+221
+POR SUPERFICIE DE RODADURA
+Previenen a los conductores de la proximidad de irregularidades sucesivas en la superficie de rodadura de la vía, las cuales pueden causar daños o desplazamientos que afecten el control de los vehículos. Deben removerse una vez concluya las condiciones que obligaron su instalación.
+A continuación, se indica la relación de las indicadas Señales, así como en la siguiente relación y figura. 
+(I-31) Señal estacionamiento para emergencia.
+Figura 4: superficie de rodadura
+I-31
+Tabla 4: Relación de Señales Preventivas por Superficie de Rodadura (60x60cm)
+N°
+TIPO
+DESCRIPCION
+PROGR.
+LADO 
+CANT.
+1
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+00+500
+DERECHO
+1
+2
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+00+570
+IZQUIERDO
+1
+3
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+00+110
+DERECHO
+1
+4
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+01+205
+IZQUIERDO
+1
+5
+I-31
+SEÑAL  ESTACIONAMIENTO PARA EMERGENCIA
+01+530
+DERECHO
+1
+6
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+01+600
+IZQUIERDO
+1
+7
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+01+920
+DERECHO
+1
+8
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+000
+IZQUIERDO
+1
+9
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+580
+DERECHO
+1
+10
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+640
+IZQUIERDO
+1
+11
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+02+920
+DERECHO
+1
+12
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+010
+IZQUIERDO
+1
+13
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+470
+DERECHO
+1
+14
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+540
+IZQUIERDO
+1
+15
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+880
+DERECHO
+1
+16
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+03+920
+IZQUIERDO
+1
+17
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+480
+DERECHO
+1
+18
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+550
+IZQUIERDO
+1
+19
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+830
+DERECHO
+1
+20
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+04+900
+IZQUIERDO
+1
+21
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+05+440
+DERECHO
+1
+22
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+05+500
+IZQUIERDO
+1
+23
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+05+970
+DERECHO
+1
+24
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+040
+IZQUIERDO
+1
+25
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+310
+DERECHO
+1
+26
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+380
+IZQUIERDO
+1
+27
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+890
+DERECHO
+1
+28
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+06+960
+IZQUIERDO
+1
+29
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+07+630
+DERECHO
+1
+30
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+07+720
+IZQUIERDO
+1
+31
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+07+970
+DERECHO
+1
+32
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+030
+IZQUIERDO
+1
+33
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+570
+DERECHO
+1
+34
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+640
+IZQUIERDO
+1
+35
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+08+950
+DERECHO
+1
+36
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+09+040
+IZQUIERDO
+1
+37
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+09+490
+DERECHO
+1
+38
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+09+560
+IZQUIERDO
+1
+39
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+10+060
+DERECHO
+1
+40
+I-31
+SEÑAL DE ESTACIONAMIENTO PARA EMERGENCIA
+10+130
+IZQUIERDO
+1
+POR INTERSECCIONES CON OTRAS VÍAS
+Se instalan para prevenir a los conductores sobre la presencia de una intersección a nivel y la posible presencia de vehículos ingresando o haciendo maniobras de giro.
+Cada Señal debe reflejar la geometría de cada intersección. Dependiendo de los flujos vehiculares, la distancia de visibilidad y otros factores, puede requerirse de Señales complementarias para cada intersección. En todo caso, cuando la visibilidad es limitada, la Señal se debe complementar con una placa que indique la distancia aproximada a la intersección.
+En los símbolos y siempre que sea relevante, el flujo de mayor importancia debe indicarse con un trazo de mayor ancho (relación 4:3) que el o los que representan a los flujos secundarios, el cual tendrá prelación sobre los secundarios, y cuando los flujos son iguales los trazos serán similares.
+(P-7) Señal intersección en T
+(P-9A) Señal de empalme en ángulo recto con vía lateral a la derecha.
+(P-9B) Señal de empalme en ángulo recto con vía lateral a la izquierda.
+Figura 6: superficie de rodadura
+P-7
+P-9A
+P-9B
+P-16A
+P-10B
+P-6
+P-10A
+Tabla 6: resumen de señales por superficie de rodadura
+N°
+TIPO
+DESCRIPCION
+PROGR.
+LADO 
+1
+P-9B
+SEÑAL DE EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+01+470
+DERECHO
+2
+P-9A
+SEÑAL  EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+01+530
+IZQUIERDO
+3
+P-10 A
+SEÑAL EMPALME EN ANGULO AGUDO A LA DERECHA
+02+000
+DERECHO
+4
+P-10 B
+SEÑAL EMPALME EN ANGULO AGUDO A LA IZQUIERDA
+02+060
+IZQUIERDO
+5
+P-10 B
+SEÑAL EMPALME EN ANGULO AGUDO A LA IZQUIERDA
+02+300
+DERECHO
+6
+P-10 A
+SEÑAL EMPALME EN ANGULO AGUDO A LA DERECHA
+02+360
+IZQUIERDO
+7
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+02+530
+DERECHO
+8
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+02+610
+IZQUIERDO
+9
+P-10B
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA IZQUIERDA
+02+705
+DERECHO
+10
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+02+760
+IZQUIERDO
+11
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+02+770
+DERECHO
+12
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+02+840
+IZQUIERDO
+13
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+03+080
+DERECHO
+14
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+03+150
+IZQUIERDO
+15
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+03+535
+DERECHO
+16
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+03+590
+IZQUIERDO
+17
+P-7
+SEÑAL INTERSECCION EN "T"
+03+770
+DERECHO
+18
+P-7
+SEÑAL INTERSECCION EN "T"
+03+810
+IZQUIERDO
+19
+P-9B
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA IZQUIERDA
+03+920
+DERECHO
+20
+P-9A
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA DERECHA
+03+960
+IZQUIERDO
+21
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+04+130
+DERECHO
+22
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+04+200
+IZQUIERDO
+23
+P-9B
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA IZQUIERDA
+04+550
+DERECHO
+24
+P-9A
+SEÑAL EMPALME EN ANGULO RECTO CON VIA LATERAL A LA DERECHA
+04+600
+IZQUIERDO
+25
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+05+260
+DERECHO
+26
+P-16B
+     SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+05+320
+IZQUIERDO
+27
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+05+483
+DERECHO
+28
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+05+540
+IZQUIERDO
+29
+P-16A
+SEÑAL INCORPORACION DE TRANSITO A LA DERECHA
+05+660
+DERECHO
+30
+P-16B
+SEÑAL INCORPORACION DE TRANSITO A LA IZQUIERDA
+05+720
+IZQUIERDO
+31
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+05+920
+DERECHO
+32
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+05+970
+IZQUIERDO
+33
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+06+120
+DERECHO
+34
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+06+190
+IZQUIERDO
+35
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+06+380
+DERECHO
+36
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+06+430
+IZQUIERDO
+37
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+07+490
+DERECHO
+38
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+07+550
+IZQUIERDO
+39
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+07+920
+DERECHO
+40
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+07+980
+IZQUIERDO
+41
+P-16A
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA DERECHA
+08+330
+DERECHO
+42
+P-10B
+SEÑAL EMPALME EN ANGULO AGUDO A LA IZQUIERDA
+08+380
+IZQUIERDO
+43
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+150
+DERECHO
+44
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+210
+IZQUIERDO
+45
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+210
+DERECHO
+46
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+270
+IZQUIERDO
+47
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+700
+DERECHO
+48
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+750
+IZQUIERDO
+49
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+09+850
+DERECHO
+50
+P-10A
+SEÑAL EMPALME EN ÁNGULO AGUDO A LA DERECHA
+09+870
+DERECHO
+51
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+09+920
+IZQUIERDO
+52
+P-16B
+SEÑAL INCORPORACIÓN DE TRÁNSITO A LA IZQUIERDA
+09+940
+IZQUIERDO
+53
+P-7
+SEÑAL INTERSECCION EN T
+10+390
+DERECHO
+54
+P-9B
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA IZQUIERDA
+10+405
+DERECHO
+55
+P-9A
+SEÑAL EMPALME EN ÁNGULO RECTO CON VÍA LATERAL A LA DERECHA
+10+405
+IZQUIERDO
+POR CARACTERÍSTICAS OPERATIVAS DE LA VÍA
+Previenen a los conductores de particularidades de la vía, sobre sus características operativas, las cuales pueden condicionar y afectar la normal circulación de los vehículos.
+A continuación, se indica la relación de las indicadas Señales, así como en la siguiente relación y figura. 
+(P-56) Señal Zona Urbana.
+Figura 7: características operativas de la vía
+P-56
+En el proyecto no se esta considerando estas señales ya que no hay una cercanía de una institución educativa, ni zona urbana.
+RESUMEN DE SEÑALES PREVENTIVAS QUE SERÁN UTILIZADOS EN EL PROYECTO
+Los Señales preventivas varía de acuerdo a la forma, por color, dimensiones de acuerdo a las velocidades, las Señalizaciones de carácter preventivo a utilizarse en el proyecto se encuentran indicados en los planos adjunto en los anexos y los detalles que serán usados de acuerdo la norma, lo cuales mencionan en las siguientes definiciones:
+Tabla 7: Resumen de Señales Preventivas que Serán Utilizados en el Proyecto
+TIPO
+TOTAL
+SEÑALES PREVENTIVAS
+221 Und.
+Señales informativas:
+Tiene como finalidad guiar al conductor de un vehículo a través de una ruta, dirigiéndolo al lugar de su destino. También tiene por objeto identificar puntos notables o de interés, tales como ciudades, ríos, lugares históricos, etc. Y dar información precisa y oportuna que ayude al usuario que utilice la vía.
+Las Señales de información a reponerse y las nuevas que se implementarán en el proyecto serán las de dirección, localización, indicadoras de ruta y de información general. Para dar a conocer los lugares o poblaciones más importantes en el trayecto de su destino. Así mismo se emplearán las Señales de indicación de distancias, las cuales se utilizarán con la finalidad de informar al conductor del vehículo. Sobre las distancias en las que se encuentran las poblaciones de importancia. Se utilizarán también postes de kilometraje.
+Las Señales informativas serán de forma rectangular con su mayor dimensión en posición horizontal y de dimensiones variables, según al mensaje a transmitir. Dichas Señales deberán ubicarse al lado derecho de la carretera, de manera que los conductores pueden distinguirlas de manera clara y oportuna.
+Las estructuras de soporte para esta serán metálicas, constituidas principalmente por tubos negros estándar de 3” de diámetro, los cuales serán recubiertos con pintura anticorrosiva y esmalte de color gris. Los carteles de las Señales serán fabricados por fibra de vidrio de 4mm. De espesor con resina poliéster y con una cara de textura similar al vidrio. La cara posterior de los paneles se pintará con dos manos de pintura esmalte color negro y el borde superior derecho de la misma se colocará una inscripción con las siglas “MTC” y la fecha de instalación (mes y año).  
+El mensaje a transmitir, así como los bordes, se confeccionarán con láminas reflectantes de color blanco, mientras que para el fondo de la Señal se utilizarán laminas reflectantes de color verde, marrón o azul; de acuerdo a lo indicado en los planos y las especificaciones técnicas del proyecto.
+La altura mínima adoptada para los carteles informáticos es de 0.50m a fin de uniformizar las Señales proyectadas y conseguir un adecuado equilibrio óptico en los mensajes a transmitir.
+Con relación a las Señales informativas de carácter ecológico, se mantienen los carteles que inciden en la conservación del medio ambiente e impacto ambiental con relación a la conservación de los recursos naturales, restos arqueológicos y culturales existentes dentro del entorno vial.
+(I-5), (I-5A) SEÑAL DEL DESTINO.
+Se utilizan ante las intersecciones o accesos, a fin de guiar al usuario en el itinerario a seguir para llegar a su destino. Sus dimensiones son variables según su contenido. Llevaran al lado del nombre del lugar, una flecha que indique la dirección a seguir para llegar al destino indicado. 
+(I-7) SEÑAL CON INDICACIÓN DE DISTANCIAS.
+Serán utilizadas para indicar al usuario las distancias a las que se encuentran poblaciones o lugares próximos de destino, a partir del punto donde se encuentra localizada la Señal.
+Figura 8: Señal con indicaciones de distancia
+(I-8) POSTES DE KILOMETRAJE.
+Se utilizarán para indicar las distancias al origen de la vía, dichos postes se colocarán a intervalo de 1kilometro, considerando su instalación su instalación en el lado derecho para los números pares y para los números impares al lado izquierdo de acuerdo a la característica de la vía como nacional, departamental y vecinal como se muestra.
+Como la ruta es una vía vecinal, se utiliza el tipo I - C
+Figura 1: Señal Reguladoras de Restricción
+Tabla 10: postes de kilometraje propuesto.
+N°
+TIPO
+DESCRIPCION
+CODIGO
+KM
+PROGRESIVA
+LADO 
+CANTIDAD
+1
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+LM-881
+00+000
+0+000
+Derecho
+1
+2
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+LM-879
+00+000
+0+760
+Derecho
+1
+3
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+01+000
+1+760
+Izquierdo
+1
+4
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+02+000
+2+760
+Derecho
+1
+5
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+03+000
+3+760
+Izquierdo
+1
+6
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+04+000
+4+760
+Derecho
+1
+7
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+05+000
+5+760
+Izquierdo
+1
+8
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+06+000
+6+760
+Derecho
+1
+9
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+07+000
+7+760
+Izquierdo
+1
+10
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+08+000
+8+760
+Derecho
+1
+11
+I-2A
+SEÑAL POSTES DE KILOMETRAJE
+09+000
+9+760
+Izquierdo
+1
+ (I-18) SEÑALES DE LOCALIZACIÓN.
+Tienen por función, indicar límites jurisdiccionales de zonas urbanas, identificar ríos, lagos, parques, puentes, túneles, lugares turísticos e históricos, y otros puntos de interés que sirven de orientación a los usuarios de la vía.
+La Señalización diseñada para indicar los centros turísticos será bilingües tomando como segunda leyenda del idioma inglés. De acuerdo a lo Señalado todas las Señales informativas proyectadas deben de estar acorde con lo estipulado.
+Figura 2: Señal Reguladoras de Restricción
+RELACIÓN DE SEÑALES INFORMATIVAS QUE SERÁN UTILIZADOS EN EL PROYECTO.
+La forma, colores, dimensiones y detalles de las Señales de carácter informativo a utilizarse en el proyecto, se encuentran indicadas en los planos que se adjuntan en el volumen correspondiente.
+Para los propósitos del proyecto se plantean la siguiente relación de la Señalización informativa.
+Tabla 11: Relación de Señales Informativas que Serán Utilizados en el Proyecto.
+5.01
+SEÑALES INFORMATIVAS
+Total =
+14
+Und.
+Total =
+35.41
+m2
+Ubicación de Señales Informativas
+Dimensiones de Placas Informativas
+Izquierda
+Derecha
+Nombre
+Tipo Señal
+Cantidad (Und)
+Longitud (m)
+Ancho (m)
+Area (m2)
+0+020.00
+--
+CERRO AZUL
+DE LUGAR
+1.00
+1.500
+0.550
+0.83
+--
+0+710
+↑ CASA BLANCA 1.90 KM
+DE DIRECCIÓN
+1.00
+2.250
+1.225
+2.76
+←  ROLDAN 9.70 KM
+MIRAFLORES 1.10 KM  →
+--
+0+760
+↑ ROLDAN 9.70 KM
+DE DIRECCIÓN
+1.00
+2.350
+1.225
+2.88
+← CERRO AZUL 0.80 KM
+CASA BLANCA 1.90 KM →
+--
+0+760
+↑  CERRO AZUL 0.80 KM
+DE DIRECCIÓN
+1.00
+2.350
+1.225
+2.88
+← MIRAFLORES 1.10 KM
+ROLDAN 9.70 KM → 
+0+820
+--
+  ↑ MIRAFLORES 1.10 KM
+DE DIRECCIÓN
+1.00
+2.350
+1.225
+2.88
+← CASA BLANCA 1.90 KM
+CERRO AZUL 0.80 KM →
+--
+4+900
+  ↑ ROLDAN 5.50 KM
+DE DIRECCIÓN
+1.00
+2.800
+1.000
+2.80
+  ← SAN JUAN DE IHUANCO
+5+060
+--
+   ↑   CERRO AZUL 5.10 KM
+DE DIRECCIÓN
+1.00
+2.800
+1.000
+2.80
+SAN JUAN DE IHUANCO  →
+05+010
+--
+   ← ROLDAN 5.50 KM
+DE DIRECCIÓN
+1.00
+2.700
+1.000
+2.70
+CERRO AZUL 5.10 KM →
+--
+10+380
+   ← ROLDAN
+DE DIRECCIÓN
+1.00
+2.500
+1.000
+2.50
+QUILMANA 6.80 KM →
+--
+10+405
+       ↑ ROLDAN
+DE DIRECCIÓN
+1.00
+3.250
+1.225
+3.98
+←  SAN JUAN DE IHUANCO 5.50 KM
+     ←   CERRO AZUL 10.40 KM
+10+405
+--
+       ↑ QUILMANA 6.80 KM
+DE DIRECCIÓN
+1.00
+3.050
+1.225
+3.74
+SAN JUAN DE IHUANCO 5.50 KM →
+CERRO AZUL 10.40 KM →
+00+180
+--
+MANTEN LIMPIA
+AMBIENTAL
+1.00
+0.850
+1.700
+1.45
+TU COMUNIDAD
+--
+05+180
+PROTEGE EL
+AMBIENTAL
+1.00
+0.850
+1.800
+1.53
+MEDIO AMBIENTE
+10+200
+NO CONTAMINE EL
+AMBIENTAL
+1.00
+0.850
+2.000
+1.70
+MEDIO AMBIENTE 
+TOTAL  
+14
+35.41
+Otros:
+TACHAS RETRORREFLECTIVAS.
+Son aquellas que cuentan con un material retrorreflector en una o dos de sus caras que enfrentan el sentido del tráfico, pero también pueden ser iluminadas internamente en forma continua. En el caso de advertir la presencia de un reductor de velocidad o cruce peatonal, estas tachas podrán ser destellantes o intermitentes.
+Las tachas retrorreflectivas se deben instalar al lado derecho a 0.05 m. de las demarcaciones planas continuas y en el caso de demarcaciones planas segmentadas se colocará al centro de la brecha o el tramo discontinuo. En caso de no existir berma pavimentada se instalará pegada al lado izquierdo de la línea de calzada.
+De acuerdo a las Especificaciones técnicas EG-2013 ITEM REQUERIMIENTOS DE CONSTRUCCIÓN:
+Antes de colocar las tachas, el Contratista deberá replantear las rectas y curvas del camino e instalará los elementos reflectantes de acuerdo a las siguientes pautas. 
+a. Sectores de rectas 
+Las tachas se ubicarán cada 24 metros entre sí, excepto en los 96 metros antes de los principios de curvas y después de los fines de curvas, coincidiendo con los sectores sin demarcar de las líneas segmentadas. 
+b. Sectores de curvas 
+La distancia entre tachas será de 12 metros, incluyendo el sector de 96 metros antes de los principios de curvas y el sector de 96 metros después de los fines de curvas. En caso que los sectores de 96 metros ubicados antes y después de los extremos de las curvas presenten línea segmentada, las tachas se ubicarán en la mitad de las zonas sin demarcar de estas líneas.
+De acuerdo a la clasificación de carretera tercera clase, no se cumple con las tangentes; por lo que a lo largo de la vía proyectada el espaciamiento entre tachas será de 12 m.
+Figura 11: Ejemplo de Tacha retrorreflectiva u “ojo de gato”
+Tabla 12: Resumen de tachas retroreflectivas proyectados
+Item
+Ubicación
+Caracteristicas de las Marcas
+Inicio
+Fin
+Longitud
+Distancia *
+Total parcial
+Redondeo
+N° Veces
+Total Final
+( Km )
+( Km )
+( m )
+( m )
+1
+00+000.00
+10+405.00
+10405.00
+12.00
+867.08
+868
+2
+1736
+METRADO TOTAL
+=
+1736
+Unidades
+Marcas en el pavimento o demarcaciones:
+Marcas planas en el pavimento:
+Se utilizarán marcas sobre el pavimento con la finalidad de reglamentar el movimiento vehicular e incrementar la seguridad de tránsito en el tramo de la carretera en estudio.
+Líneas de color blanco, indican separación del flujo vehicular en el mismo sentido de circulación.
+Líneas de color amarillo, indican separación de flujo vehicular en sentidos opuestos de circulación. 
+Figura 13: Señal Reguladoras de Restricción
+Las marcas sobre el pavimento se clasifican de forma siguiente:
+LÍNEAS DE BORDE:
+Se utilizan líneas continuas de color blanco para demarcar el borde del pavimento o calzada, a fin de facilitar la conducción del vehículo, especialmente durante la noche o condiciones climáticas severas. Así mismo se utilizarán líneas descontinuas de borde, cuando está permitido el cruce vehicular (Zonas de acceso, intersecciones, estacionamientos y otros).
+LÍNEAS CENTRALES:
+Para el proyecto no es necesaria las líneas centrales, ya que es de una sola vía.
+MARCAS EN ENSANCHAMIENTO DE PLATAFORMA
+Así mismo se está considerando marcas de pavimento en las plazoletas de cruce:
+ITMS
+CODIGO
+PROGRESIVA
+LADO
+INICIO
+FINAL
+1
+A1
+00+520
+00+550
+IZQUIERDO
+2
+A2
+01+135
+01+165
+DERECHO
+3
+A3
+01+550
+01+580
+IZQUIERDO
+4
+A4
+01+970
+02+000
+IZQUIERDO
+5
+A5
+02+610
+02+640
+DERECHO
+6
+A6
+02+970
+03+000
+IZQUIERDO
+7
+A7
+03+500
+03+530
+IZQUIERDO
+8
+A8
+03+895
+03+925
+DERECHO
+9
+A9
+04+520
+04+550
+IZQUIERDO
+10
+A10
+04+850
+04+880
+IZQUIERDO
+11
+A11
+05+470
+05+500
+DERECHO
+12
+A12
+06+000
+06+030
+IZQUIERDO
+13
+A13
+06+350
+06+380
+DERECHO
+14
+A14
+06+940
+06+970
+DERECHO
+15
+A15
+07+670
+07+700
+DERECHO
+16
+A16
+08+010
+08+040
+DERECHO
+17
+A17
+08+610
+08+640
+IZQUIERDO
+18
+A18
+09+000
+09+030
+DERECHO
+19
+A19
+09+540
+09+570
+DERECHO
+20
+A20
+10+100
+10130
+DERECHO
+Para este detalle se esta considerando de acuerdo al manual de dispositivos de control del tránsito automotor para calles y carreteras.
+Para el proyecto se esta considerando patrón de 4 m, con una relación de marca 2 m y brecha 2 m., donde se tiene 8 segmentos de 2 m de largo y espesor de 0.10 m
+Se indica que para el proyecto se está considerando un tipo de vehículo de diseño Semitrayler 3S2; por lo que el vehículo de diseño cuenta con un ancho de 2.60m; nuestra calzada del proyecto es de 5.00 m; lo que hace que nuestro proyecto es de una sola vía; por lo que las marcas en el pavimento solo serán en los laterales de la vía proyectada
+Se esta proyectando marcas de dirección en las zonas de intersecciones
+Tabla 14: Metrado de las marcas en el pavimento.
+INTERSECCION N°01 PROG. 00+760
+27.47
+0.10
+1.00
+           2.75 
+ LATERAL 
+18.64
+0.10
+1.00
+           1.86 
+32.89
+0.10
+1.00
+           3.29 
+AREA=
+7.50
+2.00
+         15.00 
+ PARE 
+AREA=
+5.00
+1.00
+           5.00 
+AREA=
+4.64
+1.00
+           4.64 
+AREA=
+2.08
+2.00
+           4.16 
+DIRECCION
+AREA=
+0.52
+2.00
+           1.04 
+DIRECCION
+INTERSECCION N°02 PROG. 01+500
+12.10
+0.10
+1.00
+           1.21 
+ LATERAL 
+11.91
+0.10
+1.00
+           1.19 
+10.77
+0.10
+1.00
+           0.54 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°03 PROG. 02+020
+11.28
+0.10
+1.00
+           1.13 
+ LATERAL 
+11.54
+0.10
+1.00
+           1.15 
+6.88
+0.10
+1.00
+           0.69 
+13.81
+0.10
+1.00
+           0.69 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+2.00
+           6.00 
+ PARE 
+AREA=
+0.52
+2.00
+           1.04 
+DIRECCION
+INTERSECCION N°04 PROG. 02+330
+11.68
+0.10
+1.00
+           1.17 
+ LATERAL 
+12.81
+0.10
+1.00
+           1.28 
+11.80
+0.10
+1.00
+           1.18 
+19.96
+0.10
+1.00
+           1.00 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+2.00
+           6.00 
+ PARE 
+AREA=
+0.52
+2.00
+           1.04 
+DIRECCION
+INTERSECCION N°05 PROG. 02+570
+11.37
+0.10
+1.00
+           1.14 
+ LATERAL 
+8.59
+0.10
+1.00
+           0.86 
+9.59
+0.10
+1.00
+           0.48 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°06 PROG. 02+720
+13.05
+0.10
+1.00
+           1.31 
+ LATERAL 
+8.64
+0.10
+1.00
+           0.86 
+12.07
+0.10
+1.00
+           0.60 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°07 PROG. 02+800
+6.02
+0.10
+1.00
+           0.60 
+ LATERAL 
+5.81
+0.10
+1.00
+           0.58 
+8.51
+0.10
+1.00
+           0.43 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°08 PROG. 03+120
+13.43
+0.10
+1.00
+           1.34 
+ LATERAL 
+11.46
+0.10
+1.00
+           1.15 
+19.21
+0.10
+1.00
+           0.96 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°09 PROG. 03+560
+9.99
+0.10
+1.00
+           1.00 
+ LATERAL 
+9.45
+0.10
+1.00
+           0.94 
+10.47
+0.10
+1.00
+           0.52 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°10 PROG. 03+787
+10.72
+0.10
+1.00
+           1.07 
+ LATERAL 
+12.10
+0.10
+1.00
+           1.21 
+15.54
+0.10
+1.00
+           0.78 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°11 PROG. 03+788
+8.19
+0.10
+1.00
+           0.82 
+ LATERAL 
+11.81
+0.10
+1.00
+           1.18 
+11.13
+0.10
+1.00
+           0.56 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°12 PROG. 03+950
+10.66
+0.10
+1.00
+           1.07 
+ LATERAL 
+7.68
+0.10
+1.00
+           0.77 
+16.60
+0.10
+1.00
+           0.83 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+2.50
+1.00
+           2.50 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°13 PROG. 04+160
+17.58
+0.10
+1.00
+           1.76 
+ LATERAL 
+16.99
+0.10
+1.00
+           1.70 
+16.22
+0.10
+1.00
+           0.81 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°14 PROG. 04+381
+7.56
+0.10
+1.00
+           0.76 
+ LATERAL 
+6.49
+0.10
+1.00
+           0.65 
+7.44
+0.10
+1.00
+           0.37 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°15 PROG. 04+382
+9.25
+0.10
+1.00
+           0.93 
+ LATERAL 
+8.90
+0.10
+1.00
+           0.89 
+8.49
+0.10
+1.00
+           0.42 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°16 PROG. 04+588
+7.17
+0.10
+1.00
+           0.72 
+ LATERAL 
+8.39
+0.10
+1.00
+           0.84 
+6.95
+0.10
+1.00
+           0.35 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°17 PROG. 04+591
+13.28
+0.10
+1.00
+           1.33 
+ LATERAL 
+9.03
+0.10
+1.00
+           0.90 
+11.36
+0.10
+1.00
+           0.57 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°18 PROG. 05+007
+16.88
+0.10
+1.00
+           1.69 
+ LATERAL 
+16.96
+0.10
+1.00
+           1.70 
+17.72
+0.10
+1.00
+           0.89 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°19 PROG. 05+011
+9.05
+0.10
+1.00
+           0.90 
+ LATERAL 
+9.54
+0.10
+1.00
+           0.95 
+7.20
+0.10
+1.00
+           0.36 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°20 PROG. 05+280
+13.14
+0.10
+1.00
+           1.31 
+ LATERAL 
+8.67
+0.10
+1.00
+           0.87 
+9.68
+0.10
+1.00
+           0.48 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°21 PROG. 05+500
+12.63
+0.10
+1.00
+           1.26 
+ LATERAL 
+10.57
+0.10
+1.00
+           1.06 
+8.58
+0.10
+1.00
+           0.43 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°22 PROG. 05+705
+11.99
+0.10
+1.00
+           1.20 
+ LATERAL 
+11.49
+0.10
+1.00
+           1.15 
+10.60
+0.10
+1.00
+           0.53 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°23 PROG. 05+940
+7.99
+0.10
+1.00
+           0.80 
+ LATERAL 
+12.22
+0.10
+1.00
+           1.22 
+10.61
+0.10
+1.00
+           0.53 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°24 PROG. 06+160
+7.94
+0.10
+1.00
+           0.79 
+ LATERAL 
+8.32
+0.10
+1.00
+           0.83 
+7.52
+0.10
+1.00
+           0.38 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°25 PROG. 06+380
+10.94
+0.10
+1.00
+           1.09 
+ LATERAL 
+10.04
+0.10
+1.00
+           1.00 
+9.15
+0.10
+1.00
+           0.46 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°26 PROG. 07+540
+11.50
+0.10
+1.00
+           1.15 
+ LATERAL 
+8.65
+0.10
+1.00
+           0.86 
+9.25
+0.10
+1.00
+           0.46 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°27 PROG. 07+940
+15.86
+0.10
+1.00
+           1.59 
+ LATERAL 
+11.28
+0.10
+1.00
+           1.13 
+14.77
+0.10
+1.00
+           0.74 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°28 PROG. 08+355
+12.04
+0.10
+1.00
+           1.20 
+ LATERAL 
+13.09
+0.10
+1.00
+           1.31 
+10.06
+0.10
+1.00
+           0.50 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°29 PROG. 09+180
+13.88
+0.10
+1.00
+           1.39 
+ LATERAL 
+9.43
+0.10
+1.00
+           0.94 
+10.49
+0.10
+1.00
+           0.52 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°30 PROG. 09+235
+8.91
+0.10
+1.00
+           0.89 
+ LATERAL 
+14.80
+0.10
+1.00
+           1.48 
+12.40
+0.10
+1.00
+           0.62 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°31 PROG. 09+720
+14.32
+0.10
+1.00
+           1.43 
+ LATERAL 
+9.71
+0.10
+1.00
+           0.97 
+14.05
+0.10
+1.00
+           0.70 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+5.02
+1.00
+           5.02 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°32 PROG. 09+890
+9.25
+0.10
+1.00
+           0.92 
+ LATERAL 
+9.70
+0.10
+1.00
+           0.97 
+8.39
+0.10
+1.00
+           0.42 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+3.00
+1.00
+           3.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°33 PROG. 09+900
+19.26
+0.10
+1.00
+           1.93 
+ LATERAL 
+14.33
+0.10
+1.00
+           1.43 
+15.88
+0.10
+1.00
+           0.79 
+ DISCONTINUA (esp. de 10 cm) 
+AREA=
+6.00
+1.00
+           6.00 
+ PARE 
+AREA=
+0.52
+1.00
+           0.52 
+DIRECCION
+INTERSECCION N°34 PROG. 10+405
+9.15
+0.10
+1.00
+           0.91 
+ LATERAL 
+12.39
+0.10
+1.00
+           1.24 
+17.92
+0.10
+1.00
+           0.90 
+AREA=
+7.50
+1.00
+           7.50 
+ PARE 
+AREA=
+2.08
+1.00
+           2.08 
+DIRECCION
+AREA=
+0.45
+2.00
+           0.89 
+ENSANCHAMIENTO DE PLATAFORMA
+ CENTRAL (DISCONTINUA) 
+0+520
+0+550
+2.00
+0.10
+8.00
+           1.60 
+1+135
+1+165
+2.00
+0.10
+8.00
+           1.60 
+1+550
+1+580
+2.00
+0.10
+8.00
+           1.60 
+1+970
+2+000
+2.00
+0.10
+8.00
+           1.60 
+2+610
+2+640
+2.00
+0.10
+8.00
+           1.60 
+2+970
+3+000
+2.00
+0.10
+8.00
+           1.60 
+3+500
+3+530
+2.00
+0.10
+8.00
+           1.60 
+3+895
+3+925
+2.00
+0.10
+8.00
+           1.60 
+4+520
+4+550
+2.00
+0.10
+8.00
+           1.60 
+4+850
+4+880
+2.00
+0.10
+8.00
+           1.60 
+5+470
+5+500
+2.00
+0.10
+8.00
+           1.60 
+6+000
+6+030
+2.00
+0.10
+8.00
+           1.60 
+6+350
+6+380
+2.00
+0.10
+8.00
+           1.60 
+6+940
+6+970
+2.00
+0.10
+8.00
+           1.60 
+7+670
+7+700
+2.00
+0.10
+8.00
+           1.60 
+8+010
+8+040
+2.00
+0.10
+8.00
+           1.60 
+8+610
+8+640
+2.00
+0.10
+8.00
+           1.60 
+9+000
+9+030
+2.00
+0.10
+8.00
+           1.60 
+9+540
+9+570
+2.00
+0.10
+8.00
+           1.60 
+10+100
+10+130
+2.00
+0.10
+8.00
+           1.60 
+20 LATERALES
+37.22
+0.10
+20.00
+         74.44 
+ LATERAL CONTINUA 
+LATERAL (CONTINUA)
+    2,081.00 
+ENSANCHAMIENTO LATERAL (CONTINUA)
+         74.44 
+ENSANCHAMIENTO (DISCONTINUA)
+         32.00 
+INTERSECCION CONTINUA
+         83.74 
+INTERSECCION DISCONTINUA
+         18.72 
+PARE
+       138.66 
+DIRECCION
+         25.85 
+ITEM
+DESCRIPCION
+DIMENCIONES
+PINTURA PARAPETO
+TOTAL (M2)
+LATERAL
+FRONTAL
+LARGO
+ANCHO
+ALTO
+PINTURA AMARILLO (M2)
+PINTURA NEGRO (M2)
+VECES
+SUB TOTAL (M2)
+PINTURA BLANCO (M2)
+PINTURA AMARILLO (M2)
+PINTURA NEGRO (M2)
+VECES
+SUB TOTAL (M2)
+0+135
+Alcantarilla
+8.10
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+0+410
+Alcantarilla
+8.70
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+0+764
+Alcantarilla
+20.00
+1.00
+1.00
+0.050
+0.050
+2.000
+0.200
+0.444
+0.102
+0.204
+1.000
+0.750
+0.950
+1+022
+Alcantarilla
+9.40
+1.00
+1.00
+0.050
+0.050
+2.000
+0.200
+0.444
+0.102
+0.204
+1.000
+0.750
+0.950
+2+032
+Alcantarilla
+9.50
+4.00
+2.00
+0.041
+0.034
+2.000
+0.150
+0.966
+0.315
+0.160
+1.000
+1.441
+1.591
+2+121
+Alcantarilla
+8.20
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+2+206
+Alcantarilla
+9.10
+4.00
+2.00
+0.041
+0.034
+2.000
+0.150
+0.966
+0.315
+0.160
+1.000
+1.441
+1.591
+2+323
+Alcantarilla
+17.00
+0.80
+0.80
+0.033
+0.042
+2.000
+0.150
+0.356
+0.041
+0.082
+1.000
+0.479
+0.629
+2+617
+Alcantarilla
+11.20
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+2+882
+Alcantarilla
+9.00
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+021
+Alcantarilla
+8.20
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+086
+Alcantarilla
+8.50
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+142
+Alcantarilla
+8.10
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+240
+Alcantarilla
+8.60
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+554
+Alcantarilla
+8.40
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+681
+Alcantarilla
+10.20
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+787
+Alcantarilla
+11.90
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+3+894
+Alcantarilla
+12.70
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+4+015
+Alcantarilla
+10.15
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+4+052
+Alcantarilla
+9.50
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+4+275
+Alcantarilla
+9.40
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+4+379
+Alcantarilla
+8.50
+0.80
+0.80
+0.033
+0.042
+2.000
+0.150
+0.356
+0.041
+0.082
+1.000
+0.479
+0.629
+4+494
+Alcantarilla
+10.80
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+4+592
+Alcantarilla
+8.80
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+4+691
+Alcantarilla
+9.20
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+4+903
+Alcantarilla
+8.00
+0.80
+0.80
+0.033
+0.042
+2.000
+0.150
+0.356
+0.041
+0.082
+1.000
+0.479
+0.629
+4+996
+Alcantarilla
+7.80
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+013
+Alcantarilla
+8.60
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+131
+Alcantarilla
+8.80
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+287
+Alcantarilla
+8.60
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+392
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+489
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+599
+Alcantarilla
+8.40
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+5+704
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+824
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+5+941
+Alcantarilla
+9.80
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+6+082
+Alcantarilla
+8.60
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+6+154
+Alcantarilla
+8.00
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+6+261
+Alcantarilla
+8.40
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+6+386
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+6+491
+Alcantarilla
+8.80
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+6+671
+Alcantarilla
+15.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+6+800
+Alcantarilla
+8.00
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+7+243
+Alcantarilla
+8.80
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+7+499
+Alcantarilla
+14.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+7+705
+Alcantarilla
+8.80
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+7+939
+Alcantarilla
+8.80
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+8+174
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+8+340
+Alcantarilla
+13.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+8+360
+Alcantarilla
+15.70
+1.00
+1.00
+0.050
+0.050
+2.000
+0.200
+0.444
+0.102
+0.204
+1.000
+0.750
+0.950
+8+431
+Alcantarilla
+14.40
+0.80
+0.80
+0.033
+0.042
+2.000
+0.150
+0.356
+0.041
+0.082
+1.000
+0.479
+0.629
+8+454
+Alcantarilla
+14.00
+0.80
+0.80
+0.033
+0.042
+2.000
+0.150
+0.356
+0.041
+0.082
+1.000
+0.479
+0.629
+8+823
+Alcantarilla
+8.00
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+8+857
+Alcantarilla
+9.50
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+9+394
+Alcantarilla
+9.80
+0.60
+0.60
+0.033
+0.042
+2.000
+0.150
+0.276
+0.041
+0.082
+1.000
+0.399
+0.549
+9+659
+Alcantarilla
+8.00
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+9+719
+Alcantarilla
+10.60
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+9+901
+Alcantarilla
+11.00
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+10+360
+Alcantarilla
+17.00
+1.00
+1.00
+0.050
+0.050
+2.000
+0.200
+0.444
+0.102
+0.204
+1.000
+0.750
+0.950
+10+400
+Alcantarilla
+8.00
+0.40
+0.40
+0.033
+0.042
+2.000
+0.150
+0.196
+0.041
+0.082
+1.000
+0.319
+0.469
+2.064
+2.536
+17.172
+3.252
+5.564
+TOTAL
+35.188
+ALCANTARILLA 0.40X0.40M
+ALCANTARILLA 0.60X0.60M
+ALCANTARILLA 0.80X0.80M
+ALCANTARILLA 1.00X1.00M
+ALCANTARILLA 4.00X2.00M
+Marcas elevadas en el pavimento:
+REDUCTORES DE VELOCIDAD TIPO RESALTO.
+DE ACUERDO A LA DIRECTIVA N°-01-2011-MTC/14, APROBADO POR RESOLCION DIRECTORAL N°23-2011-MTC/14
+Dispositivo estructural fijo, que opera como reductor de velocidad en los sectores de las carreteras que atraviesan las zonas urbanas, y que consiste en la elevación transversal de la calzada en una sección determinada de la vía.
+Su función es reducir la velocidad de operación de los vehículos motorizados al ingresar a una zona de conflicto, asegurando que conducen con una velocidad controlada, lo cual permite un tránsito vehicular más seguro, disminuyendo los riesgos de la accidentalidad y creando una armonía ente los usuarios de la vía y el entorno de la zona de influencia.
+Para realizar el diseño es necesario:
+Visita al terreno, realizada por el personal técnico calificado, quienes los evaluaran los impactos del dispositivo, así como la asignación de los flujos por vías alternativas a la ubicación del resalto.
+Conocer la velocidad de operación de los vehículos y la Señalización existente.
+Planos de planta y sección de la vía.
+Tipo de tráfico e índice medio diario anual. (IMDA).
+Datos históricos, sobre accidentes e incidentes en la zona, denuncias de vecinos o usuarios de la vía y encuestas.
+Se proyectado resalto circular:
+Circular: este tipo de resalto 
+Dimensiones de los resaltos
+Especificaciones de construcción
+MATERIALES 
+El resalto puede ser de concreto asfáltico (en frío o en caliente), concreto Pórtland, de caucho u otro material. 
+Las características de los materiales, en lo que corresponda, deberán estar acorde al Manual de Especificaciones Técnicas Generales para la Construcción de Carreteras. 
+La demarcación del resalto, en el caso de utilizar pintura, será conforme a lo especificado en el Manual de Dispositivos de Control de Tránsito Automotor para Calles y Carreteras. También se podrá utilizar otro tipo de material de especificación especial que cumpla con resaltar la presencia de este elemento. 
+La calidad de los materiales empleados en la construcción deberá garantizar la estabilidad del resalto, su unión a la calzada y durabilidad.
+CONSTRUCCIÓN 
+En la construcción del resalto de concreto asfáltico se aplicará una impregnación bituminosa o riego de liga para la adherencia en el pavimento existente. La obtención de la forma requerida del resalto será mediante plantillas de madera o metal, una vez obtenida la forma apropiada, debidamente compactada, se agregará gravilla para incrementar la rugosidad. (Ver Figura Nº 01 y Nº 02).
+En el caso de los resaltos de Concreto Portland se debe realizar el corte y retiro del pavimento existente y luego excavar de acuerdo al diseño (Ver Figura Nº 01, 02 y 03). Para los resaltos de caucho u otro material, estos podrán ser prefabricados y serán instalados de acuerdo con las especificaciones técnicas del fabricante. 
+Para evitar la acumulación de agua en los extremos de los resaltos se debe contar con un sistema de drenaje adecuado. Entre las posibles soluciones a considerar, se recomienda construir una canaleta o sumideros a los bordes del resalto. 
+Con el objetivo de evitar riesgos de accidentes, tanto la construcción, y señalización del resalto son actividades que deben realizarse en forma simultánea. En ningún caso podrán estar desfasadas en el tiempo unas respecto de las otras.
+Si se requiere la instalación de resaltos consecutivos, los espaciamientos recomendados entre resaltos en zonas urbanas son los siguientes:
+ILUMINACIÓN 
+Todos los reductores de velocidad tipo resalto deberán contar con iluminación nocturna a efectos de garantizar su visibilidad, localización y presencia de peatones en su caso, por parte de los conductores. Por lo tanto, debe ubicarse cercano a un poste de iluminación, en caso no existiera, se debe considerar su instalación. 
+En caso que exista iluminación en la vía, el dispositivo debe contar con un sistema de iluminación diferenciada, a efecto de garantizar a los conductores la visibilidad oportuna del dispositivo.
+SEÑALIZACION
+Para permitir una apropiada percepción del resalto durante el día, la noche y ante cualquier circunstancia, tanto en la travesía como en el entorno del resalto, se debe de utilizar elementos de señalización que a continuación se detalla:
+SEÑALIZACION VERTICAL 
+El diseñador deberá implementar la instalación de señales verticales: reglamentarias, preventivas e informativas en la zona de aproximación al resalto, de acuerdo al Manual de Dispositivos de Control de Tránsito Automotor para Calles y Carreteras. 
+Se recomienda que la señal preventiva P-33 sea reforzada con una señal informativa que indique la distancia al resalto o señales preventivas como P- 48, P- 49, P- 56. 
+De igual manera, el diseñador deberá tener en cuenta la velocidad de operación de la vía y la señalización existente en la zona de aproximación con la finalidad de que el vehículo llegue con la velocidad esperada utilizando para ello la señal reglamentaria R-30. 
+La señalización de ubicación del resalto en carreteras no pavimentadas debe ser diferenciada conforme se muestra en la Figura Nº 05 y de conformidad a lo especificado en el Manual de Dispositivos de Control de Tránsito para Calles y Carreteras. También se podrá utilizar otro tipo de material de especificación especial que cumpla con resaltar la presencia de este elemento
+SEÑALIZACION HORIZONTAL 
+a. Resalto de sección circular y virtual 
+Será pintado con franjas diagonales alternadas, de color negro y amarillo, de treinta (30) o cincuenta (50) centímetros de ancho, y con una inclinación máxima de cuarenta y cinco grados (45°) hacia ambos lados respecto al eje de simetría del carril, abarcando todo el ancho del reductor, para que sea visible en cualquier sentido del tránsito vehicular. La máxima separación entre las líneas diagonales será de 1.80 m ó 2.90 m según la sección del carril. Las dimensiones antes citadas, se aplicarán en función a dar la máxima visibilidad a toda la longitud del resalto y que la señal sea de fácil interpretación. 
+Como parte de la señalización, cuando se justifique, se puede incorporar tachas retrorreflectivas dentro el cuerpo del resalto y a lo largo de la zona de contacto con la superficie de rodadura, que indique al usuario la presencia de estos elementos en las noches.
+MANTENIMIENTO DE LOS DISPOSITIVOS
+Los resaltos y demás dispositivos de la zona de aproximación (sistema de reducción de velocidad) deberán ser sometidos a labores de conservación, con la finalidad que cumplan con su función prevista y que deben estar a cargo de la Autoridad competente. 
+EVALUACIÓN DE LA IMPLEMENTACIÓN DEL DISPOSITIVO
+Corresponde a la Autoridad competente realizar una gestión de valoración del impacto y análisis del dispositivo implementado mediante un monitoreo, para ello tendrá en cuenta la información estadística de accidentes un año antes y después de la implementación del sistema de reducción de velocidad, las sugerencias de los propios usuarios mediante encuestas, observaciones y recomendaciones del personal profesional a su cargo, entre otros. De esta manera se evaluará la eficacia de este dispositivo antes y después de su instalación.
+Todos los reductores de velocidad tipo resalto instalados en el Sistema Nacional de Carreteras-SINAC deben ser inspeccionados y homologados en un plazo máximo de un (01) año. En caso de no cumplir con los requisitos aquí planteados deben ser eliminados.
+ANEXO
+* Para el proyecto se está considerando resalto de concreto portland
+Donde se adjunta plano PS-17, las cuales están todos los detalles y cortes
+Tabla 15: Resumen de los reductores de velocidad.
+RUTA
+VELOCIDAD ( Km )
+CARACT. DEL REDUCTOR
+LONGITUD DE RESALTO
+AREA                 ( m² )
+Volumen De Concreto       fc=280 kg/cm²               ( m³ )
+Pintura Amarilla                         ( m² )
+Pintura      Negra                        ( m² )
+PROGRESIVA
+LONG.          ( m )
+ANCHO          ( m )
+CANTIDA       ( Und. )                      
+(m)
+LM-879
+40.00
+4.00
+5.00
+1
+5
+        20.00 
+             3.83 
+        4.08 
+15.92
+04+960.00
+LM-879
+40.00
+4.00
+5.00
+1
+5
+        20.00 
+             3.83 
+        4.08 
+15.92
+05+050.00
+TOTAL
+2.00
+10.00
+40.00
+7.67
+8.16
+31.84
+Elementos de seguridad vial:
+RECOLECCION
+Barreras de seguridad:
+Se definen como barreas de seguridad a aquellos sistemas de contención de vehículos ubicados e instalados en los márgenes o en los separadores centrales de la carretera y en los bordes de los puentes (pretiles). Las barreras pueden ser flexibles, semirrígidas o regidas.
+Serán utilizadas en aquellos sectores que se constituyen en un peligro al tránsito vehicular, principalmente se ha considerado su colocación en zonas de curva en media ladera con radios restringidos y desniveles que sobrepasan los 4m de altura.
+Tabla 16: Resumen de las barreras de seguridad.
+METRADOS DE SEÑALIZACION BARRERA DE SEGURIDAD
+ITEM
+PROGRESIVA
+DISTANCIA PROG.
+LONG (m)
+LADO
+INICIO
+FINAL
+1
+01+266
+al
+01+314
+48.00
+54.00
+DERECHO
+2
+01+435
+al
+01+478
+43.00
+45.00
+IZQUIERDO
+3
+01+643
+al
+01+700
+57.00
+58.50
+IZQUIERDO
+4
+01+730
+al
+01+795
+65.00
+67.50
+DERECHO
+5
+01+850
+al
+01+915
+65.00
+67.50
+IZQUIERDO
+6
+02+377
+al
+02+427
+50.00
+54.00
+IZQUIERDO
+7
+02+706
+al
+02+761
+55.00
+58.50
+DERECHO
+8
+03+003
+al
+03+055
+52.00
+54.00
+DERECHO
+9
+03+165
+al
+03+230
+65.00
+72.00
+DERECHO
+10
+03+410
+al
+03+440
+30.00
+31.50
+IZQUIERDO
+11
+03+563
+al
+03+635
+72.00
+76.50
+IZQUIERDO
+12
+03+654
+al
+03+701
+47.00
+49.50
+DERECHO
+13
+03+835
+al
+03+880
+45.00
+45.00
+DERECHO
+14
+04+026
+al
+04+075
+49.00
+54.00
+DERECHO
+15
+04+216
+al
+04+256
+40.00
+45.00
+IZQUIERDO
+16
+04+253
+al
+04+297
+44.00
+49.50
+DERECHO
+17
+04+662
+al
+04+720
+58.00
+63.00
+DERECHO
+18
+04+781
+al
+04+837
+56.00
+58.50
+IZQUIERDO
+19
+05+105
+al
+05+159
+54.00
+58.50
+IZQUIERDO
+20
+05+418
+al
+05+445
+27.00
+27.00
+IZQUIERDO
+21
+05+589
+al
+05+632
+43.00
+45.00
+DERECHO
+22
+05+662
+al
+05+695
+33.00
+36.00
+DERECHO
+23
+05+772
+al
+05+822
+50.00
+54.00
+IZQUIERDO
+24
+05+860
+al
+05+907
+47.00
+49.50
+DERECHO
+25
+06+052
+al
+06+108
+56.00
+58.50
+IZQUIERDO
+26
+06+501
+al
+06+554
+53.00
+58.50
+DERECHO
+27
+06+637
+al
+06+667
+30.00
+31.50
+DERECHO
+28
+06+788
+al
+06+830
+42.00
+45.00
+DERECHO
+29
+06+855
+al
+06+893
+38.00
+40.50
+IZQUIERDO
+30
+07+297
+al
+07+336
+39.00
+40.50
+DERECHO
+31
+07+428
+al
+07+467
+39.00
+45.00
+DERECHO
+32
+07+489
+al
+07+537
+48.00
+54.00
+IZQUIERDO
+33
+07+574
+al
+07+591
+17.00
+18.00
+DERECHO
+34
+07+800
+al
+07+832
+32.00
+27.00
+IZQUIERDO
+35
+07+848
+al
+07+910
+62.00
+67.50
+IZQUIERDO
+36
+07+950
+al
+07+975
+25.00
+27.00
+DERECHO
+37
+08+180
+al
+08+240
+60.00
+63.00
+DERECHO
+38
+08+450
+al
+08+497
+47.00
+49.50
+IZQUIERDO
+39
+08+516
+al
+08+538
+22.00
+22.50
+IZQUIERDO
+40
+08+770
+al
+08+797
+27.00
+27.00
+IZQUIERDO
+41
+09+596
+al
+09+646
+50.00
+54.00
+IZQUIERDO
+42
+10+338
+al
+10+383
+45.00
+49.50
+IZQUIERDO
+Para el proyecto se está considerando un ancho de trabajo de 0.50 m; así mismo de acuerdo al diseño presentado el ancho de la barrera de seguridad es de 0.38.
+Para el proyecto se ha considerado y diseñado barrera de seguridad CLASSEH2 BORDO LATERALE – BARRIERA 3 ONDE SINGOLA SU RILEVATO W8, de una longitud de 4.05 m; dicha empresa a cotizar MARCEGAGLIA BUILDTECH.
+Se está considerando CLASE H2 BORDO LATERALE – BARRIERA 3 ONDE SINGOLA SU RILEVATO W8
+Guardavías:
+En el proyecto no se está considerando guardavías.
+Postes delineadores:
+Son aquellas que cuentan con un material retrorreflectivo en una o dos de sus caras que enfrentan Conocidos también como hitos de arista, se colocan en forma longitudinal al borde de la vía, deben contar con materiales retrorreflectivos, Estos postes son de dimensiones reducidas, colocados a los costados del camino y en zonas donde la irregularidad del camino aumenta el riesgo del conductor ante un peligro natural. Los postes son de color blanco con una franja de pintura reflectante en la parte superior que durante la noche refleja la luz proyectada por los vehículos. Los lugares más característicos de su ubicación son en la parte exterior de curvas pronunciadas que lindan con un precipicio, estrechamiento de calzadas en lugares donde existen grandes peligros para los vehículos que en caso de accidente salgan fuera de la calzada, tales como ríos, desniveles u otros peligros naturales. Para este proyecto, los postes delineadores serán de sección triangular y construidos en material de concreto.
+Figura 12: Datos técnicos de los postes delineadores
+Para el proyecto se está usando el delineador tipo A
+Figura 13: Datos técnicos de los postes delineadores
+Para nuestro proyecto, se consideró la proyección de estos dispositivos en los sectores más relevantes como a continuación se detalla en el cuadro resumen.
+Para el espaciamiento se tomó en consideración la tabla 3.6 espaciamiento de postes delineadores
+Figura 14: Datos técnicos de los postes delineadores
+Tabla 13: Resumen de postes delineadores
+METRADOS DE SEÑALIZACIONPOSTES DELINEADORES
+ITEM
+PROGRESIVA
+RADIO(m)
+ESPACIAMIENTO DE DELINEADOR (m)
+CANTIDAD(m)
+LADO
+INICIO
+FINAL
+1
+01+160
+al
+01+900
+75
+8.0
+7.00
+I
+2
+01+330
+al
+01+370
+100
+10.0
+5.00
+I
+3
+02+460
+al
+02+535
+340
+18.5
+5.00
+D
+4
+02+645
+al
+02+705
+400
+21.5
+4.00
+I
+5
+02+800
+al
+02+872
+280
+18.5
+5.00
+I
+6
+02+910
+al
+02+960
+135
+12.5
+5.00
+D
+7
+03+070
+al
+03+140
+75
+8.0
+10.00
+I
+8
+03+990
+al
+04+025
+30
+4.0
+9.00
+I
+9
+04+090
+al
+04+132
+35
+5.0
+10.00
+I
+10
+04+545
+al
+04+583
+60
+7.0
+7.00
+I
+11
+05+210
+al
+05+250
+90
+10.0
+5.00
+I
+12
+05+398
+al
+05+418
+90
+10.0
+3.00
+I
+13
+06+265
+al
+06+300
+155
+12.5
+4.00
+I
+14
+06+570
+al
+06+678
+120
+10.0
+11.00
+I
+15
+07+040
+al
+07+715
+160
+12.5
+7.00
+I
+16
+07+591
+al
+07+625
+30
+4.0
+10.00
+D
+17
+07+681
+al
+07+730
+150
+12.5
+5.00
+D
+18
+07+793
+al
+07+816
+40
+5.0
+4.00
+I
+19
+09+690
+al
+09+750
+30
+5.0
+12.00
+I
+Dispositivos de control de tránsito en zonas de trabajo:
+Dispositivos particulares para el control en zonas de trabajo:
+SEÑALIZACIÓN Y ADECUACIONES TEMPORALES
+Dentro de los requerimientos contractuales en el anexo técnico, se resalta que se debe cumplir con las especificaciones establecidas del manual de dispositivos de control de tránsito automotor para calles y carreteras 2016 RD N° 016-2016-MTC/14. En el cual determina que los elementos de Señalización a utilizar por obras, tales como Señales preventivas, Señales reglamentarias, Señales informativas, barreras, conos, canecas, cinta refractiva y demás elementos de Señalización deberán cumplir con las especificaciones establecidas en dicho manual.
+Señalización de Primer Nivel: Esta Señalización tiene por objeto informar a los conductores acerca de los sectores intervenidos previniéndolos sobre las restricciones que se presentan sobre el corredor intervenido, con el fin de que los usuarios se programen en sus recorridos habituales.
+Esta Señalización, consiste en pasacalles en tela color naranja y caracteres negros. Aun cuando no está contemplado dentro el Manual de Señalización, se utiliza por ser muy visible y de fácil ubicación.
+Señalización de Segundo Nivel: Corresponde a Señalización preventiva, informativa y reglamentaria que se ubica en la zona de influencia para guiar a los usuarios de las vías en los desvíos para el correcto funcionamiento del Plan de Señalización de y procedimientos de control de tránsito. La Señalización se hará de acuerdo con el “Manual de Señalización vial. El diseño y la ubicación de la Señalización de segundo nivel para el plan de desvíos general deberán ser presentados por el contratista previo al inicio de actividades por cada sector y deberá ser verificado por la interventoría previo al inicio de los trabajos.
+Señalización de Tercer Nivel: La Señalización de tercer nivel corresponde a toda la Señalización preventiva, informativa, reglamentaria y Señalización luminosa, además de los dispositivos de seguridad vial, que se ubican en el sector de la obra con el objeto de informar, prevenir y reglamentar las actuaciones de conductores y peatones para hacer seguro su tránsito por la zona de obra.
+De igual forma, la Señalización luminosa deberá instalarse en sitios en donde el flujo vehicular se encuentre con obstáculos de manera frontal y en todo lugar donde las condiciones de intervención generen una situación de accidentalidad potencialmente alta.
+Se incluye en este nivel toda la Señalización a implementar para el manejo de vehículos, a lo largo y a través de cada tramo intervenido, así como la Señalización de aproximación al sector de obra. El diseño de esta Señalización se realizará acorde con cada una de las fases de intervención.
+Las Señalizaciones y adecuaciones temporales se pueden clasificar en Señales reglamentarias, informativas y Señales de advertencia de Peligro, durante la ejecución de la obra. A los cuales se determina a continuación en el siguiente cuadro.
+Cuadro 17: Señalización y adecuaciones temporales.
+Señales Reglamentarias:
+Tienen como propósito indicar a los usuarios las prioridades de uso de las vías, prohibiciones, restricciones, obligaciones y autorizaciones.
+Señales de Advertencia de Peligro:
+Se utilizan para prevenir a los usuarios sobre la existencia de riesgos o situaciones especiales en la vía o en las zonas aledañas  de la obra
+Señales Informativas:
+Tienen como propósito guiar a los usuarios e indicar claramente destinos, distancias, kilometrajes, nombres de calles y cualquier otra información de ayuda para que puedan dar término a su viaje de manera segura, simple y directa.
+También el contratista deberá utilizar elementos que permitan delimitar claramente el área de trabajo, delimitar las áreas de circulación vehicular, prevenir el ingreso o circulación de vehículos y personas ajenas a la obra, proteger a los trabajadores de posibles accidentes con vehículos.
+Adicionalmente, deberá hacer uso de elementos de Señalización nocturna en las condiciones más desfavorables de visibilidad. Para estos casos los elementos de Señalización deberán cumplir con las Especificaciones Generales de Vías vigentes, y con el Manual de Señalización Vial, en cuanto a:
+Reflectividad de todas las Señales de tránsito.
+Reflectividad de todos los elementos de direccionamiento (tales como, barricadas, barreras plásticas, entre otros).
+Utilización de luces intermitentes que permitan garantizar la visibilidad de las barricadas o elementos de direccionamiento. En caso de barreras se deberán colocar luces de advertencia que permitan mayor visibilidad.
+Utilización de Señales luminosas que generen luz propia.
+Imagen 1: Señales luminosas que generen luz propia.
+La maquinaria que se utilice durante la obra deberá poseer marcas reflectivas en sus partes laterales y cintas alternando el rojo y el blanco, en forma vertical en la parte delantera y vertical en 45º en la parte trasera.
+En todos los casos que los extremos delanteros y posteriores sean con cintas reflectivas, tantos como sea posible de tal manera que a los otros conductores adviertan los bordes o formas del vehículo marcado como se muestra en la imagen siguiente.
+Imagen 2: Unidades de la Obra con Cintas Reflectivas Posteriores.
+Así mismo se esta considerando señales ambientales temporales:
+Descripción
+Señalización Temporal
+Canteras
+CANTERA
+CANTERA
+Depósito de material excedente
+D.M.E
+D.M.E
+Patio de Maquinas
+Campamento
+CAMPAMENTO
+CAMPAMENTO
+Planta de asfalto
+PLANTA DE ASFALTO
+PLANTA DE ASFALTO
+Acopio Temporal
+ACOPIO TEMPORAL
+ACOPIO TEMPORAL
+Fuente de agua
+NO CONTAMINAR EL AGUA 
+NO CONTAMINAR EL AGUA 
+Descripción
+Ubicación / Progresiva
+Numero de Avisos
+En zonas de pastoreo
+3
+En centros poblados del AID:
+Churrubamba Centro
+Churrubamba Alta
+Ampi
+Rayanccasa
+4
+Quebradas y ríos circundantes al eje del proyecto
+2
+Uso móvil, para todas las áreas de trabajo, cada 3 km
+3
+Uso móvil para todas las áreas de trabajo, cada 3km
+3
+Total
+15
+Plan de mantenimiento de transito y seguridad vial (PMTSV):
+El presente numeral comprende los dispositivos de control del tránsito en zonas de trabajo, que abarca la construcción, rehabilitación, mejoramiento, mantenimiento y operación vial.
+Las obras que se realizan en las vías públicas representan un riesgo a la seguridad de los usuarios, ya sea peatones, conductores y/o trabajadores.
+Por este motivo, es necesario establecer medidas para el plan de Señalización y procedimientos de control del tránsito durante la ejecución de la obra, de tal forma de minimizar la posibilidad de ocurrencia de accidentes o bien disminuir sus consecuencias.
+Una vez analizada la información de seguridad vial, se elaboró el plan Señalización y procedimientos de control de tránsito durante la ejecución de la obra, para el desarrollo de las actividades durante la realización del proyecto. El objetivo es dar los lineamientos básicos para poder mitigar el impacto causado por el desarrollo de las actividades que se ejecutarán en la etapa de rehabilitación y Mejoramiento de la mencionada vía. Esta mitigación de impacto contempla el tráfico vehicular actualmente en circulación, la seguridad vial y la seguridad del personal al interior de la obra.
+Los objetivos y alcances a obtener con este estudio son:
+Analizar la información de los estudios de tránsito existente.
+Establecer los lineamientos básicos para mitigar el impacto sobre los movimientos vehiculares que causan las actividades a ejecutar durante la etapa de ejecución del proyecto.
+Brindar niveles adecuados de seguridad durante la etapa de ejecución y de la vía. Puesto que es un objetivo fundamental y permanente a fin de preservar la vida humana.
+En ese sentido durante la etapa de ejecución de los trabajos es también importante contar con las condiciones que propicien un tránsito fluido y seguro por la zona de trabajo.
+Las Señales verticales a emplearse serán de fondo de color naranja. Y letras de color negro, debiendo estar localizadas en puntos adecuados que permitan visualizar claramente el mensaje considerando la geometría de la vía, en los anexos demuestran la disposición de las Señales preventivas, según la envergadura y características de los trabajos a ejecutarse en los distintos sectores de la vía.
+ACTIVIDADES DE LA OBRA
+Las principales actividades contempladas en la realización para este proyecto se describen como:
+Excavaciones
+Rellenos
+Relleno para estructuras
+Sub base granular
+Base granular
+Imprimación
+Capa asfáltica
+TIEMPO DE EJECUCIÓN
+De acuerdo al proyectado en el cronograma de la obra se establecerá el tiempo de ejecución de la obra.
+MAQUINARIA A EMPLEAR.
+Para la etapa de ejecución de la rehabilitación y mejoramiento de vía se tiene proyectado el uso de las siguientes maquinarias y equipos:
+Retroexcavadora de llantas.
+Camión cisterna.
+Compactador vibratorio.
+Motoniveladora.
+Retroexcavadora de oruga.
+Volquete de 12 y 16 m3.
+Compactadores manuales.
+Carro tanque irrigador de asfalto, etc.
+CARACTERÍSTICAS GENERALES DE LA VÍA
+Las condiciones actúales del corredor vial no son aceptables permitiendo el flujo de vehículos sin ninguna restricción. Existiendo condiciones topográficas poco favorables por el ancho de la vía. El tramo que comprende este estudio actualmente cuenta con una capa leve de afirmado en la totalidad de su capa de rodadura su sección transversal promedio de 3.00 a 4.50m.
+MANEJO DE LAS DIFERENTES TIPOLOGÍAS DE TRANSPORTE
+El objetivo principal del manejo del tránsito durante la ejecución es mitigar las condiciones adversas que se puedan generar por las obras que se generen durante el periodo de rehabilitación y mejoramiento. Los vehículos no podrán continuar circulando normalmente en el corredor vial a intervenir.
+Cuando se presente algún cierre parcial o intervención sobre la vía, que afecte el servicio de la vía, el contratista deberá presentar previamente el plan Señalización y control de tránsito durante la ejecución de la obra, y gestionar su aprobación ante las autoridades competentes, para su respectiva divulgación a los usuarios del corredor vial.
+PROCEDIMIENTO PARA LA MOVILIZACIÓN DE MAQUINARIA Y EQUIPOS.
+En cada sitio establecido como de entrada y salida de maquinaria y equipo, en la zona de obra o en la salida del campamento donde se almacenará la maquinaria, se dispondrá de una persona asignada debidamente capacitada para ejercer el respectivo control de salida, en caso de que la carga sea extra dimensionada. El traslado de maquinaria y equipos utilizados para la ejecución de la obra, estará determinado por los procedimientos descritos en el siguiente numeral.
+TRASLADO DE EQUIPOS O MAQUINARIA A LA ZONA DE OBRA.
+Este traslado deberá realizarse mediante vehículos con o sin remolque, tipo cama baja, grúa, semi remolques, entre otros diseñados para tal fin.
+El tránsito de vehículos pesados que transporte la maquinaria y equipo, es decir los vehículos que superen las 5 Toneladas, se regirán por establecido en la Ley Nº 27181 (Ley General de Transporte y Tránsito Terrestre) y el Reglamento Nacional de Administración del Transporte, aprobado por D.S. N° 017-2009-MTC, regulan el servicio de transporte público y privado.
+TRASLADO DE EQUIPOS O MAQUINARIA DENTRO DE LA ZONA DE OBRA.
+Todos los equipos sin importar las dimensiones y características podrán circular por sus propios medios por las zonas requeridas, siempre y cuando estas zonas estén cerradas al uso público, las cuales deben estar debidamente Señalizadas. Esta Señalización se realizará de acuerdo con la normatividad vigente sobre la materia y específicamente las contenidas en el Manual de dispositivos para la regulación del tránsito en calles y Carreteras del Ministerio de Transporte.
+TRASLADO DE EQUIPOS Y MAQUINARIA DEL CAMPAMENTO A LA ZONA DE OBRA
+Todos los equipos sin importar las dimensiones y características podrán circular por sus propios medios por las zonas requeridas, siempre y cuando estas zonas estén cerradas al uso público, las cuales deben estar debidamente Señalizadas.
+Cuando ésta distancia de traslado sobrepase los 500.0m se tratará de acuerdo con el procedimiento establecido para el traslado de maquinaria y equipo a la Zona de Obra. La solicitud de los permisos ante el Ministerio de Transporte según corresponda la realizará el Ingeniero Residente de Obra.
+ESQUEMAS BÁSICOS DE LA SEÑALIZACIÓN DURANTE LA EJECUCIÓN DE LA OBRA
+Es aquella compuesta por el tramo de la vía materia de intervención y las zonas adyacentes y de influencia de la misma, siendo básicamente las siguientes:
+Zona de Prevención: Es aquella donde debe implementarse pre Señalización para advertir a los usuarios la situación que la zona en trabajo presenta más adelante y al Conductor para que tome las acciones del caso y modifique su patrón de conducción (velocidad, atención, maniobras, etc.) antes de entrar a la zona de trabajo.
+Zona de Transición: Es aquella donde el conductor debe abandonar el o los carriles ocupados donde se desarrollan los trabajos e ingresar a los desvíos, canalizaciones o angostamientos, los cuales deben ser provistos de los dispositivos de control del tránsito, para que dicha transición se realice adecuadamente.
+Zona de trabajo: Es aquella zona cerrada al tránsito donde se realizan las actividades requeridas por las obras, en su interior operan los trabajadores, equipos y se almacenan los materiales.
+Zona de tránsito: Es aquella por donde se desarrolla el tránsito vehicular y peatonal, la cual puede estar conformada por parte de la vía intervenida y/o los desvíos habilitados.
+Zona de Seguridad: Es aquella que separa la zona de trabajos de los flujos vehiculares y/o peatonales, siendo su objetivo incrementar la seguridad vial, no debiendo colocarse en dicha zona de seguridad, materiales, vehículos, excavaciones, Señales u otros elementos.
+Fin de zona de trabajo: Es aquella zona de transición para que el tránsito retome las condiciones de circulación que presentaba la vía antes del inicio de la zona de trabajo.
+Imagen 3: Ejemplo de una Zona de Trabajo
+Debido a que el proyecto contempla el mejoramiento y rehabilitación de la vía a intervenir, se deberán realizar actividades sobre el corredor existente y en sectores aledaños al mismo, por lo que se requerirá realizar el cierre por medias calzadas, para lo cual se iniciaran las actividades que aumenten la capacidad de la vía. Todas las restricciones viales deberán ser reguladas con controladores de tráfico y con la respectiva Señalización nocturna en caso de mantener los cierres.
+A continuación, se presentan los esquemas más usuales que se utilizan en obras que se ejecutan en áreas urbanas o rurales que se den el caso y se debe tener presente que cada esquema de Señalización necesariamente se adecuará a las condiciones particulares del lugar donde se ejecutarán los trabajos. Para ello, y como ya se ha mencionado en este Plan de Señalización y procedimientos de control de tránsito donde se profundizará el esquema a utilizar y todos los detalles propios de la obra.
+Imagen 4: Esquema de intervención de un carril de calzada, de dos carriles. (Uno por cada sentido)
+Imagen 5: Esquema básico de Señalización al intervenir vía parcial por labores de trabajo.
+Los controladores de tráfico deberán ser capacitados y dotados con radios de comunicaciones para realizar una efectiva y segura regulación del tránsito. Mientras no se requiera de intervenciones viales, se deberá disponer de controladores de tráfico para garantizar las maniobras seguras de acceso y salida de maquinaria del frente de obra.
+En casos donde no se requieran restricciones viales, pero sea un punto de acceso y salida de maquinaria frecuente, se deberá implementar el siguiente esquema de Señalización.
+Imagen 6: Esquema Señalización para el acceso y salida de maquinaria.
+Imagen 7: Interferencia de Carril Derecho en una Curva.
+Imagen 8: Trabajos en el centro de la calzada.
+Imagen 9: Interferencia y Plan de Desvió Durante la Ejecución de la Obra
+Durante la ejecución del proyecto se realizará un desvió en el km 02+030, donde se esta proyectando la construcción de una alcantarilla de 5.2 m de longitud y 2 m de altura; lo cual se está considerando un desvió provisional del km 02+000 hacia el km 02+080; donde se está considerando señales temporales; así mismo se adjunta plano detallado de la zona de desvió (12.00 PLANO DE DESVIO)
+De la misma forma en los tramos largos se planificará cortes temporales por horas de acuerdo al trabajo de ejecuciónlas cuales contaron con su respectiva Señalizaciones temporales.
+ACCIONES DE CONTINGENCIA
+Con el propósito de responder en forma oportuna a un hecho que afecte la operación del flujo vehicular o que represente una situación de emergencia, el contratista deberá presentar un plan de emergencia previo al inicio de las actividades, el cual deberá contar con información sobre maquinaria y equipo de apoyo para las labores requeridas en la solución de emergencias y poseer teléfonos de los efectivos policiales u otras entes que prestan servicios de emergencia y de socorro que pueden prestar atención en caso de cualquier eventualidad accidentaria.
+Teniendo en cuenta el análisis de riesgos realizado, el presente acciones de Contingencia se desarrolla solo para los tramos que implican la construcción de vía nueva o actividades de mejoramiento sobre la calzada existente.
+En este sentido, cuando el proyecto pase a la etapa de diseño definitivo, el concesionario a quien se otorgue la construcción del presente sector, deberá presentar su propio Plan de Contingencia y plan de emergencia a través de cualquier metodología que le permita tomar decisiones en referencia a este aspecto.
+SEÑALES DE PREVENCIÓN DURANTE LA EJECUCIÓN DE LA OBRA:
+Estas alertan e previenen a los usuarios sobre la aproximación a un lugar en el cual las condiciones normales de circulación han sido modificadas en el desarrollo del contrato se utilizaran las siguientes Señales informativas.
+Cuadro 18: Señales Preventivas Durante la Ejecución de la Obra.
+ZONA DE TRABAJO (PC -01) Trabajos en la Vía, las cuales serán instaladas a 100 metros del frente de obra que se intervendrá.
+Dicha Señal debe ser complementada con una placa adicional que indique la distancia al inicio de la zona de trabajo.
+La Señal debe ser colocada por lo menos 500 m antes del inicio de una zona de trabajo y reiterada uniformemente por lo menos cada 100 m. de ser necesario debe ser reforzada ubicándola también al costado izquierdo de la vía.
+MAQUINARIA EN LA VÍA (PC -02): 
+Maquinaría en la zona de trabajo, las cuales serán instaladas a 150 metros del frente de obra que se intervendrá.
+BANDERILLERO (PC -03):
+Esta Señal se empleará para advertir a los conductores la aproximación a un tramo de vía que estará regulado por personal de la obra, el cual utilizará Señales manuales.
+DEMARCACIÓN PROVISIONAL
+Dentro del alcance del plan de Señalización y procedimientos del control de tránsito durante la ejecución de la obra se debe prever la demarcación de los corredores que se puedan ir entregando progresivamente al servicio de los usuarios, siguiendo los lineamientos que se indican en el Manual de Señalización vial y que tienen que ver con las líneas de separación de carriles, flechas de sentido de circulación, demarcación de zonas escolares etc.
+Durante el tiempo que dure la intervención, se deberá mantener en buenas condiciones toda la demarcación sobre el corredor.
+ADECUACIONES TEMPORALES
+Dado que la construcción del corredor vial requiere de intervenciones sobre la vía existente, se requiere realizar adecuaciones temporales, en las transiciones de reducción y ampliación de calzada. Se deben instalar las Señales de aproximación respectivas, a las intersecciones a regular, a fin de prevenir a los conductores sobre la entrada y salida de maquinaria de los frentes de obra o escombreras.
+SEGURIDAD VIAL
+En todo momento se deberá mantener una adecuada Señalización de la vía, de acuerdo con las normas de seguridad vial y las condiciones topográficas y geométricas de la vía, se deberán realizar campañas de información e inducción al público, ya que la seguridad vial es el objetivo principal desde las Etapas de Pre- construcción, Construcción y Operación, debe apoyar a las autoridades del control del tránsito e implementar las metodologías de seguimiento de tramos de concentración de accidentes, para la prevención de accidentes y contribuir en reducir los índices de accidentalidad tanto en número como en gravedad.
+La adecuada Señalización, así como campañas de información e inducción al público serán los elementos complementarios para el cumplimiento de este principio.
+INFORMACIÓN Y DIVULGACIÓN DEL PLAN.
+Una vez aprobado el Plan de Señalización y procedimientos de control de tránsito, previo al inicio de obras, deberá informarse a los usuarios del área de influencia a través de medios masivos o de elementos de comunicación entregados en la vía. Esta divulgación podrá ser distribuida, de acuerdo al impacto del cierre que se tenga programado.
+CONTROL Y SEGUIMIENTO DE LA PUESTA EN MARCHA DEL PLAN DE SEÑALIZACIÓN.
+Desde la entrega de la zona de obra al contratista, de acuerdo con lo establecido en el contrato se deberá garantizar con controladores de tráfico para las actividades que afecten parcialmente la calzada. 
+El seguimiento y de las acciones a realizar durante las implementaciones de plan de Señalización y procedimientos de control de tránsito dependerá el buen funcionamiento del mismo.
+El contratista deberá contar con planes de contingencia que le permitan aplicar acciones oportunas que den solución a las diferentes alteraciones al tráfico que puedan presentarse durante la ejecución de las obras.
+LOCALIZACIÓN DE CAMPAMENTOS
+El campamento estará ubicado sobre el corredor en un lugar de fácil acceso para los vehículos del contratista y que, a su vez, no cause traumatismos al tráfico vehicular durante los desplazamientos desde y hacia él. Contará con una bodega de almacenaje de todos los dispositivos necesarios para el seguimiento del plan de Señalización y procedimientos de control de tránsito, contará con un stock de los materiales que se deben renovar permanentemente como son: cintas reflectivas, barricadas y Señales de tránsito más empleadas.
+PERSONAL Y EQUIPO REQUERIDO.
+Los requerimientos del personal y su dedicación durante la ejecución de los trabajos correspondientes a atender este plan presentado, se muestran a continuación.
+El contratista.
+Residente De Obra.
+Asistente De Tráfico.
+Controladores De Tránsito Y Mantenimiento.
+Señales particulares para la zona de trabajo:
+SEÑALES INFORMATIVAS DURANTE LA EJECUCIÓN DE LA OBRA:
+Estas alertan e informan a los usuarios sobre la aproximación a un lugar en el cual las condiciones normales de circulación han sido modificadas en el desarrollo del contrato se utilizarán las siguientes Señales informativas.
+De acuerdo a las características y particularidades de cada zona de trabajo, deben colocarse todas las Señales informativas evaluadas en el PMTSV, cumpliendo con las características, dimensiones y demás especificaciones establecidas en el manual de Señalización; con excepción de que el color de fondo será anaranjado.
+Cuadro 19: Señales Informativas Durante la Ejecución de la Obra.
+INICIO DE ZONA DE TRABAJO (IC -01): 
+Esta Señal tiene por finalidad informar a los usuarios de la vía el lugar donde se inicia la zona de trabajo.
+(IC -01) – 4 und.
+FIN DE ZONA DE TRABAJO (IC -02):
+Esta Señal tiene por finalidad informar a los usuarios de la vía el lugar donde finaliza o termina la zona de trabajo.
+(IC -02) – 4 und.
+DESVIÓ A XXX M (IC -03):
+Esta Señal tiene por finalidad informar al Conductor la distancia a la que se encuentra el inicio de un desvío de la vía por la que circula.
+(IC -03) – 4 und.
+DESVIÓ (IC -04):
+Esta Señal tiene por finalidad informar al Conductor, la dirección del lugar o punto donde se inicia un desvío de la vía por la que circula.
+(IC -04) – 4 und.
+FIN DESVIÓ (IC -05):
+Esta Señal tiene por finalidad informar al Conductor el lugar donde finaliza o termina el desvío de la vía por el que circula.
+(IC -05) – 04 und
+DOTACIÓN CONTROLADORES DE TRÁFICO:
+Se debe hacer cerramiento del área de trabajo, aislando completamente los frentes de intervención, mediante la instalación de tela polipropileno verde y/o malla fina azul (El cerramiento se realizará con 1 metro inferior de tela polipropileno verde y 1 metro superior de malla fina azul, instalada sobre párales o colombinas o delineadores tubulares cada 5 metros), se deben instalar maletines o barreras plásticas interconectadas, en curvas peligrosas o donde se presenten desniveles fuertes entre las calzadas que representen peligro, de tal forma que se dé seguridad a los trabajadores de la obra y usuarios de la vía.
+El contratista debe garantizar que en todo momento se encuentren aislados los sitios en los que se realice cualquier actividad de obra, etc. objeto del contrato del flujo peatonal y/o vehicular y se dé plena seguridad tanto a trabajadores, como a peatones y vehículos.
+Los dispositivos para la regulación de tránsito, deben ubicarse con anterioridad al inicio de obra, permanecer en su totalidad durante la ejecución de la misma y ser retirados una vez cesen las condiciones que dieron origen a su instalación.
+Todos los elementos de Señalización y de aislamiento se deben mantener perfectamente limpios y bien colocados.
+Una vez se han terminado las obras proyectadas, se debe instalar inmediatamente la Señalización definitiva vertical y horizontal de acuerdo al diseño aprobado de esta.
+Tienen por finalidad complementar las labores del personal autorizado para coordinar, controlar, orientar y dirigir el tránsito en la zona de trabajo “banderillero”, y está conformado por Señales manuales y/o equipos de comunicación.
+Imagen 1: Señales portátiles reglamentarias “PARE” y “SIGA”
+Imagen 2: Dotación Controladores de Tráfico
+Imagen 3: Linternas luminosas para el uso del “Banderillero”
+DISPOSITIVOS VARIOS:
+Son todos aquellos implementos utilizados para la protección de las personas tales como:
+Barricadas: Estarán formadas por bandas o listones horizontales, con una longitud entre 2,0 m y 2,4 m y una altura de 0,20 m, separados por espacios iguales a sus alturas. Las bandas serán fijadas a caballetes. La altura de cada barricada deberá ser de 1,50 m como mínimo. Las franjas de las barreras serán de colores alternados blanco y naranja, con una inclinación hacia el piso de 45 grados en la dirección del paso de los vehículos.
+Cuando existen desvíos hacia la izquierda y la derecha, las franjas deberán dirigirse hacia ambos lados, partiendo desde el centro de la barrera. Los soportes y el reverso de la barrera serán de color blanco, Las franjas deberán ser elaboradas en material reflectivo Tipo III, de tal manera que sean visibles, bajo condiciones atmosféricas normales, a una distancia mínima de 300 metros, cuando se iluminen con las luces altas de un vehículo normal. Las barricadas se utilizarán sobre el carril o la calzada que se programe cerrar totalmente y se colocarán perpendicularmente al eje de la vía, obstruyendo el carril o la calzada inhabilitada para la circulación del tránsito vehicular, indicando el sentido de desvío del flujo vehicular.
+En la parte superior de la barricada se deberá colocar la Señal SRO-01 o SRO-02 según corresponda.
+Imagen 4: Barricadas con Desvió y Esquema de Direcciones de Franjas
+Delineadores o Canalizadores: Cuando se desarrolla una obra vial que interviene directa o indirectamente el normal flujo, se producen comúnmente cambios en las características geométricas de la vía que, en un lapso muy corto, deben ser entendidos por todos los usuarios quienes tienen el derecho a que se dispongan de las instrucciones y elementos que paulatinamente los llevarán a adoptar las nuevas condiciones de transitabilidad. Para esto último, es necesaria la colocación de elementos canalizadores. Es importante tener presente y entender que estos elementos por sí solos no son suficientes para Señalizar una obra. Se requiere, como ya se ha mencionado, de un conjunto de dispositivos para asegurar un cierto nivel de seguridad vial. 
+Es así como los canalizadores darán cuenta de cambios en la alineación, delimitación de las distintas zonas de la obra, mostrar situaciones divergentes posibles de circulación, entre otros.
+Al igual que las Señales de tránsito, los elementos canalizadores deben cumplir con condiciones de tamaño, visibilidad y color, lo que dependerá principalmente de la velocidad de circulación.
+Elementos Canalizadores
+Los elementos canalizadores que son aceptados por ley son los siguientes:
+Imagen 5: Elementos Canalizadores
+Imagen 6: Delineador Tubular y canalizaciones con Cinta de Señalización
+Imagen 7: Barrera o tranquera
+Resumen de señalización:
+A continuación, se presenta el listado de las Señales nuevas a implementarse en el proyecto de Señalización y seguridad las mismas que fueron plasmados en los planos correspondientes de Señalización y seguridad vial. 
+Tabla 19: Resumen general
+TIPOS DE SEÑALIZACIONES
+CANT.
+UND.
+•
+SEÑALES INFORMATIVAS
+14
+Und.
+35.41
+m²
+•
+SEÑALES PREVENTIVAS
+221
+Und.
+•
+SEÑALES REGLAMENTARIAS
+12
+Und.
+•
+POSTES DE KILOMETRAJE
+11
+Und.
+•
+MARCAS EN EL PAVIMENTO
+2453.00
+m²
+•
+REDUCTORES DE VELOCIDAD
+2.00
+Und.
+10.00
+m
+•
+TACHAS RETROREFLECTIVAS
+1736.00
+Und.
+•
+BARRERAS DE SEGURIDAD
+2052.00
+m.
+•
+POSTES DELINEADORES
+128
+Und.
+Conclusiones y recomendaciones:
+CONCLUSIONES.
+Se presento documentos a las municipalidades distritales de Cerro Azul y Quilmana, solicitando información sobre resolución de demarcación de derecho de vial del camino vecinal en estudio, donde nos indican que no cuentan con dicha resolución; por lo que no se presupuesta hitos de demarcaciones de derecho vía, en tal sentido se trabajara con el límite constructivo del proyecto.
+Se indica que en el CIRA obtenido indica que no existe colindancia ni proximidad con zona arqueológica de acuerdo al CIRAS N°608-2024-DCE/MC.
+Se presento documentos a las instituciones Centro de salud de Cerro Azul, Centro de Salud de Quilmana, Policía Nacional del Perú Comisaria PNP Cerro Azul y Policía Nacional del Perú Comisaria PNP, solicitando registro de atención a pacientes por accidentes en los últimos 04 años y solitud de registro de accidentes vehiculares en los últimos 04 años; donde nos indican que hubo 09 accidentes vehiculares lo que ocasionó solo daños materiales.
+En la inspección de campo, se encontró señalespreventivas, reglamentarias e hitos kilométricos en mal estado la cual requiere cambio.
+Se proyectó todas las señalizaciones posibles a lo largo de la vía en estudio, colocando tanto como señales reglamentarias, informativas y preventivas de acuerdo a la necesidad que demanda las zonas y de las otras adversidades que tiene la vía.
+Se proyecto barreras de seguridad CLASSEH2 BORDO LATERALE – BARRIERA 3 ONDE SINGOLA SU RILEVATO W8; con una medida de 4.05 m de longitud; dicha barrera de seguridad tendrá un ancho de trabajo de 0.50 m; la empresa encarga de cotizar es MARCEGAGLIA BUILDTECH.
+Se proyecto también la señalización horizontal, el cual se considera solamente el pintado de las líneas extremas del carril, no se considera la línea central por ser de una sola vía; así mismo pintado en las intersecciones de la vía.
+Se proyecto los resaltos de concreto portland al ingreso y salida del centro poblado de acuerdo a la DIRECTIVA N°-01-2011-MTC/14, APROBADO POR RESOLCION DIRECTORAL N°23-2011-MTC/14.
+Se proyecto las tachas retro reflectivas con espaciamiento de 12 m y solamente a los extremos del carril.
+Se proyecto postes delineadores en las zonas necesarias. 
+Las señales preventivas y reglamentarias fueron diseñadas para una velocidad de diseño de 40km/h de acuerdo a las normas establecidas del MTC, las señales informativas en cambio, por tratarse de una zona selvática montañosa, se diseñó con un tamaño de letra de entre 10 cm de altura.
+Se proyecto señales informativas de ubicación, dirección y señales informativas ambientales.
+A continuación, se tiene un resumen genérico de las señales verticales, horizontales y dispositivos de control de tránsito proyectado:
+TIPOS DE SEÑALIZACIONES
+CANT.
+UND.
+•
+SEÑALES INFORMATIVAS
+14
+Und.
+35.41
+m²
+•
+SEÑALES PREVENTIVAS
+221
+Und.
+•
+SEÑALES REGLAMENTARIAS
+12
+Und.
+•
+POSTES DE KILOMETRAJE
+11
+Und.
+•
+MARCAS EN EL PAVIMENTO
+2453.00
+m²
+•
+REDUCTORES DE VELOCIDAD
+2.00
+Und.
+10.00
+m
+•
+TACHAS RETROREFLECTIVAS
+1736.00
+Und.
+•
+BARRERAS DE SEGURIDAD
+2052.00
+m.
+•
+POSTES DELINEADORES
+128
+Und.
+Durante la ejecución del proyecto se realizará un desvió en el km 02+030, donde se está proyectando la construcción de una alcantarilla de 5.2 m de longitud y 2 m de altura; lo cual se está considerando un desvió provisional del km 02+000 hacia el km 02+080; donde se está considerando señales temporales; De la misma forma en los tramos largos se planificará cortes temporales por horas de acuerdo al trabajo de ejecuciónlas cuales contaron con su respectiva Señalizaciones temporales.
+RECOMENDACIONES:
+Se recomienda colocar todas las señales a lo largo de tramo (10+405 km), que consta el presente estudio de la carretera de acuerdo a lo establecido por el manual de dispositivos de control del tránsito automotor para calles y carreteras.
+Se recomienda la operación y mantenimiento de las señalizaciones una vez ejecutada la obra, este es primordial porque evita y reduce los accidentes de tránsito.
+Anexos:

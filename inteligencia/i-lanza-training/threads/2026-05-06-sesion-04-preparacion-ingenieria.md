@@ -26,6 +26,11 @@ Preparar la Sesion 04 de i-Lanza orientada a IA aplicada a ingenieria, con ejerc
 - Ejercicio 02 creado: Generador de Informe Tecnico de Diseno usando GPT Assistant personalizado.
 - Ejercicio 03 creado: Automatizacion de Requerimientos y Materiales con n8n.
 - Se incluyeron insumos demo: memoria de calculo, normativa ficticia, plantilla de revision, plantilla de informe, requerimiento, cotizacion y guia de recepcion.
+- 2026-05-16: Se retoma la sesion para generar una slide de Prompt Engineering para imagenes usando la plantilla institucional de especializacion en automatizacion/n8n.
+- 2026-05-16: Se solicita una segunda slide comparativa sobre buen prompt vs mal prompt para imagenes.
+- 2026-05-16: Se solicita una tercera slide sobre la importancia de comunicarse bien con la IA mediante prompt engineering.
+- 2026-05-16: Se solicita una slide con ejemplo concreto de prompt mal hecho para imagenes y prompt bueno para imagenes.
+- 2026-05-16: Se solicita una slide de prompt engineering para developers, enfocada como especificacion tecnica para IA.
 
 ## Problemas o bloqueos
 - Si n8n no esta listo en vivo, se debe ejecutar el flujo manualmente con ChatGPT como plan B.
@@ -104,4 +109,3 @@ Preparar la Sesion 04 de i-Lanza orientada a IA aplicada a ingenieria, con ejerc
 ## Senales exportables a otros proyectos
 - Si una demo depende de permisos corporativos inciertos, usar triggers neutrales como webhook/manual/formulario.
 - Para IA en ingenieria, explicitar siempre que la herramienta produce borradores, alertas y trazabilidad, no aprobaciones.
-

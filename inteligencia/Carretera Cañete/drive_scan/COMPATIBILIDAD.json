@@ -1,0 +1,79 @@
+﻿[
+    {
+        "path":  "COMPATIBILIDAD",
+        "name":  "1.00 CANTERA ESMERALDA",
+        "id":  "19I0np_2y0gjiT8NIdlXYW27k__nzalCG",
+        "kind":  "folder",
+        "mimeType":  "application/vnd.google-apps.folder",
+        "size":  null,
+        "modifiedTime":  "2026-04-16T13:22:29.467Z",
+        "webViewLink":  "https://drive.google.com/drive/folders/19I0np_2y0gjiT8NIdlXYW27k__nzalCG",
+        "extension":  null
+    },
+    {
+        "path":  "COMPATIBILIDAD",
+        "name":  "2.00 PATIO DE MAQUINA",
+        "id":  "1WsOQRslD5JaVIylwPdm3ql6uLJRfEEOJ",
+        "kind":  "folder",
+        "mimeType":  "application/vnd.google-apps.folder",
+        "size":  null,
+        "modifiedTime":  "2026-04-16T13:22:29.477Z",
+        "webViewLink":  "https://drive.google.com/drive/folders/1WsOQRslD5JaVIylwPdm3ql6uLJRfEEOJ",
+        "extension":  null
+    },
+    {
+        "path":  "COMPATIBILIDAD/2.00 PATIO DE MAQUINA",
+        "name":  "CADPATIO DE MAQUINA-Model.dwg",
+        "id":  "1ivYVdDWkkzIoftCfbNX2bJrm91gSUZPy",
+        "kind":  "file",
+        "mimeType":  "image/vnd.dwg",
+        "size":  "23181569",
+        "modifiedTime":  "2026-03-05T14:30:27.000Z",
+        "webViewLink":  "https://drive.google.com/file/d/1ivYVdDWkkzIoftCfbNX2bJrm91gSUZPy/view?usp=drivesdk",
+        "extension":  "dwg"
+    },
+    {
+        "path":  "COMPATIBILIDAD",
+        "name":  "3.00 PLANTA DE CONCRETO",
+        "id":  "1PwdhtOblXdP1kZGn_XmqPW3zdjUNxMoT",
+        "kind":  "folder",
+        "mimeType":  "application/vnd.google-apps.folder",
+        "size":  null,
+        "modifiedTime":  "2026-04-16T13:22:29.477Z",
+        "webViewLink":  "https://drive.google.com/drive/folders/1PwdhtOblXdP1kZGn_XmqPW3zdjUNxMoT",
+        "extension":  null
+    },
+    {
+        "path":  "COMPATIBILIDAD",
+        "name":  "4.00 PLANTA DE ASFALTO",
+        "id":  "1GSmAgesoFhM9mn9DPPDwqnILHCaCgRUD",
+        "kind":  "folder",
+        "mimeType":  "application/vnd.google-apps.folder",
+        "size":  null,
+        "modifiedTime":  "2026-04-16T13:22:29.473Z",
+        "webViewLink":  "https://drive.google.com/drive/folders/1GSmAgesoFhM9mn9DPPDwqnILHCaCgRUD",
+        "extension":  null
+    },
+    {
+        "path":  "COMPATIBILIDAD",
+        "name":  "5.00 DME",
+        "id":  "1hcaAuTQ6hsH5FGfH3ywEWTJX6HAGjrul",
+        "kind":  "folder",
+        "mimeType":  "application/vnd.google-apps.folder",
+        "size":  null,
+        "modifiedTime":  "2026-04-16T13:22:29.470Z",
+        "webViewLink":  "https://drive.google.com/drive/folders/1hcaAuTQ6hsH5FGfH3ywEWTJX6HAGjrul",
+        "extension":  null
+    },
+    {
+        "path":  "COMPATIBILIDAD",
+        "name":  "INFORME DE COMPATIBILIDAD.docx",
+        "id":  "1BjsVsioQj6VOZUnDREO1fb6eEF79rfVB",
+        "kind":  "file",
+        "mimeType":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "size":  "2845201",
+        "modifiedTime":  "2026-04-16T13:22:02.000Z",
+        "webViewLink":  "https://docs.google.com/document/d/1BjsVsioQj6VOZUnDREO1fb6eEF79rfVB/edit?usp=drivesdk\u0026ouid=111937121581374211483\u0026rtpof=true\u0026sd=true",
+        "extension":  "docx"
+    }
+]

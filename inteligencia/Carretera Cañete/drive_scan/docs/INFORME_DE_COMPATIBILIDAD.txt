@@ -1,0 +1,482 @@
+﻿INFORME DE COMPATIBILIDAD ENTRE EL COMPONENTE DE INGENIERIA Y SOCIOAMBIENTAL
+INFORME DE COMPATIBILIDAD 
+La Declaración de Impacto Ambiental del proyecto, se enmarca dentro del Marco Jurídico, Políticas y Reglamentación de Protección Ambiental Nacional, considerando la naturaleza del proyecto, tomando en consideración las siguientes normativas: D.S. N° 008 -2019-MTC y la Resolución Ministerial N° 741-2019 MTC/01.02, a continuación, se describe cada una de ellas relacionadas al proyecto.
+El Proyecto es ambiental y socialmente viable siempre que se cumplan todas las medidas ambientales y sociales propuestas en el Plan de Manejo Ambiental que forma parte del presente estudio ambiental. 
+Mediante la Resolución Directoral N°007-2026-MTC/16 con fecha 08 de septiembre del 2025, resuelve aprobar la Declaración de Impacto Ambiental (DIA) del proyecto de inversión denominado: Mejoramiento del servicio de transitabilidad vial interurbana en el camino vecinal MEJORAMIENTO DEL CAMINO VECINAL EMP. PE-1S - SAN JUAN DE TAHUANCO - EMP. LM-878 (ROLDAN), EN LOS DISTRITOS DE CERRO AZUL Y QUILMANA DE LA PROVINCIA DE CAÑETE - DEPARTAMENTO DE LIMA, con Código Único de inversiones Nº 2412448, de conformidad con los fundamentos y conclusiones del informe Nº 3741-2025/MTC/16.02, el cual forma parte integrante de la presente resolución.
+De acuerdo a los trabajos de campo se concluyó que la vía se encuentra ubicada en los distritos de Cerro Azul y Quilmana, donde se identifican a dos (02) localidades cuya jurisdicción cruza y/o colinda con la vía a ser mejorada.En el área de influencia directa se detalla en el siguiente cuadro:
+Se ha considerado las áreas geográficas que pudiesen ser afectadas por el incremento de ruido, emisiones atmosféricas y/o vertimiento en el cuerpo de agua, dentro del área geográfica que se podría ver afectada se encuentran las localidades adyacentes, como son Cerro Azul, San Juan de Ihuanco y Roldan..
+Las principales actividades del proyecto que podrían ser potenciales causantes de impactos ambientales son los siguientes: 
+Cuadro 01. Principales actividades del proyecto
+Etapa
+Actividades
+Trabajos preliminares
+Movilización de maquinaria y Equipos 
+Topografía y georreferenciación
+Mantenimiento de tránsito y seguridad vial
+Campamento
+Mejoramiento
+Operación de instalaciones auxiliares
+Movimiento de tierras
+Desbroce y limpieza en zonas no boscosas
+Excavación en material suelto
+Excavación en roca suelta
+Excavación en roca fija
+Terraplenes
+Perfilado y compactación de subrasante
+Conformación y acomodo de DME
+Pavimento
+Base Granular Estabilizada
+Imprimación Asfáltica
+Tratamiento Superficial Bicapa
+Obras de arte y drenaje
+Construcción de obras de arte y drenaje (Cunetas, Alcantarillas)
+Transporte de Material
+Transporte de materiales (base granular, emulsión asfáltica, excedentes)
+Señalización y seguridad vial
+Retiro de señales, señales informativas, preventivas, reglamentarias, postes kilométricos, marcas en el pavimento, tachas retroflectivas, guardavías, reductor de velocidad
+Cierre
+Desmovilización de maquinaria y equipos.
+Desmantelamiento y limpieza de instalaciones auxiliares
+Recuperación ambiental de áreas afectadas (readecuación de canteras, DME, patio de máquinas, campamento, rehabilitación de áreas y accesos)
+Revegetación
+Operación y mantenimiento
+Operación de la infraestructura vial
+Mantenimiento rutinario y periódico
+Fuente: Consorcio Vial Apurímac
+De donde se verifica que las actividades aprobadas por el DIA son iguales a las actividades elaboradas por la parte de ingeniería, ver 4.00 VOLUMEN Nº IV: METRADOS– RESUMEN DE METRADOS
+Figura N°01 – Ubicación de metrados
+Cuadro 02. Principales actividades del proyecto–Ingeniería
+RESUMEN DE METRADOS
+ITEMS
+DESCRIPCION
+Und.
+Metrado
+01
+TRABAJOS PRELIMINARES
+01.01
+   MOVILIZACION Y DESMOVILIZACION DE EQUIPOS
+glb
+1.00
+01.02
+   TOPOGRAFIA Y GEOREFERENCIACIÓN
+km
+10.41
+01.03
+   MANTENIMIENTO DE TRANSITO  Y SEGURIDAD VIAL
+glb
+1.00
+01.04
+   CAMPAMENTO
+glb
+1.00
+01.05
+   ACCESOS PROVISIONALES
+km
+44.41
+02
+MOVIMIENTO DE TIERRAS
+02.01
+   DESBROCE Y LIMPIEZA EN ZONAS  NO BOSCOSA
+ha
+2.08
+02.02
+   EXCAVACION EN MATERIAL SUELTO
+m3
+4,105.13
+02.03
+   EXCAVACION EN ROCA SUELTA
+m3
+3,443.21
+02.04
+   EXCAVACION EN ROCA FIJA
+m3
+1,140.94
+02.05
+   TERRAPLENES
+m3
+50,391.66
+02.06
+   PERFILADO Y COMPACTACION EN ZONA DE CORTE 
+m2
+12,223.00
+02.07
+   MEJORAMIENTO DE SUBRASANTE
+m3
+213.57
+02.08
+   CONFORMACION Y ACOMODO DE DME
+m3
+12,715.19
+03
+PAVIMENTOS
+03.01
+   SUBBASE GRANULAR
+m3
+6,013.10
+03.02
+   BASE GRANULAR 
+m3
+12,951.02
+03.03
+   IMPRIMACION ASFALTICA
+m2
+67,277.73
+03.04
+   PAVIMENTO DE CONCRETO ASFALTICO EN CALIENTE
+m3
+2,461.00
+03.05
+   CEMENTO ASFALTICO 
+kg
+318,945.60
+03.06
+   FILLER
+kg
+2,461.00
+03.07
+   ADITIVO MEJORADOR DE ADHERENCIA
+kg
+1,594.73
+03.08
+   MICROPAVIMENTO E = 25 MM
+m2
+34,657.72
+04
+OBRAS DE ARTE Y DRENAJE
+04.01
+   ALCANTARILLAS TIPO MARCO
+04.01.01
+      EXCAVACIÓN NO CLASIFIACADA PARA ESTRUCTURAS  
+m3
+323.38
+04.01.02
+      RELLENO PARA ESTRUCTURAS 
+m3
+104.41
+04.01.03
+      CONCRETO f'c=210kg/cm2 
+m3
+547.32
+04.01.04
+      SOLADO DE CONCRETO f`c=140 Kg/cm2  E=0.10 M.
+m3
+72.28
+04.01.05
+      ENCOFRADO Y DESENCOFRADO 
+m2
+1,748.85
+04.01.06
+      ACERO DE REFUERZO FY=4,200 KG/CM2
+kg
+28,220.50
+´04.02
+   MURO
+04.02.01
+     EXCAVACION NO CLASIFICACA PARA ESTRUCTURAS
+m3
+925.14
+04.02.02
+     CONCRETO F´C=210 KG/CM2
+m3
+371.03
+04.02.03
+     SOLADO F´C=140 KG/CM2
+m3
+39.78
+04.02.04
+     ENCOFRADO Y DESENCOFRADO 
+m2
+1,088.49
+04.02.05
+     ACERO DE REFUERZO FY=4200 KG/CM2
+kg
+46,231.54
+04.02.06
+     JUNTAS DE DITLATACION
+m2
+121.25
+04.02.07
+     TUBERIA PVC Ø 4"
+m
+44.88
+04.02.08
+     MANTO BITUMINOSO
+m2
+676.01
+´04.03
+   CANAL
+04.03.01
+     CANALES DE CONCRETO
+m
+3,140.00
+05
+TRANSPORTE DE MATERIAL
+05.01
+   TRANSPORTE DE MATERIALES GRANULARES ENTRE 120 M Y 1000 M
+m3k
+58,436.14
+05.02
+   TRANSPORTE DE MATERIALES GRANULARES A MAS DE 1000 M
+m3k
+1,143,873.35
+05.03
+   TRANSPORTE DE MEZCLAS ASFÁLTICAS ENTRE 120 M Y 1000 M
+m3k
+4,885.31
+05.04
+   TRANSPORTE DE MEZCLAS ASFÁLTICAS A MAS DE 1000 M
+m3k
+6,159.11
+05.05
+   TRANSPORTE DE AGREGADO ENTRE 120 M Y 1000 M
+m3k
+48.70
+05.06
+   TRANSPORTE DE AGREADO A MAS DE 1000 M
+m3k
+174.70
+05.07
+   TRANSPORTE DE MATERIAL ENTRE 120 M Y 1000 M
+m3k
+6,763.85
+05.08
+   TRANSPORTE DE MATERIAL A MAS DE 1000 M
+m3k
+12,908.95
+06
+SEÑALIZACION
+06.01
+   SEÑALES INFORMATIVAS
+m2
+35.41
+06.02
+   SEÑALES PREVENTIVAS
+u
+221.00
+06.03
+   SEÑALES REGLAMENTARIAS
+u
+12.00
+06.04
+   POSTE  DE KILOMETRAJE
+u
+11.00
+06.05
+   MARCAS EN EL PAVIMENTO
+m2
+2,453.00
+06.06
+   REDUCTORES DE VELOCIDAD
+u
+2.00
+06.07
+   TACHAS RETROFLECTIVAS
+u
+1,736.00
+06.08
+   BARRERA DE SEGURIDAD
+m
+2,052.00
+06.10
+   POSTE  DELINEADORES
+u
+128.00
+07
+PLAN DE MANEJO AMBIENTAL 
+07.01
+   PLAN DE VIGILANCIA AMBIENTAL
+07.01.01
+     MONITOREO DE CALIDAD DE AIRE
+pto
+9.00
+07.01.02
+     MONITOREO DE RUIDO
+pto
+15.00
+07.01.03
+     MONITOREO DE DE CALIDAD DE AGUA
+pto
+9.00
+´07.02
+   PLAN DE CIERRE
+07.02.01
+     READECUACION DE DME
+m2
+9,038.10
+07.02.02
+     READECUACON DE PATIO DE MAQUINA
+m2
+1,482.66
+07.02.03
+     READECUACON DE PLANTA DE ASFALTO
+m2
+1,111.05
+07.02.04
+     READECUACON DE PLANTA DE CONCRETO
+m2
+1,093.08
+Fuente: Consorcio Vial Roldan
+CANTERAS:Acorde a la información brindada por el Estudio de Suelos, Canteras y Pavimentos, las canteras contempladas para el desarrollo del proyecto son de origen coluvial y aluvial. A continuación, se presentan los detalles de dichas canteras:
+Cuadro 03.Canteras a ser utilizadas en el desarrollo del proyecto - DIA
+Fuente: Estudio de canteras y fuentes de agua.
+Las canteras son comerciales
+De donde se verifica que las canteras propuestas en el DIA, son iguales a las que se propusieron en el informe de estudio de canteras, ver 6. ESTUDIOS DE SUELOS, CANTERAS, FUENTES DE AGUA Y PAVIMENTOS. /2. Estudio de canteras y fuentes de agua.
+Cuadro 03.Canteras a ser utilizadas en el desarrollo del proyecto - INGENIERIA
+CANTERA
+UBI. (Km)
+ACCESO
+USOS
+COORDENADAS UTM
+PERIM (ml)
+AREA (m2)
+ESTE
+NORTE
+ROMA
+0+760
+19.612 Km. Lado Derecho
+Suelo Estabilizada,TerraplenesMejoramiento de Suelos, Concreto
+355687
+8561799
+-----------
+-----------
+VICTORIA
+0+760
+17.813 Km. Lado Derecho
+Suelo Estabilizado, Terraplenes, Mejoramienot de Suelos, Sub Base, Base Granular, Micropavimento, Concreto y Pavimentos de Mezcla Asfáltica en Caliente.
+355251
+8560461
+-----------
+-----------
+CAROLINA UNO
+0+760
+24.489 Km. Lado Derecho
+Suelo Estabilizada,TerraplenesMejoramiento de Suelos
+360025
+8554889
+-----------
+-----------
+ESMERALDA
+3+950
+0.38 Km. Lado Izquierdo
+TerraplenesMejoramiento de Suelos
+342295
+8562157
+429.24
+9989.58
+Fuente: Estudio de canteras y fuentes de agua. Pag.3
+Figura N°02 – Ubicación de estudio de canteras y fuentes de agua en el drive
+DEPÓSITOS DE MATERIAL EXCEDENTE: A continuación, se describen los depósitos de material excedente considerados para el proyecto.
+Cuadro 04.Depósito de Material Excedente considerados para el desarrollo del proyecto - DIA
+Fuente: Consorcio Vial Roldan
+De donde se verifica que los DME propuestos en el DIA, son iguales a los planos elaborados de las áreas auxiliares, ver 06. 13.00 VOLUMEN Nº XIII: PLANOS DEL PROYECTO / h.PLANOS AREAS AUXILIARES.
+Cuadro 05.Depósito de Material Excedente considerados para el desarrollo del proyecto - Ingenieria
+Ítem
+Nombre
+Coordenadas UTM 
+Progresiva
+Lado
+Área
+Perímetro
+Capacidad
+WGS 84 Zona 18S
+(km)
+(m2)
+(m)
+(m3)
+1
+DME - 01
+342171.3015
+8562367.2883
+3+975
+Izquierdo
+9,038.12
+454.23
+47,269.214
+Figura N°03 – Ubicación de las áreas auxiliares DME en el drive
+Figura N°03 – DME N°01
+PATIO DE MAQUINAS:Para el proyecto vial se requiere de patio de máquinas, con el fin de albergar la maquinaria e insumos requeridos en el proyecto.
+Cuadro 06. Patio de máquinas considerados para el desarrollo del proyecto - DIA
+Fuente: Consorcio Vial Roldan.
+De donde se verifica que el patio de maquina propuesto en el DIA, son iguales a los planos elaborados de las áreas auxiliares, ver 06. 13.00 VOLUMEN Nº XIII: PLANOS DEL PROYECTO / h. PLANOS AREAS AUXILIARES.
+Cuadro07. Patio de máquinas considerados para el desarrollo del proyecto–Ingeniería
+Ítem
+Nombre
+Coordenadas UTM WGS 84 Zona 18S
+Progresiva
+Lado
+Área
+Perímetro
+(km)
+(m2)
+(m)
+1
+Patio de maquinas
+342242.0061
+8562340.1244
+3+975
+Izquierdo
+1,482.66
+156.12
+Figura N°04– ubicación de patio de maquina en el drive
+Figura N°05 – patio de maquina
+PLANTA DE ASFALTO:A continuación, se describen las el área considerada como planta de asfalto:
+Cuadro8.Planta de asfalto considerada para el desarrollo del proyecto - DIA
+Fuente: Consorcio Vial Roldan.
+De donde se verifica que la planta de asfalto propuesto en el DIA, son iguales a los planos elaborados de las áreas auxiliares, ver 06. 13.00 VOLUMEN Nº XIII: PLANOS DEL PROYECTO / h. PLANOS AREAS AUXILIARES.
+Cuadro9.Planta de asfalto considerada para el desarrollo del proyecto - Ingenieria
+Ítem
+Nombre
+Coordenadas UTM WGS 84 Zona 18S
+Progresiva
+Lado
+Área
+Perímetro
+(km)
+(m2)
+(m)
+1
+Planta de asfalto
+342241.3392
+8562344.9750
+3+975
+Izquierdo
+1,111.05
+136.27
+Figura N°6 – ubicación de planta de asfalto en el drive
+Figura N°7 – planta de asfalto 
+PLANTA DE CONCRETO: Para el proyecto se requiere de un acopio temporal, el cual se detalla a continuación.
+Cuadro 10. Acopio temporal considerado para el desarrollo del proyecto - DIA
+Fuente: Consorcio Vial Roldan.
+De donde se verifica que el área de acopio temporal propuesto en el DIA, son iguales a los planos elaborados de las áreas auxiliares, ver 06. 13.00 VOLUMEN Nº XIII: PLANOS DEL PROYECTO / h. PLANOS AREAS AUXILIARES.
+Cuadro 11. Acopio temporal considerado para el desarrollo del proyecto - Ingeniería
+Ítem
+Nombre
+Coordenadas UTM WGS 84 Zona 18S
+Progresiva
+Lado
+Área
+Perímetro
+(km)
+(m2)
+(m)
+1
+Planta de Concreto
+342233.0220
+8562414.7564
+3+975
+Izquierdo
+1,093.08
+139.17
+Figura N°8 – ubicación de área de acopio en el drive
+Figura N°8 – área de acopio temporal
+FUENTE DE AGUA 
+Para el desarrollo del proyecto se han identificado una fuente de agua, la misma que ha sido seleccionada considerando su accesibilidad, la facilidad para la extracción de agua y principalmente al flujo permanente que presentan, lo que garantiza el aprovisionamiento de agua por todo el año; de acuerdo a la certificación Ambiental, no hubo cambios respecto al informe de ingeniería canteras y fuentes de agua.
+figura9. Fuente de agua considerada para el proyecto
+Fuente: Consorcio Vial Roldan.
+Figura N°10 – ubicación del estudio de canteras y fuentes de agua en el drive
+ANEXO:
+PLANO CANTERA ESMERALDA
+PLANO DE PATIO DE MAQUINA
+PLANO DE PLANTA DE CONCRETO
+PLANO DE PLANTA DE ASFALTO
+PLANO DE DME

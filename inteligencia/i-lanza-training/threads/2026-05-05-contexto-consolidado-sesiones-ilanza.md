@@ -344,6 +344,8 @@ leer mejor -> ordenar informacion -> reportar -> comunicar -> validar
    - flujo final/puente entre ingenieria y comercial;
    - cierre/plano a obra.
 4. Si se pasa a nueva sesion, usar este hilo como context pull inicial.
+5. Para la sesion final de ejercicios comerciales, cerrar con una dinamica de produccion + exhibicion: crear un mini kit comercial IA i-Lanza, presentar outputs, votar por utilidad/branding/confianza tecnica y convertir lo mejor en activos reutilizables.
+6. Se genero un deck visual para el bloque comercial final en `Proyecto/ilanza_sesion_final_comercial/`: 13 slides PNG en `slides_v1/`, player `commercial_deck_player.html` y plan maestro `orchestrator_master_plan.html`.
 
 ## Tags tematicos
 - i-lanza

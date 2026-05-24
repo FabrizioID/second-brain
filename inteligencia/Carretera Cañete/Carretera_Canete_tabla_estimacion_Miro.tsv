@@ -1,0 +1,28 @@
+Entregable	Actividad	Especialidad / elemento	Estado	Responsable	Tiempo estimado	Observacion / insumo
+Modelo federado / compatibilizacion	Recopilar modelos nativos por especialidad	Todas	POR HACER	Todos	Por estimar	Reunir nativos antes de consolidar el federado
+Modelo federado / compatibilizacion	Validar georreferenciacion y coordenadas	Topografia / vialidad / modelos	POR HACER	Todos	Por estimar	Confirmar base comun de coordenadas
+Modelo federado / compatibilizacion	Integrar vialidad y topografia	Superficie, corredor, intersecciones	EN PROCESO	Israel	Por estimar	Relacionado con importacion de superficie
+Modelo federado / compatibilizacion	Integrar HHD y drenaje	Alcantarillas, cunetas/canales, zanjas	POR HACER	Todos	Por estimar	Cruzar expediente y modelos disponibles
+Modelo federado / compatibilizacion	Integrar estructuras y obras de arte	Alcantarillas, muros, badenes, canales	POR HACER	Todos	Por estimar	Comparar modelado contra expediente
+Modelo federado / compatibilizacion	Integrar senalizacion y seguridad vial	Senales, tachas, barreras, postes delineadores	POR HACER	Todos	Por estimar	Confirmado como requerido
+Modelo federado / compatibilizacion	Publicar modelo de coordinacion	Federado final	POR HACER	Todos	Por estimar	Entregable para revision BIM
+Fichas descriptivas C1/C2	Definir plantilla y campos tecnicos	Todas	POR HACER	Fabrizio	Por estimar	Codigo, especialidad, elemento, progresiva, parametros, evidencia
+Fichas descriptivas C1/C2	Preparar ficha ejemplo validable	Elemento piloto	POR HACER	Fabrizio	Por estimar	Validar formato antes de replicar
+Fichas descriptivas C1/C2	Elaborar fichas por especialidad	Vialidad, HHD, estructuras, senalizacion, pavimentos	POR HACER	Todos	Por estimar	Produccion de fichas especificas
+Metrados BIM trazables	Revisar tablas de planificacion	Categorias BIM	POR HACER	Todos	Por estimar	Validar parametros trazables
+Metrados BIM trazables	Definir elementos metrables desde modelo	Elementos modelados	POR HACER	Todos	Por estimar	Separar BIM vs documental/manual
+Metrados BIM trazables	Extraer tablas por categoria	Familias y codigos	POR HACER	Todos	Por estimar	Cruzar con codificacion del modelo
+Metrados BIM trazables	Registrar elementos no metrables desde BIM	Brechas del expediente/modelo	POR HACER	Todos	Por estimar	Sustentar exclusiones o consultas
+Planos desde modelo	Identificar planos requeridos desde modelo	Todas	POR HACER	Todos	Por estimar	Determinar planos aplicables
+Planos desde modelo	Revisar vistas y secciones disponibles	Modelos BIM	POR HACER	Todos	Por estimar	Evaluar factibilidad desde modelo
+Planos desde modelo	Generar o justificar planos desde modelo	Planos BIM	POR HACER	Todos	Por estimar	Emitir o sustentar brecha
+Simulacion constructiva 4D / video	Recopilar cronograma/WBS	Secuencia constructiva	POR HACER	Todos	Por estimar	Insumo minimo para 4D
+Simulacion constructiva 4D / video	Vincular cronograma con elementos del modelo	Modelo + WBS	POR HACER	Todos	Por estimar	Probar factibilidad 4D
+Simulacion constructiva 4D / video	Generar simulacion o sustento de no aplicacion	Video / informe	POR HACER	Todos	Por estimar	Depende de insumos disponibles
+Reporte de interferencias	Definir criterios de clash	Vialidad, HHD, estructuras, senalizacion	POR HACER	Todos	Por estimar	Reglas de revision del federado
+Reporte de interferencias	Ejecutar revision del federado	Modelo consolidado	POR HACER	Todos	Por estimar	Despues de integrar especialidades
+Reporte de interferencias	Emitir reporte y matriz de incidencias	Incidencias BIM	POR HACER	Todos	Por estimar	Especialidad, elemento, ubicacion, criticidad, responsable
+Matriz de levantamiento BIM	Depurar duplicados por especialidad	Observaciones	POR HACER	Fabrizio	Por estimar	Evitar repeticion entre matriz general y especialidades
+Matriz de levantamiento BIM	Clasificar aplica, no aplica o fuera de alcance	Observaciones	POR HACER	Fabrizio	Por estimar	Controlar alcance contractual
+Log de consultas BIM	Convertir brechas en consultas formales	CDE, metrados, planos, 4D, fichas	PENDIENTE	Fabrizio	Por estimar	Elevar dudas cuando falten insumos
+Gestion documental / accesos	Validar accesos y links operativos	Drive, Miro, Sheets, Notion	POR HACER	Fabrizio	Por estimar	Mantener accesos cortos tipo boton
