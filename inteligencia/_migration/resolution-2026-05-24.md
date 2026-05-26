@@ -9,5 +9,8 @@ Los 4 conflictos detectados se resolvieron manteniendo como canonica la version 
 - `i-lanza-training/threads/2026-05-05-contexto-consolidado-sesiones-ilanza.md`
 - `i-lanza-training/threads/2026-05-06-sesion-04-preparacion-ingenieria.md`
 
-Regla posterior: no escribir hilos nuevos en `second-brain/inteligencia`; usar solo `inteligencia/`.
+Regla posterior original: no escribir hilos nuevos en `second-brain/inteligencia`; usar solo `inteligencia/`.
 
+## Superseded - 2026-05-26
+
+Esta regla quedo superada por SkillOps. La raiz canonica vigente es `second-brain/inteligencia/`; `C:\Users\USUARIO\inteligencia` queda como legacy/fallback de lectura o migracion historica.

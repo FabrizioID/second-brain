@@ -24,7 +24,9 @@
 |---|---|---|---|---|
 | AI Construction Summit 2026 | activo | `inteligencia/ai-construction-summit-2026/` | 2026-05-11 | `threads/_index.md` + `memory/tensions.md` |
 | AECODE | activo - Fase 3 | `inteligencia/aecode/` | 2026-05-06 | `threads/_index.md` |
+| GEN+ | activo | `inteligencia/gen-plus/` | 2026-05-21 | `threads/_index.md` |
 | I Lanza Training | activo | `inteligencia/i-lanza-training/` | 2026-05-06 | `threads/_index.md` |
+| INGECONCRETO | activo | `inteligencia/ingeconcreto/` | 2026-05-06 | `threads/_index.md` |
 | Tesis Juan Carlos Arteaga | activo | `inteligencia/tesis-juan-carlos-arteaga/` | 2026-05-06 | `threads/_index.md` |
 
 ## AI Construction Summit 2026
@@ -96,6 +98,40 @@
 - Confirmar estado de entrega de materiales.
 - Confirmar si la sesion 02 ya se ejecuto o sigue pendiente.
 
+## GEN+
+
+**Estado:** activo  
+**Ruta:** `inteligencia/gen-plus/`
+
+### Activos
+
+- Hilo maestro de agentes IA para AEC y presentacion comercial de 35 slides.
+- Genbot inmobiliario documentado: bot WhatsApp con Vision IA, flujo lote/premium, Sheets/Drive/Cloudinary y One Page HTML.
+- Agente /ref ADS para capturar referencias de anuncios desde WhatsApp hacia Sheets/Drive.
+
+### Necesidades
+
+- Verificar estado real del Genbot inmobiliario tras migracion Hostinger/EasyPanel.
+- Cerrar bloqueo de infraestructura WhatsApp/Evolution API si sigue vigente.
+- Validar en produccion el flag de imagen en lote y el flujo premium con API key activa.
+
+## INGECONCRETO
+
+**Estado:** activo  
+**Ruta:** `inteligencia/ingeconcreto/`
+
+### Variables Criticas
+
+- Cliente corporativo GEN+ de ingenieria estructural/concreto.
+- Propuesta activa GEN+_2603_07: training BIM de automatizacion por USD 2,400, 48h, 3 modulos.
+- Certificacion AECODE aparece como valor agregado y posible primer caso B2B corporativo.
+
+### Necesidades
+
+- Confirmar si la propuesta fue aceptada, sigue en negociacion o quedo pausada.
+- Confirmar numero de participantes y fecha de inicio.
+- Documentar respuesta del cliente ante el certificado AECODE.
+
 ## Tesis Juan Carlos Arteaga
 
 **Estado:** activo  
@@ -124,3 +160,11 @@ La agenda 2025 no debe copiarse: debe usarse como baseline operativo. La mejora 
 **[C4] I Lanza -> Trainings AECODE**
 
 El kit de ejercicios y formato full-image de I Lanza es reutilizable para trainings tecnicos, pero debe adaptarse a la audiencia y no copiarse como plantilla fija.
+
+**[C5] INGECONCRETO -> AECODE**
+
+INGECONCRETO puede validar AECODE como certificador B2B corporativo. Si el cliente percibe el certificado como diferencial, se vuelve proof-of-concept para vender certificacion a empresas tecnicas.
+
+**[C6] GEN+ Genbot inmobiliario -> Producto comercial**
+
+El Genbot inmobiliario cruza automatizacion WhatsApp, Vision IA y generacion comercial de fichas/One Page. Puede convertirse en caso demostrable para inmobiliarias si se cierra infraestructura y se limpia el flujo premium.
